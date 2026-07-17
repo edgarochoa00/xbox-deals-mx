@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Xbox Deals MX - Ofertas Premium</title>
+    <meta name="description" content="Las mejores ofertas en juegos de Xbox One y Series X|S por debajo de $500 MXN. ¡Descubre descuentos increíbles!" />
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="app-container">
+      <header class="hero">
+        <div class="hero-content">
+          <h1>Ofertas <span class="text-gradient">Xbox MX</span></h1>
+          <p class="subtitle">Solo títulos para Xbox One y Series X|S a menos de $500 MXN. Precios con un <span class="highlight">26% de descuento adicional</span> exclusivo.</p>
+        </div>
+      </header>
+
+      <main>
+        <div id="games-grid" class="games-grid">
+          <!-- Las tarjetas de juegos se inyectarán aquí mediante JS -->
+        </div>
+        
+        <div id="loading-state" class="loading-state">
+          <div class="spinner"></div>
+          <p>Cargando ofertas...</p>
+        </div>
+        <div id="error-state" class="error-state" style="display: none;">
+          <p>Lo sentimos, no pudimos cargar las ofertas en este momento.</p>
+        </div>
+      </main>
+
+      <footer>
+        <p>Actualizado automáticamente todos los martes a la 1:00 PM (Hora Centro MX).</p>
+      </footer>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

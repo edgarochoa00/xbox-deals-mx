@@ -1,0 +1,3395 @@
+[
+  {
+    "id": "1",
+    "title": "Red Dead Redemption 2: Edición Definitiva",
+    "image": "https://store-images.s-microsoft.com/image/apps.46694.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.f150105c-bb41-4bc6-bd72-2a7c63df9f90?q=90&w=480&h=270",
+    "originalSalePrice": 399.8,
+    "originalFullPrice": 1999,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "2",
+    "title": "Red Dead Redemption 2",
+    "image": "https://store-images.s-microsoft.com/image/apps.46694.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.f150105c-bb41-4bc6-bd72-2a7c63df9f90?q=90&w=480&h=270",
+    "originalSalePrice": 299.75,
+    "originalFullPrice": 1199,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "3",
+    "title": "Cyberpunk 2077",
+    "image": "https://store-images.s-microsoft.com/image/apps.23022.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.be7c9193-46d7-42e9-b555-d0b8921fc4b8?q=90&w=480&h=270",
+    "originalSalePrice": 369,
+    "originalFullPrice": 1230,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "4",
+    "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.182.14542422611289128.2df5f2de-8c5b-4180-adca-60031b66133a.ebf16897-415f-430c-8b57-c4cebc0b424d?q=90&w=480&h=270",
+    "originalSalePrice": 395.67,
+    "originalFullPrice": 1199,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "5",
+    "title": "Halo Infinite",
+    "image": "https://store-images.s-microsoft.com/image/apps.30769.13727851868390641.270e98c5-0c6a-4ce0-81ab-e78c700bf4b5.092f9454-fee6-43b1-94e3-802dd0067d8b?q=90&w=480&h=270",
+    "originalSalePrice": 494.67,
+    "originalFullPrice": 1499,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "6",
+    "title": "The Witcher 3: Wild Hunt – Complete Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.20648.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.54adf0c7-6e6f-4d36-b639-503087c6fab2?q=90&w=480&h=270",
+    "originalSalePrice": 171.8,
+    "originalFullPrice": 859,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "7",
+    "title": "The Witcher 3: Wild Hunt",
+    "image": "https://store-images.s-microsoft.com/image/apps.20648.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.54adf0c7-6e6f-4d36-b639-503087c6fab2?q=90&w=480&h=270",
+    "originalSalePrice": 70,
+    "originalFullPrice": 350,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "8",
+    "title": "EA SPORTS FC™ 26 Edición Estándar para Xbox One y Xbox Series X|S",
+    "image": "https://store-images.s-microsoft.com/image/apps.49113.14329176034964477.4f65ddeb-0c01-471c-87cd-35ccdd3a71b7.4c2f78d6-2bb7-4c7c-85b5-241c89b6b6d0?q=90&w=480&h=270",
+    "originalSalePrice": 97.93,
+    "originalFullPrice": 1399,
+    "discount": "-93%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "9",
+    "title": "EA SPORTS FC™ 26 The World's Game Edition para Xbox One y Xbox Series X|S",
+    "image": "https://store-images.s-microsoft.com/image/apps.49113.14329176034964477.4f65ddeb-0c01-471c-87cd-35ccdd3a71b7.4c2f78d6-2bb7-4c7c-85b5-241c89b6b6d0?q=90&w=480&h=270",
+    "originalSalePrice": 449.75,
+    "originalFullPrice": 1799,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "10",
+    "title": "Hogwarts Legacy: Digital Deluxe Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.48429.13853283465555502.df9a42b7-95ee-4088-89b3-08a50204f8ef.582d51c7-8c7a-4634-a8e6-d53e6740a5e6?q=90&w=480&h=270",
+    "originalSalePrice": 348.75,
+    "originalFullPrice": 1395,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "11",
+    "title": "NBA 2K26 Edición Estándar",
+    "image": "https://store-images.s-microsoft.com/image/apps.50564.14220255605673269.167b0e48-1b10-4ff3-8231-dbaf3fa1ed77.9e4deb1d-859b-4f96-bf05-b9021ea1825a?q=90&w=480&h=270",
+    "originalSalePrice": 139.9,
+    "originalFullPrice": 1399,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "12",
+    "title": "NBA 2K26 x PGA TOUR 2K25 Bundle",
+    "image": "https://store-images.s-microsoft.com/image/apps.50564.14220255605673269.167b0e48-1b10-4ff3-8231-dbaf3fa1ed77.9e4deb1d-859b-4f96-bf05-b9021ea1825a?q=90&w=480&h=270",
+    "originalSalePrice": 499.75,
+    "originalFullPrice": 1999,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "13",
+    "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.4794.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.b156af1e-9796-48af-8d11-3461727280ea?q=90&w=480&h=270",
+    "originalSalePrice": 329.67,
+    "originalFullPrice": 999,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "14",
+    "title": "Red Dead Redemption",
+    "image": "https://store-images.s-microsoft.com/image/apps.12222.14159780775348640.0dff97d0-5988-436b-8a3b-290c87ec1b2c.d2d0c12f-9bca-47ba-8d85-84beeab1fc17?q=90&w=480&h=270",
+    "originalSalePrice": 499.5,
+    "originalFullPrice": 999,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "15",
+    "title": "Sea of Thieves: 2026 Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.1953.14554784103656548.069efce3-9249-4074-a169-183b727043f8.2d796a4d-6b1a-452d-8172-5b6edb68fc3c?q=90&w=480&h=270",
+    "originalSalePrice": 384.65,
+    "originalFullPrice": 1099,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "16",
+    "title": "Sea of Thieves: 2026 Premium Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.1953.14554784103656548.069efce3-9249-4074-a169-183b727043f8.2d796a4d-6b1a-452d-8172-5b6edb68fc3c?q=90&w=480&h=270",
+    "originalSalePrice": 489.65,
+    "originalFullPrice": 1399,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "17",
+    "title": "Call of Duty® Black Ops III: Zombies Chronicles Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 429,
+    "originalFullPrice": 1300,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "18",
+    "title": "Call of Duty®: Infinite Warfare - Ed. Lanzamiento",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 394.35,
+    "originalFullPrice": 1195,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "19",
+    "title": "Call of Duty®: Modern Warfare® II - Lote multigeneración",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 419.7,
+    "originalFullPrice": 1399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "20",
+    "title": "Call of Duty®: Modern Warfare® - Edición Estándar Digital",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 325,
+    "originalFullPrice": 1300,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "21",
+    "title": "Call of Duty®: Modern Warfare® Remastered",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 447,
+    "originalFullPrice": 894,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "22",
+    "title": "Gold Edition de Call of Duty®: Advanced Warfare",
+    "image": "https://store-images.s-microsoft.com/image/apps.51157.65751644357057044.d9e81a24-ac21-470d-8213-ecb3ceec17a3.edd17d80-922a-42cb-90a2-499487ecb73d?q=90&w=480&h=270",
+    "originalSalePrice": 249.75,
+    "originalFullPrice": 999,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "23",
+    "title": "Call of Duty®: WWII - Gold Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 429,
+    "originalFullPrice": 1300,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "24",
+    "title": "Call of Duty®: Black Ops 4",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 429,
+    "originalFullPrice": 1300,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "25",
+    "title": "Call of Duty®: Ghosts",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
+    "originalSalePrice": 249.75,
+    "originalFullPrice": 999,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "26",
+    "title": "Assassin's Creed® Mirage",
+    "image": "https://store-images.s-microsoft.com/image/apps.54416.13997063802651619.ce2fcc13-4f7a-4470-bbf8-0ffe7839f884.ea326d42-29af-48f6-9de2-64d2115d7ae5?q=90&w=480&h=270",
+    "originalSalePrice": 399.6,
+    "originalFullPrice": 999,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "27",
+    "title": "Assassin's Creed Valhalla",
+    "image": "https://store-images.s-microsoft.com/image/apps.51716.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.802f0267-5f00-464e-ac26-a7a901bbb532?q=90&w=480&h=270",
+    "originalSalePrice": 324.75,
+    "originalFullPrice": 1299,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "28",
+    "title": "Assassin's Creed Odyssey",
+    "image": "https://store-images.s-microsoft.com/image/apps.35106.71972716530068101.ccdcadf1-1d2a-49f2-9c37-0b0a27e5a53c.a31a0259-3502-4887-9b7b-289643a3986c?q=90&w=480&h=270",
+    "originalSalePrice": 179.25,
+    "originalFullPrice": 1195,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "29",
+    "title": "Mortal Kombat 11 Ultimate",
+    "image": "https://store-images.s-microsoft.com/image/apps.26182.14189292593912942.341610e6-d1ca-4699-8cb5-bf6e900e0cee.e4fc1e92-8194-46ed-8bca-160fc5ea6c2a?q=90&w=480&h=270",
+    "originalSalePrice": 149.85,
+    "originalFullPrice": 999,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "30",
+    "title": "Crash Bandicoot™ N. Sane Trilogy",
+    "image": "https://store-images.s-microsoft.com/image/apps.26340.65328483881162508.89a95049-a2dc-4b27-8f56-0a4f5a72a393.5ef9bd1f-36a0-4c64-8a40-5a050214736f?q=90&w=480&h=270",
+    "originalSalePrice": 399.6,
+    "originalFullPrice": 999,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "31",
+    "title": "Batman: Arkham Collection",
+    "image": "https://store-images.s-microsoft.com/image/apps.15948.66605680773719506.5b3e4fed-0747-483d-b407-2d6f4da8c3ba.4fa94af3-3306-44a9-a003-ded13a407b13?q=90&w=480&h=270",
+    "originalSalePrice": 232.14,
+    "originalFullPrice": 1547.62,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "32",
+    "title": "Batman: Arkham Knight Premium Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.2426.65975599250604930.d5a546c1-b6d7-4e4e-a800-0d9731605f57.0c9d9cfb-bceb-4ebf-bfbf-d43b4ecaf74b?q=90&w=480&h=270",
+    "originalSalePrice": 178.39,
+    "originalFullPrice": 1189.29,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "33",
+    "title": "STAR WARS Jedi: La Orden caída™",
+    "image": "https://store-images.s-microsoft.com/image/apps.52300.65392999590663672.028b6875-f925-4d40-b3a1-e44db3b4fa32.7bcb3d0f-46fc-43ea-84d1-031bd0817da2?q=90&w=480&h=270",
+    "originalSalePrice": 119.5,
+    "originalFullPrice": 1195,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "34",
+    "title": "STAR WARS Jedi: La Orden caída™ Edición Deluxe",
+    "image": "https://store-images.s-microsoft.com/image/apps.52300.65392999590663672.028b6875-f925-4d40-b3a1-e44db3b4fa32.7bcb3d0f-46fc-43ea-84d1-031bd0817da2?q=90&w=480&h=270",
+    "originalSalePrice": 139.8,
+    "originalFullPrice": 1398,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "35",
+    "title": "STAR WARS Jedi: Survivor™ para Xbox One",
+    "image": "https://store-images.s-microsoft.com/image/apps.62419.14188092651145353.c3919981-fb28-4755-b504-a3b021220351.0a309985-7d9f-40e8-a002-7ece3c5968ae?q=90&w=480&h=270",
+    "originalSalePrice": 224.75,
+    "originalFullPrice": 899,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "36",
+    "title": "Spyro™ Reignited Trilogy",
+    "image": "https://store-images.s-microsoft.com/image/apps.41601.71510837884329922.e091ebfc-ee9a-468a-b6e5-327d0f0d0974.d8d9f483-11a0-4320-9590-d15b281dc2ef?q=90&w=480&h=270",
+    "originalSalePrice": 349.65,
+    "originalFullPrice": 999,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "37",
+    "title": "Mass Effect™ Legendary Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.59262.14254372351363255.ac3906d1-13b6-4af0-a00a-e10c8a92007b.dac28bb8-f830-421f-9e92-08a9db8b19f8?q=90&w=480&h=270",
+    "originalSalePrice": 139.8,
+    "originalFullPrice": 1398,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "38",
+    "title": "Resident Evil Village",
+    "image": "https://store-images.s-microsoft.com/image/apps.21384.13946458263695761.43457946-df8c-4dc7-96ef-7ffc79bd1869.a6c11e9d-1e6c-4bb7-b227-964151ca1a24?q=90&w=480&h=270",
+    "originalSalePrice": 198.75,
+    "originalFullPrice": 795,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "39",
+    "title": "RESIDENT EVIL 2",
+    "image": "https://store-images.s-microsoft.com/image/apps.38246.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.9197ae9d-181d-44ff-a98d-7f64086f509e?q=90&w=480&h=270",
+    "originalSalePrice": 173.3,
+    "originalFullPrice": 866.51,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "40",
+    "title": "RESIDENT EVIL 3",
+    "image": "https://store-images.s-microsoft.com/image/apps.4880.71880157815410720.768ba6e5-793f-45af-8f98-a14bc261e1c1.5634c02b-d53f-43e1-b132-de624b29bac2?q=90&w=480&h=270",
+    "originalSalePrice": 189.08,
+    "originalFullPrice": 945.4,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "41",
+    "title": "RESIDENT EVIL 7 biohazard",
+    "image": "https://store-images.s-microsoft.com/image/apps.35598.71433286839923669.1250138a-286b-4b3f-8367-3d201ae45ae9.3965d168-2feb-4c98-bcc8-d8483d53dac6?q=90&w=480&h=270",
+    "originalSalePrice": 175.38,
+    "originalFullPrice": 438.47,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "42",
+    "title": "BioShock: The Collection",
+    "image": "https://store-images.s-microsoft.com/image/apps.7830.65463610408817762.16ac64e5-a1b8-49fa-87ad-cbc5902fcb27.713bb9d3-7869-4773-9cc6-7a08e783fad5?q=90&w=480&h=270",
+    "originalSalePrice": 241.59,
+    "originalFullPrice": 1207.96,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "43",
+    "title": "Mafia Trilogy",
+    "image": "https://store-images.s-microsoft.com/image/apps.12666.13657758376442469.fbfdcc53-3ba1-4c36-8a67-abddb778c84e.cb09cf40-931e-4331-9707-f0c724420590?q=90&w=480&h=270",
+    "originalSalePrice": 299.99,
+    "originalFullPrice": 1499.99,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "44",
+    "title": "Borderlands 3",
+    "image": "https://store-images.s-microsoft.com/image/apps.14887.66416288418246547.8db04ed4-6710-424c-b2c7-fc1b8f89e9a2.3be35e0e-7332-4d2c-85f8-746cc5209df4?q=90&w=480&h=270",
+    "originalSalePrice": 114.6,
+    "originalFullPrice": 1146,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "45",
+    "title": "Borderlands 3: Super Deluxe Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.44874.70395538434650318.3a5d6dda-7f4f-41d2-b4d3-d91eb6b55430.198c8387-8b8a-4e7c-aadf-7bed70348d67?q=90&w=480&h=270",
+    "originalSalePrice": 229.65,
+    "originalFullPrice": 1531,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "46",
+    "title": "It Takes Two - Versión digital",
+    "image": "https://store-images.s-microsoft.com/image/apps.4452.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.1164a903-9308-49c2-a477-3b887cffb341?q=90&w=480&h=270",
+    "originalSalePrice": 268.2,
+    "originalFullPrice": 894,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "47",
+    "title": "Battlefield™ 2042 para Xbox One y Xbox Series X|S",
+    "image": "https://store-images.s-microsoft.com/image/apps.17520.14160631264571868.4e2a2194-8ea4-4266-ba92-577ebe02fd6b.8020f65f-1343-4956-8f0a-a0b7e7ffeb37?q=90&w=480&h=270",
+    "originalSalePrice": 159.9,
+    "originalFullPrice": 1599,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "48",
+    "title": "Battlefield™ 2042 para Xbox One",
+    "image": "https://store-images.s-microsoft.com/image/apps.17520.14160631264571868.4e2a2194-8ea4-4266-ba92-577ebe02fd6b.8020f65f-1343-4956-8f0a-a0b7e7ffeb37?q=90&w=480&h=270",
+    "originalSalePrice": 139.9,
+    "originalFullPrice": 1399,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "49",
+    "title": "Battlefield™ 2042 Elite Edition Oro para Xbox One y Xbox Series X|S",
+    "image": "https://store-images.s-microsoft.com/image/apps.26362.13948820153582427.90f2ba94-88bf-4884-a2af-f09a2c471807.0101e09c-c94d-4956-9ab2-52c7cf826644?q=90&w=480&h=270",
+    "originalSalePrice": 229.9,
+    "originalFullPrice": 2299,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "50",
+    "title": "Battlefield™ V Definitive Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.38812.13990191027854846.0c760294-e5d0-447a-84a2-8b9c4c3cfe9b.e2b246b8-6211-4f92-a8ff-c805a9cbadfc?q=90&w=480&h=270",
+    "originalSalePrice": 119.9,
+    "originalFullPrice": 1199,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "51",
+    "title": "Battlefield™ V Standard Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.242.14474759442990181.2963530c-5009-4260-976b-b5f35b0963d5.bb55addf-5949-4a17-b511-66086ca10411?q=90&w=480&h=270",
+    "originalSalePrice": 89.4,
+    "originalFullPrice": 894,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "52",
+    "title": "Battlefield™ 1 Revolution",
+    "image": "https://store-images.s-microsoft.com/image/apps.31303.68596255437297164.99e6fb73-cd5e-440f-90c2-d8d2eb40a69d.75cf618d-ddf1-4d76-b15d-d54c7e969e45?q=90&w=480&h=270",
+    "originalSalePrice": 83.8,
+    "originalFullPrice": 838,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "53",
+    "title": "Battlefield 4™ Edición Premium",
+    "image": "https://store-images.s-microsoft.com/image/apps.8372.67042979280693273.43c77eda-5631-4533-8def-815848101ca4.e59a9ae5-7b60-450a-b2ba-5dedf9c4d41c?q=90&w=480&h=270",
+    "originalSalePrice": 83.8,
+    "originalFullPrice": 838,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "54",
+    "title": "Little Nightmares III",
+    "image": "https://store-images.s-microsoft.com/image/apps.15648.14285497232739517.66735cf9-03a6-498c-af60-8fd94cf357c0.95c0a105-3000-4458-b3bd-1e69eb0b094c?q=90&w=480&h=270",
+    "originalSalePrice": 409.5,
+    "originalFullPrice": 819,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "55",
+    "title": "DRAGON BALL FighterZ",
+    "image": "https://store-images.s-microsoft.com/image/apps.53484.14473450919754177.36bfcef2-add7-4018-80cf-3072fa4ee7a5.bd6a8765-85fc-42a6-a9ca-164089b3affa?q=90&w=480&h=270",
+    "originalSalePrice": 101.9,
+    "originalFullPrice": 1019,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "56",
+    "title": "DRAGON BALL Z: KAKAROT",
+    "image": "https://store-images.s-microsoft.com/image/apps.8368.70698037221387097.3b2c0f5d-eb4e-4cd8-8075-77e281650e1e.cefffd35-9058-43b0-b9c3-fe11dc70c602?q=90&w=480&h=270",
+    "originalSalePrice": 286.3,
+    "originalFullPrice": 409,
+    "discount": "-30%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "57",
+    "title": "DRAGON BALL XENOVERSE 2",
+    "image": "https://store-images.s-microsoft.com/image/apps.62319.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.7561068e-671a-45c8-8ec0-f01c0a1ad1d1?q=90&w=480&h=270",
+    "originalSalePrice": 84.75,
+    "originalFullPrice": 339,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "58",
+    "title": "TEKKEN 7",
+    "image": "https://store-images.s-microsoft.com/image/apps.31561.69766501749678274.825421a3-6e90-4af8-a717-6375f4b1f802.af0f71d9-cc35-43a2-a82a-6317ec9c2437?q=90&w=480&h=270",
+    "originalSalePrice": 219.4,
+    "originalFullPrice": 1097,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "59",
+    "title": "Mortal Kombat XL",
+    "image": "https://store-images.s-microsoft.com/image/apps.61833.65690499810545026.aa1d3860-b757-4828-bb9e-87e0858403fe.11043ba1-fff5-4f15-8066-a4004a935c7e?q=90&w=480&h=270",
+    "originalSalePrice": 178.57,
+    "originalFullPrice": 714.29,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "60",
+    "title": "Injustice™ 2 - Legendary Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.4855.68686812827552802.8be2e1b9-aae3-44fb-baa1-94ec02ae1ea8.edac720c-19a5-4d14-87b2-624bb24050e1?q=90&w=480&h=270",
+    "originalSalePrice": 153.92,
+    "originalFullPrice": 1539.29,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "61",
+    "title": "Need for Speed™ Heat Edición Deluxe",
+    "image": "https://store-images.s-microsoft.com/image/apps.46671.69435230515002378.477c7a96-5d17-45ec-95c2-a2739146b68d.f84cd83e-a0cc-42f8-87cb-4c8b0d664eb5?q=90&w=480&h=270",
+    "originalSalePrice": 74.8,
+    "originalFullPrice": 1496,
+    "discount": "-95%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "62",
+    "title": "Need for Speed™ Heat",
+    "image": "https://store-images.s-microsoft.com/image/apps.46671.69435230515002378.477c7a96-5d17-45ec-95c2-a2739146b68d.f84cd83e-a0cc-42f8-87cb-4c8b0d664eb5?q=90&w=480&h=270",
+    "originalSalePrice": 65,
+    "originalFullPrice": 1300,
+    "discount": "-95%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "63",
+    "title": "FARCRY 6",
+    "image": "https://store-images.s-microsoft.com/image/apps.182.14542422611289128.2df5f2de-8c5b-4180-adca-60031b66133a.ebf16897-415f-430c-8b57-c4cebc0b424d?q=90&w=480&h=270",
+    "originalSalePrice": 324.75,
+    "originalFullPrice": 1299,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "64",
+    "title": "Far Cry® 5",
+    "image": "https://store-images.s-microsoft.com/image/apps.48705.69582963086497758.e1cff2e3-ddf1-42bf-930d-f380ad63f100.1eb992fd-461c-4edd-9e5e-b3fbb7a41044?q=90&w=480&h=270",
+    "originalSalePrice": 180.3,
+    "originalFullPrice": 1202,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "65",
+    "title": "Titanfall™ 2 Ultimate Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.27365.70066375305131012.7e5d8c08-6bdc-42fc-8afd-c1e176cb829d.6a3c4a5d-cbc7-4933-a19a-1f4bdb621cef?q=90&w=480&h=270",
+    "originalSalePrice": 95.25,
+    "originalFullPrice": 635,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "66",
+    "title": "Titanfall™ 2",
+    "image": "https://store-images.s-microsoft.com/image/apps.33826.65123785197113223.0191c6ed-9ff7-488b-b8cc-c338d3886461.43c5a5b6-584f-4b73-96a3-48c6648c4784?q=90&w=480&h=270",
+    "originalSalePrice": 87.8,
+    "originalFullPrice": 439,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "67",
+    "title": "Destiny 2: La colección",
+    "image": "https://store-images.s-microsoft.com/image/apps.40261.14305167874906469.b8c647cc-1bec-461a-9916-d67d91bdd382.a6b402f4-c29c-4d82-b43a-591d1f019935?q=90&w=480&h=270",
+    "originalSalePrice": 384.65,
+    "originalFullPrice": 1099,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "68",
+    "title": "Fallout 4: Game of the Year Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.13683.65812291288120258.78db0a4c-6279-4de9-b89c-0e62cd3d55c7.4a149c21-c471-49db-8b56-24fc14623c36?q=90&w=480&h=270",
+    "originalSalePrice": 319.6,
+    "originalFullPrice": 799,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "69",
+    "title": "Atomic Heart",
+    "image": "https://store-images.s-microsoft.com/image/apps.24332.14612697019000138.539d22c7-f29f-45cb-90a2-8cd62b2154e8.16d3f3b7-c748-4e94-a963-70a253a80c57?q=90&w=480&h=270",
+    "originalSalePrice": 419.7,
+    "originalFullPrice": 1399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "70",
+    "title": "Dying Light 2: Stay Human - Reloaded Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.41963.68444863531073822.6a10e9ea-cb58-4133-b842-d7fe20a16da4.83bef37d-9dd0-4dc0-8d90-8a786e205752?q=90&w=480&h=270",
+    "originalSalePrice": 211.8,
+    "originalFullPrice": 1059,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "71",
+    "title": "Dead Island 2",
+    "image": "https://store-images.s-microsoft.com/image/apps.30727.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.b7f213b7-a653-4c90-9f0e-d0c9e13a23c9?q=90&w=480&h=270",
+    "originalSalePrice": 146.85,
+    "originalFullPrice": 979,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "72",
+    "title": "Watch Dogs®2",
+    "image": "https://store-images.s-microsoft.com/image/apps.35546.14418284765683612.cab9d437-9efa-4a89-bdc3-750072e856c3.3b70e9fd-3896-4cf8-96a1-6db77cbabebb?q=90&w=480&h=270",
+    "originalSalePrice": 99.9,
+    "originalFullPrice": 999,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "73",
+    "title": "Watch Dogs®2 - Edición Gold",
+    "image": "https://store-images.s-microsoft.com/image/apps.35546.14418284765683612.cab9d437-9efa-4a89-bdc3-750072e856c3.3b70e9fd-3896-4cf8-96a1-6db77cbabebb?q=90&w=480&h=270",
+    "originalSalePrice": 159.9,
+    "originalFullPrice": 1599,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "74",
+    "title": "Watch Dogs®: Legion",
+    "image": "https://store-images.s-microsoft.com/image/apps.35546.14418284765683612.cab9d437-9efa-4a89-bdc3-750072e856c3.3b70e9fd-3896-4cf8-96a1-6db77cbabebb?q=90&w=480&h=270",
+    "originalSalePrice": 184.35,
+    "originalFullPrice": 1229,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "75",
+    "title": "Tom Clancy's Rainbow Six Siege: Elite Edition",
+    "image": "https://store-images.s-microsoft.com/image/apps.16291.14593360489322669.3f8fc95e-5cef-4f57-a490-46a34c350153.adc23ae4-f517-48a9-964b-fbf5aace7982?q=90&w=480&h=270",
+    "originalSalePrice": 199.5,
+    "originalFullPrice": 399,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "76",
+    "title": "No Man's Sky",
+    "image": "https://store-images.s-microsoft.com/image/apps.6972.68818099466568894.391e0700-449d-4430-a634-7339176aa70e.6f6fe001-0d83-4624-923c-e5b5d00836c2?q=90&w=480&h=270",
+    "originalSalePrice": 423.6,
+    "originalFullPrice": 1059,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "77",
+    "title": "Stray",
+    "image": "https://store-images.s-microsoft.com/image/apps.25919.13754210357812593.c3c8aa7a-e063-438f-8dc1-02c5d4abfd95.6a73bdaa-9873-40f5-ae0b-fe820161c3d9?q=90&w=480&h=270",
+    "originalSalePrice": 264.5,
+    "originalFullPrice": 529,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "78",
+    "title": "STAR WARS™: Squadrons",
+    "image": "https://store-images.s-microsoft.com/image/apps.49564.71371953440216666.508e0708-a814-4f11-8420-5f620fd8ce09.6a0698b5-ba6b-4f01-8338-015ad9537a91?q=90&w=480&h=270",
+    "originalSalePrice": 89.4,
+    "originalFullPrice": 894,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "79",
+    "title": "STAR WARS™ Battlefront™ II",
+    "image": "https://store-images.s-microsoft.com/image/apps.57852.64256825846959382.44b5bc43-437a-4414-83ca-b41ba9e7764a.6845daab-0518-41a7-b14a-525d8d79f571?q=90&w=480&h=270",
+    "originalSalePrice": 114.75,
+    "originalFullPrice": 459,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "80",
+    "title": "STAR WARS™ Battlefront™ II: Edición de Celebración",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.5,
+    "originalFullPrice": 838,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "81",
+    "title": "PAQUETE TRIPLE DE EA STAR WARS™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 359.4,
+    "originalFullPrice": 1797,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "82",
+    "title": "Minecraft Legends",
+    "image": "/placeholder.png",
+    "originalSalePrice": 439.6,
+    "originalFullPrice": 1099,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "83",
+    "title": "Minecraft Dungeons edición definitiva",
+    "image": "/placeholder.png",
+    "originalSalePrice": 354.5,
+    "originalFullPrice": 709,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "84",
+    "title": "Marvel's Guardians of the Galaxy",
+    "image": "/placeholder.png",
+    "originalSalePrice": 187.35,
+    "originalFullPrice": 1249,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "85",
+    "title": "Halo 5: Guardians",
+    "image": "/placeholder.png",
+    "originalSalePrice": 137.25,
+    "originalFullPrice": 549,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "86",
+    "title": "Ori and the Will of the Wisps",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.75,
+    "originalFullPrice": 799,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "87",
+    "title": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+    "image": "/placeholder.png",
+    "originalSalePrice": 387.6,
+    "originalFullPrice": 969,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "88",
+    "title": "KINGDOM HEARTS Ⅲ",
+    "image": "/placeholder.png",
+    "originalSalePrice": 450,
+    "originalFullPrice": 1125,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "89",
+    "title": "FINAL FANTASY VII",
+    "image": "/placeholder.png",
+    "originalSalePrice": 131.6,
+    "originalFullPrice": 329,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "90",
+    "title": "FINAL FANTASY IX",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.7,
+    "originalFullPrice": 399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "91",
+    "title": "FINAL FANTASY VIII Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 151.6,
+    "originalFullPrice": 379,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "92",
+    "title": "FINAL FANTASY X/X-2 HD Remaster",
+    "image": "/placeholder.png",
+    "originalSalePrice": 438.8,
+    "originalFullPrice": 1097,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "93",
+    "title": "FINAL FANTASY XV ROYAL EDITION",
+    "image": "/placeholder.png",
+    "originalSalePrice": 267.6,
+    "originalFullPrice": 669,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "94",
+    "title": "FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 420,
+    "originalFullPrice": 1200,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "95",
+    "title": "NieR:Automata™ BECOME AS GODS Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 304.4,
+    "originalFullPrice": 761,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "96",
+    "title": "Devil May Cry 5 + Vergil",
+    "image": "/placeholder.png",
+    "originalSalePrice": 103.35,
+    "originalFullPrice": 689.03,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "97",
+    "title": "Devil May Cry HD Collection",
+    "image": "/placeholder.png",
+    "originalSalePrice": 99.35,
+    "originalFullPrice": 662.35,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "98",
+    "title": "Devil May Cry HD Collection & 4SE Bundle",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.28,
+    "originalFullPrice": 996.43,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "99",
+    "title": "A Way Out",
+    "image": "/placeholder.png",
+    "originalSalePrice": 180,
+    "originalFullPrice": 600,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "100",
+    "title": "Assassin's Creed Unity",
+    "image": "/placeholder.png",
+    "originalSalePrice": 124.75,
+    "originalFullPrice": 499,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "101",
+    "title": "Assassin's Creed® The Ezio Collection",
+    "image": "/placeholder.png",
+    "originalSalePrice": 239.7,
+    "originalFullPrice": 799,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "102",
+    "title": "Assassin's Creed® III Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.5,
+    "originalFullPrice": 698,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "103",
+    "title": "Assassin's Creed Origins",
+    "image": "/placeholder.png",
+    "originalSalePrice": 180.3,
+    "originalFullPrice": 1202,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "104",
+    "title": "Assassin's Creed® Rogue Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 180,
+    "originalFullPrice": 600,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "105",
+    "title": "Assassin's Creed Syndicate",
+    "image": "/placeholder.png",
+    "originalSalePrice": 149.7,
+    "originalFullPrice": 499,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "106",
+    "title": "Assassin's Creed Chronicles – Trilogy",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.7,
+    "originalFullPrice": 399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "107",
+    "title": "Far Cry Primal - Apex Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 95.85,
+    "originalFullPrice": 639,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "108",
+    "title": "Far Cry 3 Classic Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 120,
+    "originalFullPrice": 600,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "109",
+    "title": "Far Cry® 4",
+    "image": "/placeholder.png",
+    "originalSalePrice": 99.75,
+    "originalFullPrice": 399,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "110",
+    "title": "FAR CRY PRIMAL",
+    "image": "/placeholder.png",
+    "originalSalePrice": 80.85,
+    "originalFullPrice": 539,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "111",
+    "title": "FAR CRY 4 GOLD EDITION",
+    "image": "/placeholder.png",
+    "originalSalePrice": 162.25,
+    "originalFullPrice": 649,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "112",
+    "title": "Tomb Raider: Definitive Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 71.85,
+    "originalFullPrice": 479,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "113",
+    "title": "Rise of the Tomb Raider: 20 Year Celebration",
+    "image": "/placeholder.png",
+    "originalSalePrice": 88.35,
+    "originalFullPrice": 589,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "114",
+    "title": "LEGO® Star Wars™: La Saga De Skywalker Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 239.8,
+    "originalFullPrice": 1199,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "115",
+    "title": "LEGO® Star Wars™: El despertar de la fuerza Edición Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 120,
+    "originalFullPrice": 600,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "116",
+    "title": "Little Nightmares Complete Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 134.75,
+    "originalFullPrice": 539,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "117",
+    "title": "ACE COMBAT™ 7: SKIES UNKNOWN",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.7,
+    "originalFullPrice": 1398,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "118",
+    "title": "SOULCALIBUR VI",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.14,
+    "originalFullPrice": 1394.31,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "119",
+    "title": "A Plague Tale: Innocence",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.8,
+    "originalFullPrice": 799,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "120",
+    "title": "Subnautica",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.5,
+    "originalFullPrice": 698,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "121",
+    "title": "Subnautica: Below Zero",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.5,
+    "originalFullPrice": 698,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "122",
+    "title": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.75,
+    "originalFullPrice": 359,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "123",
+    "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+    "image": "/placeholder.png",
+    "originalSalePrice": 407.6,
+    "originalFullPrice": 1019,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "124",
+    "title": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO",
+    "image": "/placeholder.png",
+    "originalSalePrice": 339.6,
+    "originalFullPrice": 849,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "125",
+    "title": "ONE PIECE World Seeker",
+    "image": "/placeholder.png",
+    "originalSalePrice": 150.79,
+    "originalFullPrice": 1507.99,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "126",
+    "title": "ONE PIECE: PIRATE WARRIORS 4",
+    "image": "/placeholder.png",
+    "originalSalePrice": 182.25,
+    "originalFullPrice": 729,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "127",
+    "title": "One Piece: Burning Blood",
+    "image": "/placeholder.png",
+    "originalSalePrice": 127.25,
+    "originalFullPrice": 1272.51,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "128",
+    "title": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "image": "/placeholder.png",
+    "originalSalePrice": 219.99,
+    "originalFullPrice": 1099.99,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "129",
+    "title": "Jujutsu Kaisen Cursed Clash",
+    "image": "/placeholder.png",
+    "originalSalePrice": 254.75,
+    "originalFullPrice": 1019,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "130",
+    "title": "SCARLET NEXUS",
+    "image": "/placeholder.png",
+    "originalSalePrice": 180,
+    "originalFullPrice": 1200,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "131",
+    "title": "The Dark Pictures Anthology: House of Ashes",
+    "image": "/placeholder.png",
+    "originalSalePrice": 248.81,
+    "originalFullPrice": 753.99,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "132",
+    "title": "The Dark Pictures Anthology: The Devil in Me",
+    "image": "/placeholder.png",
+    "originalSalePrice": 331.6,
+    "originalFullPrice": 829,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "133",
+    "title": "The Dark Pictures Anthology: Man Of Medan",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.5,
+    "originalFullPrice": 419,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "134",
+    "title": "The Dark Pictures Anthology: Little Hope",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.5,
+    "originalFullPrice": 419,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "135",
+    "title": "Prince of Persia™: The Lost Crown - Complete Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 239.7,
+    "originalFullPrice": 799,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "136",
+    "title": "Prince of Persia The Lost Crown",
+    "image": "/placeholder.png",
+    "originalSalePrice": 179.7,
+    "originalFullPrice": 599,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "137",
+    "title": "Lote: South Park™: La Vara de la Verdad™ + Retaguardia en Peligro™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 179.85,
+    "originalFullPrice": 1199,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "138",
+    "title": "South Park™: La Vara de la Verdad™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 120,
+    "originalFullPrice": 600,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "139",
+    "title": "Burnout™ Paradise Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 65.85,
+    "originalFullPrice": 439,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "140",
+    "title": "L.A. Noire",
+    "image": "/placeholder.png",
+    "originalSalePrice": 499.5,
+    "originalFullPrice": 999,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "141",
+    "title": "Prey",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.8,
+    "originalFullPrice": 599,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "142",
+    "title": "Immortals Fenyx Rising™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.8,
+    "originalFullPrice": 799,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "143",
+    "title": "Prime Evil Collection de Diablo®",
+    "image": "/placeholder.png",
+    "originalSalePrice": 395.67,
+    "originalFullPrice": 1199,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "144",
+    "title": "Overcooked! 2 - Gourmet Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 117.25,
+    "originalFullPrice": 469,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "145",
+    "title": "Overcooked! 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 74.99,
+    "originalFullPrice": 299.99,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "146",
+    "title": "Overcooked: Gourmet Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 64.2,
+    "originalFullPrice": 321,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "147",
+    "title": "Slay The Spire",
+    "image": "/placeholder.png",
+    "originalSalePrice": 109.75,
+    "originalFullPrice": 439,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "148",
+    "title": "Outer Wilds",
+    "image": "/placeholder.png",
+    "originalSalePrice": 263.4,
+    "originalFullPrice": 439,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "149",
+    "title": "Metro Saga Bundle",
+    "image": "/placeholder.png",
+    "originalSalePrice": 173.85,
+    "originalFullPrice": 1159,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "150",
+    "title": "Metro Exodus Gold Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 110.7,
+    "originalFullPrice": 738,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "151",
+    "title": "Metro Redux Bundle",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "152",
+    "title": "Mad Max",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.5,
+    "originalFullPrice": 698,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "153",
+    "title": "FOR HONOR - Standard Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.85,
+    "originalFullPrice": 599,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "154",
+    "title": "FOR HONOR - Gold Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 179.85,
+    "originalFullPrice": 1199,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "155",
+    "title": "Sleeping Dogs™ Definitive Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.4,
+    "originalFullPrice": 796,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "156",
+    "title": "Yakuza Kiwami",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.4,
+    "originalFullPrice": 349,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "157",
+    "title": "The Quarry para Xbox One",
+    "image": "/placeholder.png",
+    "originalSalePrice": 139.9,
+    "originalFullPrice": 1399,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "158",
+    "title": "La Tierra Media™: Sombras de Guerra™ - Edición Definitiva",
+    "image": "/placeholder.png",
+    "originalSalePrice": 154.64,
+    "originalFullPrice": 1546.43,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "159",
+    "title": "La Tierra Media™: Sombras de Mordor™ - Edición Game of the Year",
+    "image": "/placeholder.png",
+    "originalSalePrice": 225.25,
+    "originalFullPrice": 901,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "160",
+    "title": "State of Decay 2: Juggernaut Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.75,
+    "originalFullPrice": 799,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "161",
+    "title": "Kingdom Come: Deliverance",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.8,
+    "originalFullPrice": 599,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "162",
+    "title": "Dragon Age™: Inquisition - Edición Juego del año",
+    "image": "/placeholder.png",
+    "originalSalePrice": 182.25,
+    "originalFullPrice": 729,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "163",
+    "title": "Edición de lujo de Dragon Age™: Inquisition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 92.25,
+    "originalFullPrice": 369,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "164",
+    "title": "Deus Ex: Mankind Divided™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.85,
+    "originalFullPrice": 599,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "165",
+    "title": "Age of Empires II: Definitive Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 122.15,
+    "originalFullPrice": 349,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "166",
+    "title": "Age of Empires IV: Edición de Aniversario",
+    "image": "/placeholder.png",
+    "originalSalePrice": 213.99,
+    "originalFullPrice": 427.99,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "167",
+    "title": "Crysis Remastered Trilogy",
+    "image": "/placeholder.png",
+    "originalSalePrice": 439.5,
+    "originalFullPrice": 879,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "168",
+    "title": "Crash™ Team Racing Nitro-Fueled - Edición Nitros Oxide",
+    "image": "/placeholder.png",
+    "originalSalePrice": 455,
+    "originalFullPrice": 1300,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "169",
+    "title": "Crash™ Team Racing Nitro-Fueled",
+    "image": "/placeholder.png",
+    "originalSalePrice": 349.65,
+    "originalFullPrice": 999,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "170",
+    "title": "Life is Strange 2: Temporada completa",
+    "image": "/placeholder.png",
+    "originalSalePrice": 120,
+    "originalFullPrice": 600,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "171",
+    "title": "XCOM® 2 Collection",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.75,
+    "originalFullPrice": 799,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "172",
+    "title": "Sid Meier's Civilization VI",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.8,
+    "originalFullPrice": 599,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "173",
+    "title": "Sonic Origins",
+    "image": "/placeholder.png",
+    "originalSalePrice": 152.7,
+    "originalFullPrice": 509,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "174",
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "image": "/placeholder.png",
+    "originalSalePrice": 175.6,
+    "originalFullPrice": 439,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "175",
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "image": "/placeholder.png",
+    "originalSalePrice": 399.6,
+    "originalFullPrice": 999,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "176",
+    "title": "DayZ",
+    "image": "/placeholder.png",
+    "originalSalePrice": 436.05,
+    "originalFullPrice": 969,
+    "discount": "-55%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "177",
+    "title": "Resident Evil 5",
+    "image": "/placeholder.png",
+    "originalSalePrice": 101.49,
+    "originalFullPrice": 405.99,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "178",
+    "title": "Resident Evil 6",
+    "image": "/placeholder.png",
+    "originalSalePrice": 101.49,
+    "originalFullPrice": 405.99,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "179",
+    "title": "Resident Evil",
+    "image": "/placeholder.png",
+    "originalSalePrice": 95.4,
+    "originalFullPrice": 381.63,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "180",
+    "title": "Resident Evil 0",
+    "image": "/placeholder.png",
+    "originalSalePrice": 95.4,
+    "originalFullPrice": 381.63,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "181",
+    "title": "Edición de lujo de Resident Evil Revelations 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 86.25,
+    "originalFullPrice": 345,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "182",
+    "title": "Paquete Deluxe de Need for Speed™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 109.4,
+    "originalFullPrice": 547,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "183",
+    "title": "Need for Speed™ Hot Pursuit Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 178.8,
+    "originalFullPrice": 894,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "184",
+    "title": "Need for Speed™ Payback",
+    "image": "/placeholder.png",
+    "originalSalePrice": 190.5,
+    "originalFullPrice": 635,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "185",
+    "title": "Need for Speed™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 131.7,
+    "originalFullPrice": 439,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "186",
+    "title": "Need for Speed™ Payback - Deluxe Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 251.4,
+    "originalFullPrice": 838,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "187",
+    "title": "Need for Speed™ Rivals",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.7,
+    "originalFullPrice": 399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "188",
+    "title": "Back 4 Blood: Edición Ultimate",
+    "image": "/placeholder.png",
+    "originalSalePrice": 249.9,
+    "originalFullPrice": 2499,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "189",
+    "title": "Borderlands Legendary Collection",
+    "image": "/placeholder.png",
+    "originalSalePrice": 249.95,
+    "originalFullPrice": 1249.75,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "190",
+    "title": "Borderlands: Game of the Year Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 191.07,
+    "originalFullPrice": 579,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "191",
+    "title": "Saints Row IV: Re-Elected & Gat out of Hell",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "192",
+    "title": "Saints Row",
+    "image": "/placeholder.png",
+    "originalSalePrice": 129.75,
+    "originalFullPrice": 519,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "193",
+    "title": "Tom Clancy's The Division 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 149.75,
+    "originalFullPrice": 599,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "194",
+    "title": "Tom Clancy's The Division - Definitive Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.8,
+    "originalFullPrice": 999,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "195",
+    "title": "Tom Clancy's The Division",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.8,
+    "originalFullPrice": 599,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "196",
+    "title": "The Walking Dead: The Telltale Definitive Series",
+    "image": "/placeholder.png",
+    "originalSalePrice": 254.9,
+    "originalFullPrice": 1019.63,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "197",
+    "title": "Unpacking",
+    "image": "/placeholder.png",
+    "originalSalePrice": 139.6,
+    "originalFullPrice": 349,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "198",
+    "title": "Colección LEGO® Marvel",
+    "image": "/placeholder.png",
+    "originalSalePrice": 195.89,
+    "originalFullPrice": 1305.95,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "199",
+    "title": "LEGO® Jurassic World™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 166.19,
+    "originalFullPrice": 830.95,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "200",
+    "title": "LEGO Marvel Super Heroes",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.5,
+    "originalFullPrice": 698,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "201",
+    "title": "LEGO® DC Super-Villains Edición Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 166.42,
+    "originalFullPrice": 1664.29,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "202",
+    "title": "LEGO® CITY Undercover",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.2,
+    "originalFullPrice": 796,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "203",
+    "title": "LEGO® Los Increíbles",
+    "image": "/placeholder.png",
+    "originalSalePrice": 130.59,
+    "originalFullPrice": 1305.95,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "204",
+    "title": "LEGO® Batman™ 3: Más allá de Gotham Edición Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 93.8,
+    "originalFullPrice": 469,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "205",
+    "title": "LEGO® Worlds",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.2,
+    "originalFullPrice": 796,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "206",
+    "title": "The LEGO® NINJAGO® Movie Video Game",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.4,
+    "originalFullPrice": 894,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "207",
+    "title": "Edición de lujo de Los Vengadores de LEGO® Marvel",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.2,
+    "originalFullPrice": 796,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "208",
+    "title": "LEGO® Marvel Super Heroes 2 Edición Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.52,
+    "originalFullPrice": 797.62,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "209",
+    "title": "LEGO® Party!",
+    "image": "/placeholder.png",
+    "originalSalePrice": 419.99,
+    "originalFullPrice": 599.99,
+    "discount": "-30%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "210",
+    "title": "The LEGO® Movie 2 - Videogame",
+    "image": "/placeholder.png",
+    "originalSalePrice": 134.1,
+    "originalFullPrice": 894,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "211",
+    "title": "Riders Republic™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.85,
+    "originalFullPrice": 799,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "212",
+    "title": "Edición Deluxe de Riders Republic",
+    "image": "/placeholder.png",
+    "originalSalePrice": 179.85,
+    "originalFullPrice": 1199,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "213",
+    "title": "Terraria",
+    "image": "/placeholder.png",
+    "originalSalePrice": 124.5,
+    "originalFullPrice": 249,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "214",
+    "title": "Wreckfest",
+    "image": "/placeholder.png",
+    "originalSalePrice": 158.7,
+    "originalFullPrice": 529,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "215",
+    "title": "SnowRunner",
+    "image": "/placeholder.png",
+    "originalSalePrice": 339.6,
+    "originalFullPrice": 849,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "216",
+    "title": "Slime Rancher",
+    "image": "/placeholder.png",
+    "originalSalePrice": 57.75,
+    "originalFullPrice": 231,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "217",
+    "title": "Slime Rancher Rainbow Bundle",
+    "image": "/placeholder.png",
+    "originalSalePrice": 399.5,
+    "originalFullPrice": 799,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "218",
+    "title": "Risk of Rain 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 100,
+    "originalFullPrice": 400,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "219",
+    "title": "Plants vs. Zombies™ Garden Warfare 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.7,
+    "originalFullPrice": 399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "220",
+    "title": "Plants vs. Zombies™ Garden Warfare 2: Edición Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 180,
+    "originalFullPrice": 600,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "221",
+    "title": "Plants vs. Zombies Garden Warfare",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.7,
+    "originalFullPrice": 399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "222",
+    "title": "Plants vs. Zombies™: La Batalla de Neighborville",
+    "image": "/placeholder.png",
+    "originalSalePrice": 147.6,
+    "originalFullPrice": 369,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "223",
+    "title": "Plants vs. Zombies™: La Batalla de Neighborville Deluxe Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 164.7,
+    "originalFullPrice": 549,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "224",
+    "title": "Worms W.M.D",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.8,
+    "originalFullPrice": 449,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "225",
+    "title": "Worms Battlegrounds",
+    "image": "/placeholder.png",
+    "originalSalePrice": 65.8,
+    "originalFullPrice": 329,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "226",
+    "title": "Streets of Rage 4",
+    "image": "/placeholder.png",
+    "originalSalePrice": 109.75,
+    "originalFullPrice": 439,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "227",
+    "title": "Just Cause 4: Reloaded",
+    "image": "/placeholder.png",
+    "originalSalePrice": 141.6,
+    "originalFullPrice": 944,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "228",
+    "title": "Just Cause 3",
+    "image": "/placeholder.png",
+    "originalSalePrice": 56.7,
+    "originalFullPrice": 378,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "229",
+    "title": "Just Cause 3: XXL Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 85.65,
+    "originalFullPrice": 571,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "230",
+    "title": "The Crew® 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.8,
+    "originalFullPrice": 599,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "231",
+    "title": "The Crew® 2 Special Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 159.8,
+    "originalFullPrice": 799,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "232",
+    "title": "DiRT Rally 2.0",
+    "image": "/placeholder.png",
+    "originalSalePrice": 264.5,
+    "originalFullPrice": 529,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "233",
+    "title": "DiRT Rally 2.0 - Game of the Year Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 351.6,
+    "originalFullPrice": 879,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "234",
+    "title": "DIRT 5 Year One Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 238.35,
+    "originalFullPrice": 1589,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "235",
+    "title": "DIRT 5",
+    "image": "/placeholder.png",
+    "originalSalePrice": 309.75,
+    "originalFullPrice": 1239,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "236",
+    "title": "World of Outlaws: Dirt Racing 24 Gold Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 425.4,
+    "originalFullPrice": 709,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "237",
+    "title": "World of Outlaws: Dirt Racing 24",
+    "image": "/placeholder.png",
+    "originalSalePrice": 317.4,
+    "originalFullPrice": 529,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "238",
+    "title": "CarX Drift Racing Online",
+    "image": "/placeholder.png",
+    "originalSalePrice": 63.8,
+    "originalFullPrice": 319,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "239",
+    "title": "Wobbly Life",
+    "image": "/placeholder.png",
+    "originalSalePrice": 356.85,
+    "originalFullPrice": 549,
+    "discount": "-35%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "240",
+    "title": "Castle Crashers Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 115.41,
+    "originalFullPrice": 230.83,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "241",
+    "title": "Stellaris: Console Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 177.25,
+    "originalFullPrice": 709,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "242",
+    "title": "The Texas Chain Saw Massacre",
+    "image": "/placeholder.png",
+    "originalSalePrice": 67.25,
+    "originalFullPrice": 269,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "243",
+    "title": "The Texas Chain Saw Massacre - Content Pass Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 234.5,
+    "originalFullPrice": 469,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "244",
+    "title": "TopSpin 2K25 Edición Digital Cross-Gen",
+    "image": "/placeholder.png",
+    "originalSalePrice": 299.25,
+    "originalFullPrice": 399,
+    "discount": "-25%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "245",
+    "title": "Kerbal Space Program Enhanced Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 150,
+    "originalFullPrice": 750,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "246",
+    "title": "Kerbal Space Program Enhanced Edition Complete",
+    "image": "/placeholder.png",
+    "originalSalePrice": 219.78,
+    "originalFullPrice": 1098.9,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "247",
+    "title": "Ni no Kuni II: El Renacer de un Reino - Prince's Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 233.85,
+    "originalFullPrice": 1559,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "248",
+    "title": "Ni no Kuni Wrath of the White Witch™ Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 207.8,
+    "originalFullPrice": 1039,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "249",
+    "title": "Tales of Symphonia Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.85,
+    "originalFullPrice": 799,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "250",
+    "title": "Tales of Vesperia™: Definitive Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 254.5,
+    "originalFullPrice": 1272.51,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "251",
+    "title": "Tales of Graces f Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 394.5,
+    "originalFullPrice": 789,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "252",
+    "title": "Warhammer 40,000: Boltgun - Forges of Corruption Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 167.6,
+    "originalFullPrice": 419,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "253",
+    "title": "Tiny Tina's Wonderlands: Chaotic Great Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 274.35,
+    "originalFullPrice": 1829,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "254",
+    "title": "Tiny Tina's Wonderlands: Next-Level Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 142.2,
+    "originalFullPrice": 1422,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "255",
+    "title": "Tiny Tina's Wonderlands",
+    "image": "/placeholder.png",
+    "originalSalePrice": 121.9,
+    "originalFullPrice": 1219,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "256",
+    "title": "GreedFall",
+    "image": "/placeholder.png",
+    "originalSalePrice": 121.35,
+    "originalFullPrice": 809,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "257",
+    "title": "Vampyr",
+    "image": "/placeholder.png",
+    "originalSalePrice": 127.35,
+    "originalFullPrice": 849,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "258",
+    "title": "Evil West",
+    "image": "/placeholder.png",
+    "originalSalePrice": 219.8,
+    "originalFullPrice": 1099,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "259",
+    "title": "Aliens: Dark Descent",
+    "image": "/placeholder.png",
+    "originalSalePrice": 215.7,
+    "originalFullPrice": 719,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "260",
+    "title": "Aliens: Fireteam Elite",
+    "image": "/placeholder.png",
+    "originalSalePrice": 152.25,
+    "originalFullPrice": 609,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "261",
+    "title": "MudRunner",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.85,
+    "originalFullPrice": 599,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "262",
+    "title": "Expeditions: A MudRunner Game",
+    "image": "/placeholder.png",
+    "originalSalePrice": 343.6,
+    "originalFullPrice": 859,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "263",
+    "title": "Mirror's Edge™ Catalyst",
+    "image": "/placeholder.png",
+    "originalSalePrice": 79.8,
+    "originalFullPrice": 399,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "264",
+    "title": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 134.5,
+    "originalFullPrice": 269,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "265",
+    "title": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 134.5,
+    "originalFullPrice": 269,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "266",
+    "title": "Doki Doki Literature Club Plus!",
+    "image": "/placeholder.png",
+    "originalSalePrice": 234.02,
+    "originalFullPrice": 312.03,
+    "discount": "-25%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "267",
+    "title": "MY HERO ONE'S JUSTICE 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 169.75,
+    "originalFullPrice": 679,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "268",
+    "title": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+    "image": "/placeholder.png",
+    "originalSalePrice": 139.19,
+    "originalFullPrice": 1391.99,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "269",
+    "title": "SD GUNDAM BATTLE ALLIANCE",
+    "image": "/placeholder.png",
+    "originalSalePrice": 360,
+    "originalFullPrice": 1200,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "270",
+    "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+    "image": "/placeholder.png",
+    "originalSalePrice": 134.85,
+    "originalFullPrice": 899,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "271",
+    "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 247.35,
+    "originalFullPrice": 1649,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "272",
+    "title": "Stranded Deep",
+    "image": "/placeholder.png",
+    "originalSalePrice": 161.93,
+    "originalFullPrice": 404.83,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "273",
+    "title": "Insurgency: Sandstorm",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.75,
+    "originalFullPrice": 799,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "274",
+    "title": "WATCH_DOGS™ COMPLETE EDITION",
+    "image": "/placeholder.png",
+    "originalSalePrice": 149.85,
+    "originalFullPrice": 999,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "275",
+    "title": "WATCH_DOGS™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 79.8,
+    "originalFullPrice": 399,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "276",
+    "title": "ULTIMATE MARVEL VS. CAPCOM 3",
+    "image": "/placeholder.png",
+    "originalSalePrice": 150.56,
+    "originalFullPrice": 752.83,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "277",
+    "title": "Harry Potter: Campeones de quidditch Edición Deluxe",
+    "image": "/placeholder.png",
+    "originalSalePrice": 74.85,
+    "originalFullPrice": 499,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "278",
+    "title": "Monster Jam™ Showdown - Big Air Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 259.8,
+    "originalFullPrice": 1299,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "279",
+    "title": "Monster Jam™ Showdown",
+    "image": "/placeholder.png",
+    "originalSalePrice": 179.8,
+    "originalFullPrice": 899,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "280",
+    "title": "Unravel Two",
+    "image": "/placeholder.png",
+    "originalSalePrice": 65.85,
+    "originalFullPrice": 439,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "281",
+    "title": "Paquete Yarny de Unravel",
+    "image": "/placeholder.png",
+    "originalSalePrice": 127,
+    "originalFullPrice": 635,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "282",
+    "title": "Unravel",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "283",
+    "title": "Disney Epic Mickey: Rebrushed",
+    "image": "/placeholder.png",
+    "originalSalePrice": 283.6,
+    "originalFullPrice": 709,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "284",
+    "title": "Choo-Choo Charles",
+    "image": "/placeholder.png",
+    "originalSalePrice": 69.8,
+    "originalFullPrice": 349,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "285",
+    "title": "World War Z",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.57,
+    "originalFullPrice": 529,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "286",
+    "title": "Lote Prototype® Biohazard",
+    "image": "/placeholder.png",
+    "originalSalePrice": 238.8,
+    "originalFullPrice": 796,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "287",
+    "title": "Gunfire Reborn",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.5,
+    "originalFullPrice": 399,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "288",
+    "title": "OUTRIDERS",
+    "image": "/placeholder.png",
+    "originalSalePrice": 140,
+    "originalFullPrice": 350,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "289",
+    "title": "OUTRIDERS COMPLETE EDITION",
+    "image": "/placeholder.png",
+    "originalSalePrice": 250,
+    "originalFullPrice": 500,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "290",
+    "title": "Chorus",
+    "image": "/placeholder.png",
+    "originalSalePrice": 84.4,
+    "originalFullPrice": 422,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "291",
+    "title": "Rugby 25",
+    "image": "/placeholder.png",
+    "originalSalePrice": 423.6,
+    "originalFullPrice": 1059,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "292",
+    "title": "Dead Rising 3: Apocalypse Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 161.93,
+    "originalFullPrice": 809.67,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "293",
+    "title": "DREDGE: Complete Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 249.99,
+    "originalFullPrice": 499.99,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "294",
+    "title": "SIGNALIS",
+    "image": "/placeholder.png",
+    "originalSalePrice": 279.3,
+    "originalFullPrice": 399,
+    "discount": "-30%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "295",
+    "title": "Fobia - St. Dinfna Hotel",
+    "image": "/placeholder.png",
+    "originalSalePrice": 52.9,
+    "originalFullPrice": 529,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "296",
+    "title": "Chants of Sennaar",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.5,
+    "originalFullPrice": 349,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "297",
+    "title": "Bugsnax",
+    "image": "/placeholder.png",
+    "originalSalePrice": 168.04,
+    "originalFullPrice": 509.23,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "298",
+    "title": "What Remains of Edith Finch",
+    "image": "/placeholder.png",
+    "originalSalePrice": 62.25,
+    "originalFullPrice": 249,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "299",
+    "title": "UNO™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 60,
+    "originalFullPrice": 150,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "300",
+    "title": "Ancestors: The Humankind Odyssey",
+    "image": "/placeholder.png",
+    "originalSalePrice": 153.6,
+    "originalFullPrice": 768,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "301",
+    "title": "Dreamfall Chapters",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "302",
+    "title": "Construction Simulator",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.57,
+    "originalFullPrice": 529,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "303",
+    "title": "Police Simulator: Patrol Officers",
+    "image": "/placeholder.png",
+    "originalSalePrice": 174.57,
+    "originalFullPrice": 529,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "304",
+    "title": "Zoo Tycoon: Ultimate Animal Collection",
+    "image": "/placeholder.png",
+    "originalSalePrice": 164.67,
+    "originalFullPrice": 499,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "305",
+    "title": "Yu-Gi-Oh! Legacy of the Duelist",
+    "image": "/placeholder.png",
+    "originalSalePrice": 62.25,
+    "originalFullPrice": 249,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "306",
+    "title": "Little Kitty, Big City",
+    "image": "/placeholder.png",
+    "originalSalePrice": 263.4,
+    "originalFullPrice": 439,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "307",
+    "title": "Core Keeper",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.4,
+    "originalFullPrice": 349,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "308",
+    "title": "WRC 10 FIA World Rally Championship",
+    "image": "/placeholder.png",
+    "originalSalePrice": 141.8,
+    "originalFullPrice": 709,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "309",
+    "title": "WRC Generations Fully Loaded Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 175.8,
+    "originalFullPrice": 879,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "310",
+    "title": "Ravenswatch - Legendary Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 212.7,
+    "originalFullPrice": 709,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "311",
+    "title": "GigaBash",
+    "image": "/placeholder.png",
+    "originalSalePrice": 181.65,
+    "originalFullPrice": 519,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "312",
+    "title": "Trackmania® Turbo",
+    "image": "/placeholder.png",
+    "originalSalePrice": 129.8,
+    "originalFullPrice": 649,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "313",
+    "title": "Godfall: Edición Ultimate",
+    "image": "/placeholder.png",
+    "originalSalePrice": 314.65,
+    "originalFullPrice": 899,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "314",
+    "title": "Just Shapes & Beats",
+    "image": "/placeholder.png",
+    "originalSalePrice": 257.4,
+    "originalFullPrice": 429,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "315",
+    "title": "DYSMANTLE",
+    "image": "/placeholder.png",
+    "originalSalePrice": 122.15,
+    "originalFullPrice": 349,
+    "discount": "-65%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "316",
+    "title": "S.T.A.L.K.E.R.: Trilogía Legends of the Zone",
+    "image": "/placeholder.png",
+    "originalSalePrice": 428.13,
+    "originalFullPrice": 639,
+    "discount": "-33%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "317",
+    "title": "TRIVIAL PURSUIT Live! 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.5,
+    "originalFullPrice": 399,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "318",
+    "title": "Hotel Renovator",
+    "image": "/placeholder.png",
+    "originalSalePrice": 128.7,
+    "originalFullPrice": 429,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "319",
+    "title": "A Little to the Left",
+    "image": "/placeholder.png",
+    "originalSalePrice": 99.6,
+    "originalFullPrice": 249,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "320",
+    "title": "The Jackbox Party Pack 7",
+    "image": "/placeholder.png",
+    "originalSalePrice": 343.85,
+    "originalFullPrice": 529,
+    "discount": "-35%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "321",
+    "title": "The Jackbox Party Pack 11",
+    "image": "/placeholder.png",
+    "originalSalePrice": 251.24,
+    "originalFullPrice": 334.99,
+    "discount": "-25%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "322",
+    "title": "Get Even",
+    "image": "/placeholder.png",
+    "originalSalePrice": 99.35,
+    "originalFullPrice": 662.35,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "323",
+    "title": "Thief",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "324",
+    "title": "PAW Patrol World - La Patrulla Canina",
+    "image": "/placeholder.png",
+    "originalSalePrice": 212.7,
+    "originalFullPrice": 709,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "325",
+    "title": "Paw Patrol La poderosa patrulla CANINA salva Bahía Aventura.",
+    "image": "/placeholder.png",
+    "originalSalePrice": 211.6,
+    "originalFullPrice": 529,
+    "discount": "-60%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "326",
+    "title": "PAW Patrol™ Rescue Wheels™: Championship",
+    "image": "/placeholder.png",
+    "originalSalePrice": 354.5,
+    "originalFullPrice": 709,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "327",
+    "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+    "image": "/placeholder.png",
+    "originalSalePrice": 254.7,
+    "originalFullPrice": 849,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "328",
+    "title": "The Oregon Trail",
+    "image": "/placeholder.png",
+    "originalSalePrice": 237.27,
+    "originalFullPrice": 719,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "329",
+    "title": "We Love Katamari REROLL+ Royal Reverie",
+    "image": "/placeholder.png",
+    "originalSalePrice": 134.75,
+    "originalFullPrice": 539,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "330",
+    "title": "Heavenly Bodies",
+    "image": "/placeholder.png",
+    "originalSalePrice": 109.75,
+    "originalFullPrice": 439,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "331",
+    "title": "Wasteland Remastered",
+    "image": "/placeholder.png",
+    "originalSalePrice": 99.75,
+    "originalFullPrice": 399,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "332",
+    "title": "The Escapists 2 - Game of the Year Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.8,
+    "originalFullPrice": 449,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "333",
+    "title": "The Escapists 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 62.25,
+    "originalFullPrice": 249,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "334",
+    "title": "Under The Waves",
+    "image": "/placeholder.png",
+    "originalSalePrice": 105.8,
+    "originalFullPrice": 529,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "335",
+    "title": "Morbid: The Lords of Ire",
+    "image": "/placeholder.png",
+    "originalSalePrice": 105.8,
+    "originalFullPrice": 529,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "336",
+    "title": "Unknown 9: Awakening",
+    "image": "/placeholder.png",
+    "originalSalePrice": 189.5,
+    "originalFullPrice": 379,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "337",
+    "title": "Dolmen",
+    "image": "/placeholder.png",
+    "originalSalePrice": 50.85,
+    "originalFullPrice": 339,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "338",
+    "title": "The Lord of the Rings: Gollum™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 52.9,
+    "originalFullPrice": 529,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "339",
+    "title": "The Council - Complete Season",
+    "image": "/placeholder.png",
+    "originalSalePrice": 74.75,
+    "originalFullPrice": 299,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "340",
+    "title": "My Time at Portia Deluxe Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 99.75,
+    "originalFullPrice": 399,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "341",
+    "title": "Ice Age Una Aventura de Bellotas",
+    "image": "/placeholder.png",
+    "originalSalePrice": 158.7,
+    "originalFullPrice": 529,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "342",
+    "title": "Make Way",
+    "image": "/placeholder.png",
+    "originalSalePrice": 62.25,
+    "originalFullPrice": 249,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "343",
+    "title": "Hora de aventuras: Piratas del Enchiridión",
+    "image": "/placeholder.png",
+    "originalSalePrice": 131.7,
+    "originalFullPrice": 439,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "344",
+    "title": "theHunter: Call of the Wild™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "345",
+    "title": "Call of the Wild: The Angler™",
+    "image": "/placeholder.png",
+    "originalSalePrice": 105.8,
+    "originalFullPrice": 529,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "346",
+    "title": "RUSH: A Disney • PIXAR Adventure",
+    "image": "/placeholder.png",
+    "originalSalePrice": 164.67,
+    "originalFullPrice": 499,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "347",
+    "title": "Edición Ballpark de Super Mega Baseball™ 4",
+    "image": "/placeholder.png",
+    "originalSalePrice": 139.9,
+    "originalFullPrice": 1399,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "348",
+    "title": "Super Mega Baseball™ 4",
+    "image": "/placeholder.png",
+    "originalSalePrice": 119.9,
+    "originalFullPrice": 1199,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "349",
+    "title": "Kona II: Brume",
+    "image": "/placeholder.png",
+    "originalSalePrice": 105.8,
+    "originalFullPrice": 529,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "350",
+    "title": "11-11 Memories Retold",
+    "image": "/placeholder.png",
+    "originalSalePrice": 104.39,
+    "originalFullPrice": 695.99,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "351",
+    "title": "NAMCO MUSEUM® ARCHIVES Vol 1",
+    "image": "/placeholder.png",
+    "originalSalePrice": 109.9,
+    "originalFullPrice": 439.63,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "352",
+    "title": "NAMCO MUSEUM® ARCHIVES Vol 2",
+    "image": "/placeholder.png",
+    "originalSalePrice": 109.9,
+    "originalFullPrice": 439.63,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "353",
+    "title": "Slay the Princess - The Pristine Cut",
+    "image": "/placeholder.png",
+    "originalSalePrice": 223.3,
+    "originalFullPrice": 319,
+    "discount": "-30%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "354",
+    "title": "My Little Pony: Misterio en los Altos de Céfiro",
+    "image": "/placeholder.png",
+    "originalSalePrice": 212.7,
+    "originalFullPrice": 709,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "355",
+    "title": "Peppa Pig: Un mundo de aventuras",
+    "image": "/placeholder.png",
+    "originalSalePrice": 212.7,
+    "originalFullPrice": 709,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "356",
+    "title": "eFootball™: Mourinho Edition 2026",
+    "image": "/placeholder.png",
+    "originalSalePrice": 75.2,
+    "originalFullPrice": 94,
+    "discount": "-20%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "357",
+    "title": "STUFFED",
+    "image": "/placeholder.png",
+    "originalSalePrice": 144.5,
+    "originalFullPrice": 289,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "358",
+    "title": "Spiritfall",
+    "image": "/placeholder.png",
+    "originalSalePrice": 75.57,
+    "originalFullPrice": 229,
+    "discount": "-67%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "359",
+    "title": "Necropolis",
+    "image": "/placeholder.png",
+    "originalSalePrice": 89.6,
+    "originalFullPrice": 597.39,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "360",
+    "title": "Extinction: Deluxe Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 70.9,
+    "originalFullPrice": 709,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "361",
+    "title": "Car Driving School Simulator",
+    "image": "/placeholder.png",
+    "originalSalePrice": 146.3,
+    "originalFullPrice": 209,
+    "discount": "-30%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "362",
+    "title": "60 Seconds! Reatomized",
+    "image": "/placeholder.png",
+    "originalSalePrice": 88.5,
+    "originalFullPrice": 177,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "363",
+    "title": "SOS OPS!",
+    "image": "/placeholder.png",
+    "originalSalePrice": 88.5,
+    "originalFullPrice": 177,
+    "discount": "-50%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "364",
+    "title": "Edición del paquete Cross-gen de STAR WARS™ Jedi",
+    "image": "/placeholder.png",
+    "originalSalePrice": 299.8,
+    "originalFullPrice": 1499,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "365",
+    "title": "Mass Effect™: Andromeda – Deluxe Recruit Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 83.8,
+    "originalFullPrice": 838,
+    "discount": "-90%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "366",
+    "title": "Call of Cthulhu",
+    "image": "/placeholder.png",
+    "originalSalePrice": 59.85,
+    "originalFullPrice": 399,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "367",
+    "title": "Tom Clancy's Rainbow Six® Extraction",
+    "image": "/placeholder.png",
+    "originalSalePrice": 199.75,
+    "originalFullPrice": 799,
+    "discount": "-75%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "368",
+    "title": "Mass Effect™: Andromeda – Standard Recruit Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 55.35,
+    "originalFullPrice": 369,
+    "discount": "-85%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "369",
+    "title": "GRID Legends: Deluxe Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 359.8,
+    "originalFullPrice": 1799,
+    "discount": "-80%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "370",
+    "title": "Sokocat: Castaway",
+    "image": "/placeholder.png",
+    "originalSalePrice": 71.2,
+    "originalFullPrice": 89,
+    "discount": "-20%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "371",
+    "title": "Quest Arrest",
+    "image": "/placeholder.png",
+    "originalSalePrice": 71.2,
+    "originalFullPrice": 89,
+    "discount": "-20%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "372",
+    "title": "Cuboy Adventure",
+    "image": "/placeholder.png",
+    "originalSalePrice": 71.2,
+    "originalFullPrice": 89,
+    "discount": "-20%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "373",
+    "title": "In Fair Spirits",
+    "image": "/placeholder.png",
+    "originalSalePrice": 125.6,
+    "originalFullPrice": 157,
+    "discount": "-20%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "374",
+    "title": "Pawbay: Cat Chaos",
+    "image": "/placeholder.png",
+    "originalSalePrice": 303.2,
+    "originalFullPrice": 379,
+    "discount": "-20%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "375",
+    "title": "DEEEER Simulator: Tu juego de ciervos cotidiano estándar",
+    "image": "/placeholder.png",
+    "originalSalePrice": 209.4,
+    "originalFullPrice": 349,
+    "discount": "-40%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "376",
+    "title": "Paquete Hazelight",
+    "image": "/placeholder.png",
+    "originalSalePrice": 419.7,
+    "originalFullPrice": 1399,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  },
+  {
+    "id": "377",
+    "title": "TIEBREAK+ Ace Edition",
+    "image": "/placeholder.png",
+    "originalSalePrice": 317.7,
+    "originalFullPrice": 1059,
+    "discount": "-70%",
+    "platform": "Xbox One, Series X|S"
+  }
+]
