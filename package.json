@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "scrape": "node scripts/scraper.js"
+    "scrape": "node scripts/sync_real_xbox_deals.cjs"
   },
   "devDependencies": {
     "vite": "^8.1.0"
