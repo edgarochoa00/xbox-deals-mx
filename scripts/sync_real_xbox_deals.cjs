@@ -5,6 +5,17 @@ const { execSync } = require('child_process');
 
 const OUTPUT_FILE = path.resolve(__dirname, '../public/data/games.json');
 
+const RETRO_360_KEYWORDS = [
+  '360', 'frontlines', 'alive', 'sacred 2', 'sacred 3', 'risen (2009)', 'risen 2', 
+  'full spectrum warrior', 'baja: edge of control', 'fallout 3', 'fallout: new vegas',
+  'gears of war 2', 'gears of war 3', 'gears of war: judgment', 'skate 2', 'skate 3',
+  'fable ii', 'fable iii', 'bioshock 2', 'mass effect 2', 'mass effect 3', 'dead space 2',
+  'left 4 dead', 'portal 2', 'call of duty 4', 'call of duty: black ops', 'modern warfare 2',
+  'banjo-kazooie', 'banjo-tooie', 'perfect dark', 'kameo', 'crackdown 2', 'blue dragon',
+  'lost odyssey', 'dragon age: origins', 'dragon age ii', 'spec ops: the line', 'max payne 3',
+  'alice: madness returns', 'dante\'s inferno', 'asura\'s wrath', 'fight night'
+];
+
 const DLC_KEYWORDS = [
   'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
   'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
@@ -55,9 +66,9 @@ async function syncLiveDeals() {
       }
     }
 
-    console.log('🔍 Extrayendo exclusivamente JUEGOS BASE DIGITALES REGALABLES...');
+    console.log('🔍 Extrayendo exclusivamente JUEGOS BASE DIGITALES NATIVOS de Xbox One / Series X|S...');
 
-    const liveDeals = await page.evaluate((dlcKeywords) => {
+    const liveDeals = await page.evaluate((dlcKeywords, retroKeywords) => {
       const items = [];
       const seenTitles = new Set();
       
@@ -72,25 +83,19 @@ async function syncLiveDeals() {
         const titleLower = title.toLowerCase();
         const fullTextLower = fullText.toLowerCase();
 
-        // REGLA 1: EXCLUIR XBOX 360 Y XBOX ORIGINAL
-        if (
-          titleLower.includes('xbox 360') || 
-          fullTextLower.includes('xbox 360') ||
-          titleLower.includes('xbox original') ||
-          titleLower.includes(' 360')
-        ) {
-          return;
+        // REGLA 1: EXCLUIR XBOX 360 Y XBOX ORIGINAL (COMPLETAMENTE)
+        for (const rKw of retroKeywords) {
+          if (titleLower.includes(rKw) || fullTextLower.includes(rKw)) {
+            return;
+          }
         }
 
         // REGLA 2: EXCLUIR DLCs, COMPLEMENTOS, PASES, MONEDAS
-        let isDlc = false;
         for (const kw of dlcKeywords) {
           if (titleLower.includes(kw) || fullTextLower.includes(kw)) {
-            isDlc = true;
-            break;
+            return;
           }
         }
-        if (isDlc) return;
 
         // Extraer Imagen
         const imgEl = card.querySelector('img');
@@ -139,9 +144,9 @@ async function syncLiveDeals() {
       });
 
       return items;
-    }, DLC_KEYWORDS);
+    }, DLC_KEYWORDS, RETRO_360_KEYWORDS);
 
-    console.log(`✅ ¡Éxito! Obtenidos ${liveDeals.length} JUEGOS BASE DIGITALES REGALABLES para Xbox One / Series X|S ($50 - $500 MXN).`);
+    console.log(`✅ ¡Éxito! Obtenidos ${liveDeals.length} JUEGOS BASE NATIVOS de Xbox One / Series X|S sin Xbox 360.`);
 
     if (liveDeals.length > 0) {
       fs.writeFileSync(OUTPUT_FILE, JSON.stringify(liveDeals, null, 2), 'utf-8');

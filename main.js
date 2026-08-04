@@ -165,8 +165,21 @@ document.addEventListener('DOMContentLoaded', () => {
           // REGLA 1: Rango de precio $50 a $500 MXN
           if (salePrice < 50 || salePrice > 500) return false;
 
-          // REGLA 3: No Xbox 360 / No Xbox Original
-          if (titleLower.includes('xbox 360') || platformLower.includes('360') || titleLower.includes('xbox original') || titleLower.includes(' 360')) return false;
+          // REGLA 3: No Xbox 360 / No Xbox Original (Absolutamente ninguno)
+          const retro360Keywords = [
+            '360', 'frontlines', 'alive', 'sacred 2', 'sacred 3', 'risen (2009)', 'risen 2', 
+            'full spectrum warrior', 'baja: edge of control', 'fallout 3', 'fallout: new vegas',
+            'gears of war 2', 'gears of war 3', 'gears of war: judgment', 'skate 2', 'skate 3',
+            'fable ii', 'fable iii', 'bioshock 2', 'mass effect 2', 'mass effect 3', 'dead space 2',
+            'left 4 dead', 'portal 2', 'call of duty 4', 'call of duty: black ops', 'modern warfare 2',
+            'banjo-kazooie', 'banjo-tooie', 'perfect dark', 'kameo', 'crackdown 2', 'blue dragon',
+            'lost odyssey', 'dragon age: origins', 'dragon age ii', 'spec ops: the line', 'max payne 3',
+            'alice: madness returns', 'dante\'s inferno', 'asura\'s wrath', 'fight night'
+          ];
+
+          for (const rKw of retro360Keywords) {
+            if (titleLower.includes(rKw) || platformLower.includes(rKw)) return false;
+          }
 
           // REGLA 4: Solo juegos base (No DLCs, no complementos, no monedas, no pases, no skins)
           const dlcKeywords = [
