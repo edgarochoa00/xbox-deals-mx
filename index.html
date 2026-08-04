@@ -4,40 +4,74 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Xbox Deals MX - Ofertas Premium</title>
-    <meta name="description" content="Las mejores ofertas en juegos de Xbox One y Series X|S por debajo de $500 MXN. ¡Descubre descuentos increíbles!" />
-    <!-- Google Fonts: Inter -->
+    <title>Xbox Deals MX | Las Mejores Ofertas de Xbox</title>
+    <meta name="description" content="Catálogo exclusivo de juegos para Xbox One y Series X|S a menos de $500 MXN con 26% de descuento adicional." />
+    <!-- Google Fonts: Plus Jakarta Sans -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   </head>
   <body>
+    <div class="background-glow"></div>
+    
     <div class="app-container">
       <header class="hero">
-        <div class="hero-content">
-          <h1>Ofertas <span class="text-gradient">Xbox MX</span></h1>
-          <p class="subtitle">Solo títulos para Xbox One y Series X|S a menos de $500 MXN. Precios con un <span class="highlight">26% de descuento adicional</span> exclusivo.</p>
+        <div class="brand-badge">
+          <span class="pulse-dot"></span>
+          <span>Actualizado en tiempo real</span>
+        </div>
+        <h1 class="hero-title">
+          Xbox Deals <span class="text-gradient">Mexico</span>
+        </h1>
+        <p class="subtitle">
+          Títulos para Xbox One y Series X|S por debajo de <strong class="highlight">$500 MXN</strong> con un <span class="badge-extra-inline">26% OFF EXTRA</span> aplicado automáticamente.
+        </p>
+
+        <!-- Stats & Controls -->
+        <div class="controls-wrapper">
+          <div class="search-box">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="search-input" placeholder="Buscar juego..." autocomplete="off">
+            <span class="clear-search" id="clear-search" style="display:none;">&times;</span>
+          </div>
+
+          <div class="filter-pills">
+            <button class="pill active" data-filter="all">Todos (<span id="total-count">0</span>)</button>
+            <button class="pill" data-filter="under100">Bajo $100 MXN</button>
+            <button class="pill" data-filter="under250">Bajo $250 MXN</button>
+            <button class="pill" data-filter="topDiscounts">Mayor Descuento</button>
+          </div>
         </div>
       </header>
 
       <main>
         <div id="games-grid" class="games-grid">
-          <!-- Las tarjetas de juegos se inyectarán aquí mediante JS -->
+          <!-- Las tarjetas de juegos se inyectarán aquí -->
         </div>
         
         <div id="loading-state" class="loading-state">
           <div class="spinner"></div>
-          <p>Cargando ofertas...</p>
+          <p>Cargando catálogo de ofertas...</p>
         </div>
+
         <div id="error-state" class="error-state" style="display: none;">
           <p>Lo sentimos, no pudimos cargar las ofertas en este momento.</p>
+        </div>
+
+        <div id="empty-state" class="empty-state" style="display: none;">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <p>No se encontraron juegos que coincidan con tu búsqueda.</p>
         </div>
       </main>
 
       <footer>
-        <p>Actualizado automáticamente todos los martes a la 1:00 PM (Hora Centro MX).</p>
+        <div class="footer-content">
+          <p>🎮 Xbox Deals MX • Precios expresados en Pesos Mexicanos (MXN)</p>
+          <p class="footer-sub">No afiliado oficialmente con Microsoft Corporation.</p>
+        </div>
       </footer>
     </div>
+
     <script type="module" src="/main.js"></script>
   </body>
 </html>
