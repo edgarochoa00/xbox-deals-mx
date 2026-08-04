@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Red Dead Redemption 2: Edición Definitiva",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.46694.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.f150105c-bb41-4bc6-bd72-2a7c63df9f90?q=90&w=480&h=270",
     "originalSalePrice": 399.8,
     "originalFullPrice": 1999,
     "discount": "-80%",
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "title": "Red Dead Redemption 2",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.46694.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.f150105c-bb41-4bc6-bd72-2a7c63df9f90?q=90&w=480&h=270",
     "originalSalePrice": 299.75,
     "originalFullPrice": 1199,
     "discount": "-75%",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "title": "Cyberpunk 2077",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.23022.63407868131364914.bcaa868c-407e-42c2-baeb-48a3c9f29b54.be7c9193-46d7-42e9-b555-d0b8921fc4b8?q=90&w=480&h=270",
     "originalSalePrice": 369,
     "originalFullPrice": 1230,
     "discount": "-70%",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "title": "Grand Theft Auto V (Xbox One y Xbox Series X|S)",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.7814.68565266983380288.0f5ef871-88c0-45f7-b108-6aacbc041fcf.b7e42789-b2bf-4b60-bf0a-f891f2f04226?q=90&w=480&h=270",
     "originalSalePrice": 399.5,
     "originalFullPrice": 799,
     "discount": "-50%",
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "title": "Grand Theft Auto V Enhanced (PC)",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.7814.68565266983380288.0f5ef871-88c0-45f7-b108-6aacbc041fcf.b7e42789-b2bf-4b60-bf0a-f891f2f04226?q=90&w=480&h=270",
     "originalSalePrice": 299.5,
     "originalFullPrice": 599,
     "discount": "-50%",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.41323.13733243493197803.a3412f95-9af3-40d3-b286-9282abd1d7a8.f5e16de0-9778-417b-a644-877be3227990?q=90&w=480&h=270",
     "originalSalePrice": 395.67,
     "originalFullPrice": 1199,
     "discount": "-67%",
@@ -56,7 +56,7 @@
   {
     "id": "7",
     "title": "Halo Infinite",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.30769.13727851868390641.270e98c5-0c6a-4ce0-81ab-e78c700bf4b5.092f9454-fee6-43b1-94e3-802dd0067d8b?q=90&w=480&h=270",
     "originalSalePrice": 494.67,
     "originalFullPrice": 1499,
     "discount": "-67%",
@@ -65,7 +65,7 @@
   {
     "id": "8",
     "title": "The Witcher 3: Wild Hunt – Complete Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.20648.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.54adf0c7-6e6f-4d36-b639-503087c6fab2?q=90&w=480&h=270",
     "originalSalePrice": 171.8,
     "originalFullPrice": 859,
     "discount": "-80%",
@@ -74,7 +74,7 @@
   {
     "id": "9",
     "title": "The Witcher 3: Wild Hunt",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.20648.69531514236615003.534d4f71-03cb-4592-929a-b00a7de28b58.54adf0c7-6e6f-4d36-b639-503087c6fab2?q=90&w=480&h=270",
     "originalSalePrice": 70,
     "originalFullPrice": 350,
     "discount": "-80%",
@@ -83,7 +83,7 @@
   {
     "id": "10",
     "title": "EA SPORTS FC™ 26 Edición Estándar para Xbox One y Xbox Series X|S",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.49113.14329176034964477.4f65ddeb-0c01-471c-87cd-35ccdd3a71b7.4c2f78d6-2bb7-4c7c-85b5-241c89b6b6d0?q=90&w=480&h=270",
     "originalSalePrice": 97.93,
     "originalFullPrice": 1399,
     "discount": "-93%",
@@ -92,7 +92,7 @@
   {
     "id": "11",
     "title": "EA SPORTS FC™ 26 The World's Game Edition para Xbox One y Xbox Series X|S",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.49113.14329176034964477.4f65ddeb-0c01-471c-87cd-35ccdd3a71b7.4c2f78d6-2bb7-4c7c-85b5-241c89b6b6d0?q=90&w=480&h=270",
     "originalSalePrice": 449.75,
     "originalFullPrice": 1799,
     "discount": "-75%",
@@ -101,7 +101,7 @@
   {
     "id": "12",
     "title": "Hogwarts Legacy",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.1336.13814785456466922.0fef76f8-710d-4aca-b42f-c45e536f8d2b.96a5486a-56bf-41d9-84be-225d85509a34?q=90&w=480&h=270",
     "originalSalePrice": 179.85,
     "originalFullPrice": 1199,
     "discount": "-85%",
@@ -110,7 +110,7 @@
   {
     "id": "13",
     "title": "Versión de Hogwarts Legacy para Xbox One",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.1336.13668282042107954.990e31ce-5b94-4058-beec-37b32e211c05.101dc615-290b-41e1-9fc6-1c2f0609e976?q=90&w=480&h=270",
     "originalSalePrice": 149.85,
     "originalFullPrice": 999,
     "discount": "-85%",
@@ -119,7 +119,7 @@
   {
     "id": "14",
     "title": "Hogwarts Legacy: Digital Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.48429.13853283465555502.df9a42b7-95ee-4088-89b3-08a50204f8ef.582d51c7-8c7a-4634-a8e6-d53e6740a5e6?q=90&w=480&h=270",
     "originalSalePrice": 348.75,
     "originalFullPrice": 1395,
     "discount": "-75%",
@@ -128,7 +128,7 @@
   {
     "id": "15",
     "title": "NBA 2K26 Edición Estándar",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.50564.14220255605673269.167b0e48-1b10-4ff3-8231-dbaf3fa1ed77.9e4deb1d-859b-4f96-bf05-b9021ea1825a?q=90&w=480&h=270",
     "originalSalePrice": 139.9,
     "originalFullPrice": 1399,
     "discount": "-90%",
@@ -137,7 +137,7 @@
   {
     "id": "16",
     "title": "NBA 2K26 x PGA TOUR 2K25 Bundle",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.50564.14220255605673269.167b0e48-1b10-4ff3-8231-dbaf3fa1ed77.9e4deb1d-859b-4f96-bf05-b9021ea1825a?q=90&w=480&h=270",
     "originalSalePrice": 499.75,
     "originalFullPrice": 1999,
     "discount": "-75%",
@@ -146,7 +146,7 @@
   {
     "id": "17",
     "title": "The Elder Scrolls V: Skyrim Special Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.4794.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.b156af1e-9796-48af-8d11-3461727280ea?q=90&w=480&h=270",
     "originalSalePrice": 199.75,
     "originalFullPrice": 799,
     "discount": "-75%",
@@ -155,7 +155,7 @@
   {
     "id": "18",
     "title": "The Elder Scrolls V: Skyrim Special Edition (PC)",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.4794.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.b156af1e-9796-48af-8d11-3461727280ea?q=90&w=480&h=270",
     "originalSalePrice": 179.75,
     "originalFullPrice": 719,
     "discount": "-75%",
@@ -164,7 +164,7 @@
   {
     "id": "19",
     "title": "The Elder Scrolls V: Skyrim Anniversary Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.4794.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.b156af1e-9796-48af-8d11-3461727280ea?q=90&w=480&h=270",
     "originalSalePrice": 329.67,
     "originalFullPrice": 999,
     "discount": "-67%",
@@ -173,7 +173,7 @@
   {
     "id": "20",
     "title": "Red Dead Redemption",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.46694.68182501197884443.ac728a87-7bc1-4a0d-8bc6-0712072da93c.f150105c-bb41-4bc6-bd72-2a7c63df9f90?q=90&w=480&h=270",
     "originalSalePrice": 499.5,
     "originalFullPrice": 999,
     "discount": "-50%",
@@ -182,7 +182,7 @@
   {
     "id": "21",
     "title": "Sea of Thieves: 2026 Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.1953.14554784103656548.069efce3-9249-4074-a169-183b727043f8.2d796a4d-6b1a-452d-8172-5b6edb68fc3c?q=90&w=480&h=270",
     "originalSalePrice": 384.65,
     "originalFullPrice": 1099,
     "discount": "-65%",
@@ -191,7 +191,7 @@
   {
     "id": "22",
     "title": "Sea of Thieves: 2026 Premium Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.1953.14554784103656548.069efce3-9249-4074-a169-183b727043f8.2d796a4d-6b1a-452d-8172-5b6edb68fc3c?q=90&w=480&h=270",
     "originalSalePrice": 489.65,
     "originalFullPrice": 1399,
     "discount": "-65%",
@@ -200,7 +200,7 @@
   {
     "id": "23",
     "title": "Call of Duty® Black Ops III: Zombies Chronicles Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 429,
     "originalFullPrice": 1300,
     "discount": "-67%",
@@ -209,7 +209,7 @@
   {
     "id": "24",
     "title": "Call of Duty®: Infinite Warfare - Ed. Lanzamiento",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 394.35,
     "originalFullPrice": 1195,
     "discount": "-67%",
@@ -218,7 +218,7 @@
   {
     "id": "25",
     "title": "Call of Duty®: Modern Warfare® II - Lote multigeneración",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 419.7,
     "originalFullPrice": 1399,
     "discount": "-70%",
@@ -227,7 +227,7 @@
   {
     "id": "26",
     "title": "Call of Duty®: Modern Warfare® - Edición Estándar Digital",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 325,
     "originalFullPrice": 1300,
     "discount": "-75%",
@@ -236,7 +236,7 @@
   {
     "id": "27",
     "title": "Call of Duty®: Modern Warfare® Remastered",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 447,
     "originalFullPrice": 894,
     "discount": "-50%",
@@ -245,7 +245,7 @@
   {
     "id": "28",
     "title": "Gold Edition de Call of Duty®: Advanced Warfare",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.51157.65751644357057044.d9e81a24-ac21-470d-8213-ecb3ceec17a3.edd17d80-922a-42cb-90a2-499487ecb73d?q=90&w=480&h=270",
     "originalSalePrice": 249.75,
     "originalFullPrice": 999,
     "discount": "-75%",
@@ -254,7 +254,7 @@
   {
     "id": "29",
     "title": "Call of Duty®: WWII - Gold Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 429,
     "originalFullPrice": 1300,
     "discount": "-67%",
@@ -263,7 +263,7 @@
   {
     "id": "30",
     "title": "Call of Duty®: Black Ops 4",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 429,
     "originalFullPrice": 1300,
     "discount": "-67%",
@@ -272,7 +272,7 @@
   {
     "id": "31",
     "title": "Call of Duty®: Ghosts",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.5795.64998372950229933.77155980-5b6a-4296-88e2-959fda591dee.5af583e2-090f-459a-9e29-6d5d95f67386?q=90&w=480&h=270",
     "originalSalePrice": 249.75,
     "originalFullPrice": 999,
     "discount": "-75%",
@@ -281,7 +281,7 @@
   {
     "id": "32",
     "title": "Assassin's Creed® Mirage",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.54416.14378628701982792.38d7c069-713c-4985-a73a-8768c6daf401.c33d7f24-a1d3-4585-8a6a-c613b1a29466?q=90&w=480&h=270",
     "originalSalePrice": 399.6,
     "originalFullPrice": 999,
     "discount": "-60%",
@@ -290,7 +290,7 @@
   {
     "id": "33",
     "title": "Assassin's Creed Valhalla",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.21620.13514638932417817.90243126-f84f-4c95-b123-8cf92d726ef5.98273ca2-1b33-468f-9e87-aea03ef25403?q=90&w=480&h=270",
     "originalSalePrice": 324.75,
     "originalFullPrice": 1299,
     "discount": "-75%",
@@ -299,7 +299,7 @@
   {
     "id": "34",
     "title": "Assassin's Creed Odyssey",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.35106.71972716530068101.ccdcadf1-1d2a-49f2-9c37-0b0a27e5a53c.a31a0259-3502-4887-9b7b-289643a3986c?q=90&w=480&h=270",
     "originalSalePrice": 179.25,
     "originalFullPrice": 1195,
     "discount": "-85%",
@@ -308,7 +308,7 @@
   {
     "id": "35",
     "title": "Mortal Kombat 11 Ultimate",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.26182.14189292593912942.341610e6-d1ca-4699-8cb5-bf6e900e0cee.e4fc1e92-8194-46ed-8bca-160fc5ea6c2a?q=90&w=480&h=270",
     "originalSalePrice": 149.85,
     "originalFullPrice": 999,
     "discount": "-85%",
@@ -317,7 +317,7 @@
   {
     "id": "36",
     "title": "Crash Bandicoot™ N. Sane Trilogy",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.26340.65328483881162508.89a95049-a2dc-4b27-8f56-0a4f5a72a393.5ef9bd1f-36a0-4c64-8a40-5a050214736f?q=90&w=480&h=270",
     "originalSalePrice": 399.6,
     "originalFullPrice": 999,
     "discount": "-60%",
@@ -326,7 +326,7 @@
   {
     "id": "37",
     "title": "Batman: Arkham Collection",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.15948.66605680773719506.5b3e4fed-0747-483d-b407-2d6f4da8c3ba.4fa94af3-3306-44a9-a003-ded13a407b13?q=90&w=480&h=270",
     "originalSalePrice": 232.14,
     "originalFullPrice": 1547.62,
     "discount": "-85%",
@@ -335,7 +335,7 @@
   {
     "id": "38",
     "title": "Batman: Arkham Knight Premium Edition",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.2426.65975599250604930.d5a546c1-b6d7-4e4e-a800-0d9731605f57.0c9d9cfb-bceb-4ebf-bfbf-d43b4ecaf74b?q=90&w=480&h=270",
     "originalSalePrice": 178.39,
     "originalFullPrice": 1189.29,
     "discount": "-85%",
@@ -344,7 +344,7 @@
   {
     "id": "39",
     "title": "STAR WARS Jedi: La Orden caída™",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.52300.65392999590663672.028b6875-f925-4d40-b3a1-e44db3b4fa32.7bcb3d0f-46fc-43ea-84d1-031bd0817da2?q=90&w=480&h=270",
     "originalSalePrice": 119.5,
     "originalFullPrice": 1195,
     "discount": "-90%",
@@ -353,7 +353,7 @@
   {
     "id": "40",
     "title": "STAR WARS Jedi: La Orden caída™ Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://store-images.s-microsoft.com/image/apps.52300.65392999590663672.028b6875-f925-4d40-b3a1-e44db3b4fa32.7bcb3d0f-46fc-43ea-84d1-031bd0817da2?q=90&w=480&h=270",
     "originalSalePrice": 139.8,
     "originalFullPrice": 1398,
     "discount": "-90%",
@@ -362,7 +362,7 @@
   {
     "id": "41",
     "title": "STAR WARS Jedi: Survivor™ para Xbox One",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg",
     "originalSalePrice": 224.75,
     "originalFullPrice": 899,
     "discount": "-75%",
@@ -371,7 +371,7 @@
   {
     "id": "42",
     "title": "Spyro™ Reignited Trilogy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/996580/header.jpg",
     "originalSalePrice": 349.65,
     "originalFullPrice": 999,
     "discount": "-65%",
@@ -380,7 +380,7 @@
   {
     "id": "43",
     "title": "Mass Effect™ Legendary Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/header.jpg",
     "originalSalePrice": 139.8,
     "originalFullPrice": 1398,
     "discount": "-90%",
@@ -389,7 +389,7 @@
   {
     "id": "44",
     "title": "Resident Evil Village",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg",
     "originalSalePrice": 198.75,
     "originalFullPrice": 795,
     "discount": "-75%",
@@ -398,7 +398,7 @@
   {
     "id": "45",
     "title": "RESIDENT EVIL 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg",
     "originalSalePrice": 173.3,
     "originalFullPrice": 866.51,
     "discount": "-80%",
@@ -407,7 +407,7 @@
   {
     "id": "46",
     "title": "RESIDENT EVIL 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg",
     "originalSalePrice": 189.08,
     "originalFullPrice": 945.4,
     "discount": "-80%",
@@ -416,7 +416,7 @@
   {
     "id": "47",
     "title": "RESIDENT EVIL 7 biohazard",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
     "originalSalePrice": 175.38,
     "originalFullPrice": 438.47,
     "discount": "-60%",
@@ -443,7 +443,7 @@
   {
     "id": "50",
     "title": "Borderlands 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
     "originalSalePrice": 114.6,
     "originalFullPrice": 1146,
     "discount": "-90%",
@@ -461,7 +461,7 @@
   {
     "id": "52",
     "title": "It Takes Two - Versión digital",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
     "originalSalePrice": 268.2,
     "originalFullPrice": 894,
     "discount": "-70%",
@@ -488,7 +488,7 @@
   {
     "id": "55",
     "title": "Battlefield™ 2042 Elite Edition Oro para Xbox One y Xbox Series X|S",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363740/header.jpg",
     "originalSalePrice": 229.9,
     "originalFullPrice": 2299,
     "discount": "-90%",
@@ -533,7 +533,7 @@
   {
     "id": "60",
     "title": "Little Nightmares III",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392860/header.jpg",
     "originalSalePrice": 409.5,
     "originalFullPrice": 819,
     "discount": "-50%",
@@ -542,7 +542,7 @@
   {
     "id": "61",
     "title": "DRAGON BALL FighterZ",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg",
     "originalSalePrice": 101.9,
     "originalFullPrice": 1019,
     "discount": "-90%",
@@ -551,7 +551,7 @@
   {
     "id": "62",
     "title": "DRAGON BALL Z: KAKAROT",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg",
     "originalSalePrice": 286.3,
     "originalFullPrice": 409,
     "discount": "-30%",
@@ -560,7 +560,7 @@
   {
     "id": "63",
     "title": "DRAGON BALL XENOVERSE 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg",
     "originalSalePrice": 84.75,
     "originalFullPrice": 339,
     "discount": "-75%",
@@ -569,7 +569,7 @@
   {
     "id": "64",
     "title": "TEKKEN 7",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg",
     "originalSalePrice": 219.4,
     "originalFullPrice": 1097,
     "discount": "-80%",
@@ -578,7 +578,7 @@
   {
     "id": "65",
     "title": "Mortal Kombat XL",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/128345/header.jpg",
     "originalSalePrice": 178.57,
     "originalFullPrice": 714.29,
     "discount": "-75%",
@@ -596,7 +596,7 @@
   {
     "id": "67",
     "title": "Need for Speed™ Heat Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 74.8,
     "originalFullPrice": 1496,
     "discount": "-95%",
@@ -605,7 +605,7 @@
   {
     "id": "68",
     "title": "Need for Speed™ Heat",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 65,
     "originalFullPrice": 1300,
     "discount": "-95%",
@@ -614,7 +614,7 @@
   {
     "id": "69",
     "title": "FARCRY 6",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg",
     "originalSalePrice": 324.75,
     "originalFullPrice": 1299,
     "discount": "-75%",
@@ -623,7 +623,7 @@
   {
     "id": "70",
     "title": "Far Cry® 5",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
     "originalSalePrice": 180.3,
     "originalFullPrice": 1202,
     "discount": "-85%",
@@ -641,7 +641,7 @@
   {
     "id": "72",
     "title": "Titanfall™ 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg",
     "originalSalePrice": 87.8,
     "originalFullPrice": 439,
     "discount": "-80%",
@@ -659,7 +659,7 @@
   {
     "id": "74",
     "title": "Fallout 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
     "originalSalePrice": 159.6,
     "originalFullPrice": 399,
     "discount": "-60%",
@@ -668,7 +668,7 @@
   {
     "id": "75",
     "title": "Fallout 4: Game of the Year Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/199943/header.jpg",
     "originalSalePrice": 319.6,
     "originalFullPrice": 799,
     "discount": "-60%",
@@ -677,7 +677,7 @@
   {
     "id": "76",
     "title": "Atomic Heart",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg",
     "originalSalePrice": 419.7,
     "originalFullPrice": 1399,
     "discount": "-70%",
@@ -686,7 +686,7 @@
   {
     "id": "77",
     "title": "Dying Light 2: Stay Human - Reloaded Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg",
     "originalSalePrice": 211.8,
     "originalFullPrice": 1059,
     "discount": "-80%",
@@ -695,7 +695,7 @@
   {
     "id": "78",
     "title": "Dead Island 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934700/header.jpg",
     "originalSalePrice": 146.85,
     "originalFullPrice": 979,
     "discount": "-85%",
@@ -704,7 +704,7 @@
   {
     "id": "79",
     "title": "Watch Dogs®2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
     "originalSalePrice": 99.9,
     "originalFullPrice": 999,
     "discount": "-90%",
@@ -722,7 +722,7 @@
   {
     "id": "81",
     "title": "Watch Dogs®: Legion",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/header.jpg",
     "originalSalePrice": 184.35,
     "originalFullPrice": 1229,
     "discount": "-85%",
@@ -731,7 +731,7 @@
   {
     "id": "82",
     "title": "Tom Clancy's Rainbow Six Siege: Elite Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
     "originalSalePrice": 199.5,
     "originalFullPrice": 399,
     "discount": "-50%",
@@ -740,7 +740,7 @@
   {
     "id": "83",
     "title": "No Man's Sky",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
     "originalSalePrice": 423.6,
     "originalFullPrice": 1059,
     "discount": "-60%",
@@ -758,7 +758,7 @@
   {
     "id": "85",
     "title": "Stray",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg",
     "originalSalePrice": 264.5,
     "originalFullPrice": 529,
     "discount": "-50%",
@@ -767,7 +767,7 @@
   {
     "id": "86",
     "title": "STAR WARS™: Squadrons",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222730/header.jpg",
     "originalSalePrice": 89.4,
     "originalFullPrice": 894,
     "discount": "-90%",
@@ -776,7 +776,7 @@
   {
     "id": "87",
     "title": "STAR WARS™ Battlefront™ II",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg",
     "originalSalePrice": 114.75,
     "originalFullPrice": 459,
     "discount": "-75%",
@@ -785,7 +785,7 @@
   {
     "id": "88",
     "title": "STAR WARS™ Battlefront™ II: Edición de Celebración",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237950/header.jpg",
     "originalSalePrice": 209.5,
     "originalFullPrice": 838,
     "discount": "-75%",
@@ -803,7 +803,7 @@
   {
     "id": "90",
     "title": "Minecraft Legends",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928870/header.jpg",
     "originalSalePrice": 439.6,
     "originalFullPrice": 1099,
     "discount": "-60%",
@@ -821,7 +821,7 @@
   {
     "id": "92",
     "title": "Marvel's Guardians of the Galaxy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088850/header.jpg",
     "originalSalePrice": 187.35,
     "originalFullPrice": 1249,
     "discount": "-85%",
@@ -839,7 +839,7 @@
   {
     "id": "94",
     "title": "Ori and the Will of the Wisps",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261570/header.jpg",
     "originalSalePrice": 199.75,
     "originalFullPrice": 799,
     "discount": "-75%",
@@ -848,7 +848,7 @@
   {
     "id": "95",
     "title": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg",
     "originalSalePrice": 387.6,
     "originalFullPrice": 969,
     "discount": "-60%",
@@ -866,7 +866,7 @@
   {
     "id": "97",
     "title": "FINAL FANTASY VII",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
     "originalSalePrice": 131.6,
     "originalFullPrice": 329,
     "discount": "-60%",
@@ -875,7 +875,7 @@
   {
     "id": "98",
     "title": "FINAL FANTASY IX",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/header.jpg",
     "originalSalePrice": 119.7,
     "originalFullPrice": 399,
     "discount": "-70%",
@@ -884,7 +884,7 @@
   {
     "id": "99",
     "title": "FINAL FANTASY VIII Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39150/header.jpg",
     "originalSalePrice": 151.6,
     "originalFullPrice": 379,
     "discount": "-60%",
@@ -893,7 +893,7 @@
   {
     "id": "100",
     "title": "FINAL FANTASY X/X-2 HD Remaster",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/header.jpg",
     "originalSalePrice": 438.8,
     "originalFullPrice": 1097,
     "discount": "-60%",
@@ -902,7 +902,7 @@
   {
     "id": "101",
     "title": "FINAL FANTASY XV ROYAL EDITION",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg",
     "originalSalePrice": 267.6,
     "originalFullPrice": 669,
     "discount": "-60%",
@@ -911,7 +911,7 @@
   {
     "id": "102",
     "title": "FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
     "originalSalePrice": 420,
     "originalFullPrice": 1200,
     "discount": "-65%",
@@ -929,7 +929,7 @@
   {
     "id": "104",
     "title": "Devil May Cry 5 + Vergil",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
     "originalSalePrice": 103.35,
     "originalFullPrice": 689.03,
     "discount": "-85%",
@@ -938,7 +938,7 @@
   {
     "id": "105",
     "title": "Devil May Cry HD Collection",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
     "originalSalePrice": 99.35,
     "originalFullPrice": 662.35,
     "discount": "-85%",
@@ -947,7 +947,7 @@
   {
     "id": "106",
     "title": "Devil May Cry HD Collection & 4SE Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg",
     "originalSalePrice": 199.28,
     "originalFullPrice": 996.43,
     "discount": "-80%",
@@ -956,7 +956,7 @@
   {
     "id": "107",
     "title": "A Way Out",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/header.jpg",
     "originalSalePrice": 180,
     "originalFullPrice": 600,
     "discount": "-70%",
@@ -965,7 +965,7 @@
   {
     "id": "108",
     "title": "Assassin's Creed Unity",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
     "originalSalePrice": 124.75,
     "originalFullPrice": 499,
     "discount": "-75%",
@@ -983,7 +983,7 @@
   {
     "id": "110",
     "title": "Assassin's Creed® III Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 698,
     "discount": "-75%",
@@ -992,7 +992,7 @@
   {
     "id": "111",
     "title": "Assassin's Creed Origins",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg",
     "originalSalePrice": 180.3,
     "originalFullPrice": 1202,
     "discount": "-85%",
@@ -1001,7 +1001,7 @@
   {
     "id": "112",
     "title": "Assassin's Creed® Rogue Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg",
     "originalSalePrice": 180,
     "originalFullPrice": 600,
     "discount": "-70%",
@@ -1010,7 +1010,7 @@
   {
     "id": "113",
     "title": "Assassin's Creed Syndicate",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg",
     "originalSalePrice": 149.7,
     "originalFullPrice": 499,
     "discount": "-70%",
@@ -1019,7 +1019,7 @@
   {
     "id": "114",
     "title": "Assassin's Creed Chronicles – Trilogy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359600/header.jpg",
     "originalSalePrice": 119.7,
     "originalFullPrice": 399,
     "discount": "-70%",
@@ -1028,7 +1028,7 @@
   {
     "id": "115",
     "title": "Far Cry Primal - Apex Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg",
     "originalSalePrice": 95.85,
     "originalFullPrice": 639,
     "discount": "-85%",
@@ -1037,7 +1037,7 @@
   {
     "id": "116",
     "title": "Far Cry 3 Classic Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/header.jpg",
     "originalSalePrice": 120,
     "originalFullPrice": 600,
     "discount": "-80%",
@@ -1046,7 +1046,7 @@
   {
     "id": "117",
     "title": "Far Cry® 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -1055,7 +1055,7 @@
   {
     "id": "118",
     "title": "FAR CRY PRIMAL",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg",
     "originalSalePrice": 80.85,
     "originalFullPrice": 539,
     "discount": "-85%",
@@ -1064,7 +1064,7 @@
   {
     "id": "119",
     "title": "FAR CRY 4 GOLD EDITION",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
     "originalSalePrice": 162.25,
     "originalFullPrice": 649,
     "discount": "-75%",
@@ -1073,7 +1073,7 @@
   {
     "id": "120",
     "title": "Tomb Raider: Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg",
     "originalSalePrice": 71.85,
     "originalFullPrice": 479,
     "discount": "-85%",
@@ -1082,7 +1082,7 @@
   {
     "id": "121",
     "title": "Rise of the Tomb Raider: 20 Year Celebration",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340990/header.jpg",
     "originalSalePrice": 88.35,
     "originalFullPrice": 589,
     "discount": "-85%",
@@ -1091,7 +1091,7 @@
   {
     "id": "122",
     "title": "LEGO® Star Wars™: La Saga De Skywalker Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg",
     "originalSalePrice": 239.8,
     "originalFullPrice": 1199,
     "discount": "-80%",
@@ -1100,7 +1100,7 @@
   {
     "id": "123",
     "title": "LEGO® Star Wars™: El despertar de la fuerza Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/header.jpg",
     "originalSalePrice": 120,
     "originalFullPrice": 600,
     "discount": "-80%",
@@ -1118,7 +1118,7 @@
   {
     "id": "125",
     "title": "ACE COMBAT™ 7: SKIES UNKNOWN",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502500/header.jpg",
     "originalSalePrice": 209.7,
     "originalFullPrice": 1398,
     "discount": "-85%",
@@ -1127,7 +1127,7 @@
   {
     "id": "126",
     "title": "SOULCALIBUR VI",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/header.jpg",
     "originalSalePrice": 209.14,
     "originalFullPrice": 1394.31,
     "discount": "-85%",
@@ -1136,7 +1136,7 @@
   {
     "id": "127",
     "title": "A Plague Tale: Innocence",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/header.jpg",
     "originalSalePrice": 159.8,
     "originalFullPrice": 799,
     "discount": "-80%",
@@ -1145,7 +1145,7 @@
   {
     "id": "128",
     "title": "Subnautica",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 698,
     "discount": "-75%",
@@ -1154,7 +1154,7 @@
   {
     "id": "129",
     "title": "Subnautica: Below Zero",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 698,
     "discount": "-75%",
@@ -1163,7 +1163,7 @@
   {
     "id": "130",
     "title": "NARUTO TO BORUTO: SHINOBI STRIKER",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/header.jpg",
     "originalSalePrice": 89.75,
     "originalFullPrice": 359,
     "discount": "-75%",
@@ -1172,7 +1172,7 @@
   {
     "id": "131",
     "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020790/header.jpg",
     "originalSalePrice": 407.6,
     "originalFullPrice": 1019,
     "discount": "-60%",
@@ -1181,7 +1181,7 @@
   {
     "id": "132",
     "title": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/349040/header.jpg",
     "originalSalePrice": 339.6,
     "originalFullPrice": 849,
     "discount": "-60%",
@@ -1190,7 +1190,7 @@
   {
     "id": "133",
     "title": "ONE PIECE World Seeker",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755500/header.jpg",
     "originalSalePrice": 150.79,
     "originalFullPrice": 1507.99,
     "discount": "-90%",
@@ -1199,7 +1199,7 @@
   {
     "id": "134",
     "title": "ONE PIECE: PIRATE WARRIORS 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/header.jpg",
     "originalSalePrice": 182.25,
     "originalFullPrice": 729,
     "discount": "-75%",
@@ -1208,7 +1208,7 @@
   {
     "id": "135",
     "title": "One Piece: Burning Blood",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/header.jpg",
     "originalSalePrice": 127.25,
     "originalFullPrice": 1272.51,
     "discount": "-90%",
@@ -1226,7 +1226,7 @@
   {
     "id": "137",
     "title": "Jujutsu Kaisen Cursed Clash",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1877020/header.jpg",
     "originalSalePrice": 254.75,
     "originalFullPrice": 1019,
     "discount": "-75%",
@@ -1235,7 +1235,7 @@
   {
     "id": "138",
     "title": "SCARLET NEXUS",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/header.jpg",
     "originalSalePrice": 180,
     "originalFullPrice": 1200,
     "discount": "-85%",
@@ -1244,7 +1244,7 @@
   {
     "id": "139",
     "title": "The Dark Pictures Anthology: House of Ashes",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg",
     "originalSalePrice": 248.81,
     "originalFullPrice": 753.99,
     "discount": "-67%",
@@ -1253,7 +1253,7 @@
   {
     "id": "140",
     "title": "The Dark Pictures Anthology: The Devil in Me",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg",
     "originalSalePrice": 331.6,
     "originalFullPrice": 829,
     "discount": "-60%",
@@ -1262,7 +1262,7 @@
   {
     "id": "141",
     "title": "The Dark Pictures Anthology: Man Of Medan",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg",
     "originalSalePrice": 209.5,
     "originalFullPrice": 419,
     "discount": "-50%",
@@ -1271,7 +1271,7 @@
   {
     "id": "142",
     "title": "The Dark Pictures Anthology: Little Hope",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg",
     "originalSalePrice": 209.5,
     "originalFullPrice": 419,
     "discount": "-50%",
@@ -1280,7 +1280,7 @@
   {
     "id": "143",
     "title": "Prince of Persia™: The Lost Crown - Complete Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/19980/header.jpg",
     "originalSalePrice": 239.7,
     "originalFullPrice": 799,
     "discount": "-70%",
@@ -1289,7 +1289,7 @@
   {
     "id": "144",
     "title": "Prince of Persia The Lost Crown",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/19980/header.jpg",
     "originalSalePrice": 179.7,
     "originalFullPrice": 599,
     "discount": "-70%",
@@ -1298,7 +1298,7 @@
   {
     "id": "145",
     "title": "SOUTH PARK: SNOW DAY! Digital Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214650/header.jpg",
     "originalSalePrice": 351.6,
     "originalFullPrice": 879,
     "discount": "-60%",
@@ -1325,7 +1325,7 @@
   {
     "id": "148",
     "title": "Burnout™ Paradise Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238080/header.jpg",
     "originalSalePrice": 65.85,
     "originalFullPrice": 439,
     "discount": "-85%",
@@ -1334,7 +1334,7 @@
   {
     "id": "149",
     "title": "L.A. Noire",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/110800/header.jpg",
     "originalSalePrice": 499.5,
     "originalFullPrice": 999,
     "discount": "-50%",
@@ -1352,7 +1352,7 @@
   {
     "id": "151",
     "title": "Prey",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -1361,7 +1361,7 @@
   {
     "id": "152",
     "title": "Immortals Fenyx Rising™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221920/header.jpg",
     "originalSalePrice": 159.8,
     "originalFullPrice": 799,
     "discount": "-80%",
@@ -1379,7 +1379,7 @@
   {
     "id": "154",
     "title": "Overcooked! All You Can Eat",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg",
     "originalSalePrice": 148.49,
     "originalFullPrice": 494.99,
     "discount": "-70%",
@@ -1397,7 +1397,7 @@
   {
     "id": "156",
     "title": "Overcooked! 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
     "originalSalePrice": 74.99,
     "originalFullPrice": 299.99,
     "discount": "-75%",
@@ -1415,7 +1415,7 @@
   {
     "id": "158",
     "title": "Slay The Spire",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/header.jpg",
     "originalSalePrice": 109.75,
     "originalFullPrice": 439,
     "discount": "-75%",
@@ -1424,7 +1424,7 @@
   {
     "id": "159",
     "title": "Outer Wilds",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg",
     "originalSalePrice": 263.4,
     "originalFullPrice": 439,
     "discount": "-40%",
@@ -1460,7 +1460,7 @@
   {
     "id": "163",
     "title": "Mad Max",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234140/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 698,
     "discount": "-75%",
@@ -1496,7 +1496,7 @@
   {
     "id": "167",
     "title": "Sleeping Dogs™ Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
     "originalSalePrice": 119.4,
     "originalFullPrice": 796,
     "discount": "-85%",
@@ -1505,7 +1505,7 @@
   {
     "id": "168",
     "title": "Yakuza Kiwami",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/header.jpg",
     "originalSalePrice": 209.4,
     "originalFullPrice": 349,
     "discount": "-40%",
@@ -1550,7 +1550,7 @@
   {
     "id": "173",
     "title": "State of Decay 2: Juggernaut Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340720/header.jpg",
     "originalSalePrice": 199.75,
     "originalFullPrice": 799,
     "discount": "-75%",
@@ -1559,7 +1559,7 @@
   {
     "id": "174",
     "title": "Kingdom Come: Deliverance",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -1568,7 +1568,7 @@
   {
     "id": "175",
     "title": "Dragon Age™: Inquisition - Edición Juego del año",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222690/header.jpg",
     "originalSalePrice": 182.25,
     "originalFullPrice": 729,
     "discount": "-75%",
@@ -1586,7 +1586,7 @@
   {
     "id": "177",
     "title": "Deus Ex: Mankind Divided™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/header.jpg",
     "originalSalePrice": 89.85,
     "originalFullPrice": 599,
     "discount": "-85%",
@@ -1595,7 +1595,7 @@
   {
     "id": "178",
     "title": "Age of Empires II: Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
     "originalSalePrice": 122.15,
     "originalFullPrice": 349,
     "discount": "-65%",
@@ -1604,7 +1604,7 @@
   {
     "id": "179",
     "title": "Age of Empires IV: Edición de Aniversario",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
     "originalSalePrice": 213.99,
     "originalFullPrice": 427.99,
     "discount": "-50%",
@@ -1640,7 +1640,7 @@
   {
     "id": "183",
     "title": "Life is Strange 2: Temporada completa",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532210/header.jpg",
     "originalSalePrice": 120,
     "originalFullPrice": 600,
     "discount": "-80%",
@@ -1649,7 +1649,7 @@
   {
     "id": "184",
     "title": "XCOM® 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -1676,7 +1676,7 @@
   {
     "id": "187",
     "title": "Sid Meier's Civilization VI",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -1685,7 +1685,7 @@
   {
     "id": "188",
     "title": "Sonic Origins",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/header.jpg",
     "originalSalePrice": 152.7,
     "originalFullPrice": 509,
     "discount": "-70%",
@@ -1694,7 +1694,7 @@
   {
     "id": "189",
     "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg",
     "originalSalePrice": 175.6,
     "originalFullPrice": 439,
     "discount": "-60%",
@@ -1703,7 +1703,7 @@
   {
     "id": "190",
     "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg",
     "originalSalePrice": 399.6,
     "originalFullPrice": 999,
     "discount": "-60%",
@@ -1712,7 +1712,7 @@
   {
     "id": "191",
     "title": "DayZ",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg",
     "originalSalePrice": 436.05,
     "originalFullPrice": 969,
     "discount": "-55%",
@@ -1721,7 +1721,7 @@
   {
     "id": "192",
     "title": "Resident Evil 5",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21690/header.jpg",
     "originalSalePrice": 101.49,
     "originalFullPrice": 405.99,
     "discount": "-75%",
@@ -1730,7 +1730,7 @@
   {
     "id": "193",
     "title": "Resident Evil 6",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg",
     "originalSalePrice": 101.49,
     "originalFullPrice": 405.99,
     "discount": "-75%",
@@ -1739,7 +1739,7 @@
   {
     "id": "194",
     "title": "Resident Evil",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
     "originalSalePrice": 95.4,
     "originalFullPrice": 381.63,
     "discount": "-75%",
@@ -1748,7 +1748,7 @@
   {
     "id": "195",
     "title": "Resident Evil 0",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg",
     "originalSalePrice": 95.4,
     "originalFullPrice": 381.63,
     "discount": "-75%",
@@ -1775,7 +1775,7 @@
   {
     "id": "198",
     "title": "Need for Speed™ Hot Pursuit Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 178.8,
     "originalFullPrice": 894,
     "discount": "-80%",
@@ -1784,7 +1784,7 @@
   {
     "id": "199",
     "title": "Need for Speed™ Payback",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 190.5,
     "originalFullPrice": 635,
     "discount": "-70%",
@@ -1793,7 +1793,7 @@
   {
     "id": "200",
     "title": "Need for Speed™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 131.7,
     "originalFullPrice": 439,
     "discount": "-70%",
@@ -1802,7 +1802,7 @@
   {
     "id": "201",
     "title": "Need for Speed™ Payback - Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 251.4,
     "originalFullPrice": 838,
     "discount": "-70%",
@@ -1811,7 +1811,7 @@
   {
     "id": "202",
     "title": "Need for Speed™ Rivals",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg",
     "originalSalePrice": 119.7,
     "originalFullPrice": 399,
     "discount": "-70%",
@@ -1820,7 +1820,7 @@
   {
     "id": "203",
     "title": "Back 4 Blood: Edición Ultimate",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/header.jpg",
     "originalSalePrice": 249.9,
     "originalFullPrice": 2499,
     "discount": "-90%",
@@ -1847,7 +1847,7 @@
   {
     "id": "206",
     "title": "Borderlands: Game of the Year Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729040/header.jpg",
     "originalSalePrice": 191.07,
     "originalFullPrice": 579,
     "discount": "-67%",
@@ -1856,7 +1856,7 @@
   {
     "id": "207",
     "title": "Saints Row IV: Re-Elected & Gat out of Hell",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -1865,7 +1865,7 @@
   {
     "id": "208",
     "title": "Saints Row",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742420/header.jpg",
     "originalSalePrice": 129.75,
     "originalFullPrice": 519,
     "discount": "-75%",
@@ -1874,7 +1874,7 @@
   {
     "id": "209",
     "title": "Tom Clancy's The Division 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/header.jpg",
     "originalSalePrice": 149.75,
     "originalFullPrice": 599,
     "discount": "-75%",
@@ -1883,7 +1883,7 @@
   {
     "id": "210",
     "title": "Tom Clancy's The Division - Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/header.jpg",
     "originalSalePrice": 199.8,
     "originalFullPrice": 999,
     "discount": "-80%",
@@ -1892,7 +1892,7 @@
   {
     "id": "211",
     "title": "Tom Clancy's The Division",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -1901,7 +1901,7 @@
   {
     "id": "212",
     "title": "The Walking Dead: The Telltale Definitive Series",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg",
     "originalSalePrice": 254.9,
     "originalFullPrice": 1019.63,
     "discount": "-75%",
@@ -1910,7 +1910,7 @@
   {
     "id": "213",
     "title": "Unpacking",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/header.jpg",
     "originalSalePrice": 139.6,
     "originalFullPrice": 349,
     "discount": "-60%",
@@ -1928,7 +1928,7 @@
   {
     "id": "215",
     "title": "LEGO® Jurassic World™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/352400/header.jpg",
     "originalSalePrice": 166.19,
     "originalFullPrice": 830.95,
     "discount": "-80%",
@@ -1937,7 +1937,7 @@
   {
     "id": "216",
     "title": "LEGO Marvel Super Heroes",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249130/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 698,
     "discount": "-75%",
@@ -1946,7 +1946,7 @@
   {
     "id": "217",
     "title": "LEGO® DC Super-Villains Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/829110/header.jpg",
     "originalSalePrice": 166.42,
     "originalFullPrice": 1664.29,
     "discount": "-90%",
@@ -1955,7 +1955,7 @@
   {
     "id": "218",
     "title": "LEGO® CITY Undercover",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578330/header.jpg",
     "originalSalePrice": 159.2,
     "originalFullPrice": 796,
     "discount": "-80%",
@@ -1973,7 +1973,7 @@
   {
     "id": "220",
     "title": "LEGO® Batman™ 3: Más allá de Gotham Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/header.jpg",
     "originalSalePrice": 93.8,
     "originalFullPrice": 469,
     "discount": "-80%",
@@ -1982,7 +1982,7 @@
   {
     "id": "221",
     "title": "LEGO® Worlds",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/header.jpg",
     "originalSalePrice": 159.2,
     "originalFullPrice": 796,
     "discount": "-80%",
@@ -1991,7 +1991,7 @@
   {
     "id": "222",
     "title": "The LEGO® NINJAGO® Movie Video Game",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640590/header.jpg",
     "originalSalePrice": 89.4,
     "originalFullPrice": 894,
     "discount": "-90%",
@@ -2009,7 +2009,7 @@
   {
     "id": "224",
     "title": "LEGO® Marvel Super Heroes 2 Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249130/header.jpg",
     "originalSalePrice": 159.52,
     "originalFullPrice": 797.62,
     "discount": "-80%",
@@ -2018,7 +2018,7 @@
   {
     "id": "225",
     "title": "LEGO® Party!",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1969370/header.jpg",
     "originalSalePrice": 419.99,
     "originalFullPrice": 599.99,
     "discount": "-30%",
@@ -2027,7 +2027,7 @@
   {
     "id": "226",
     "title": "The LEGO® Movie 2 - Videogame",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881320/header.jpg",
     "originalSalePrice": 134.1,
     "originalFullPrice": 894,
     "discount": "-85%",
@@ -2036,7 +2036,7 @@
   {
     "id": "227",
     "title": "Riders Republic™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/header.jpg",
     "originalSalePrice": 119.85,
     "originalFullPrice": 799,
     "discount": "-85%",
@@ -2054,7 +2054,7 @@
   {
     "id": "229",
     "title": "Terraria",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
     "originalSalePrice": 124.5,
     "originalFullPrice": 249,
     "discount": "-50%",
@@ -2072,7 +2072,7 @@
   {
     "id": "231",
     "title": "Wreckfest",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203190/header.jpg",
     "originalSalePrice": 158.7,
     "originalFullPrice": 529,
     "discount": "-70%",
@@ -2081,7 +2081,7 @@
   {
     "id": "232",
     "title": "SnowRunner",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg",
     "originalSalePrice": 339.6,
     "originalFullPrice": 849,
     "discount": "-60%",
@@ -2090,7 +2090,7 @@
   {
     "id": "233",
     "title": "Slime Rancher",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/header.jpg",
     "originalSalePrice": 57.75,
     "originalFullPrice": 231,
     "discount": "-75%",
@@ -2108,7 +2108,7 @@
   {
     "id": "235",
     "title": "Risk of Rain 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
     "originalSalePrice": 100,
     "originalFullPrice": 400,
     "discount": "-75%",
@@ -2117,7 +2117,7 @@
   {
     "id": "236",
     "title": "Plants vs. Zombies™ Garden Warfare 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/header.jpg",
     "originalSalePrice": 119.7,
     "originalFullPrice": 399,
     "discount": "-70%",
@@ -2126,7 +2126,7 @@
   {
     "id": "237",
     "title": "Plants vs. Zombies™ Garden Warfare 2: Edición Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/header.jpg",
     "originalSalePrice": 180,
     "originalFullPrice": 600,
     "discount": "-70%",
@@ -2135,7 +2135,7 @@
   {
     "id": "238",
     "title": "Plants vs. Zombies Garden Warfare",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/header.jpg",
     "originalSalePrice": 119.7,
     "originalFullPrice": 399,
     "discount": "-70%",
@@ -2144,7 +2144,7 @@
   {
     "id": "239",
     "title": "Plants vs. Zombies™: La Batalla de Neighborville",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/header.jpg",
     "originalSalePrice": 147.6,
     "originalFullPrice": 369,
     "discount": "-60%",
@@ -2153,7 +2153,7 @@
   {
     "id": "240",
     "title": "Plants vs. Zombies™: La Batalla de Neighborville Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654560/header.jpg",
     "originalSalePrice": 164.7,
     "originalFullPrice": 549,
     "discount": "-70%",
@@ -2162,7 +2162,7 @@
   {
     "id": "241",
     "title": "Worms W.M.D",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327030/header.jpg",
     "originalSalePrice": 89.8,
     "originalFullPrice": 449,
     "discount": "-80%",
@@ -2180,7 +2180,7 @@
   {
     "id": "243",
     "title": "Streets of Rage 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg",
     "originalSalePrice": 109.75,
     "originalFullPrice": 439,
     "discount": "-75%",
@@ -2189,7 +2189,7 @@
   {
     "id": "244",
     "title": "Just Cause 4: Reloaded",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/517630/header.jpg",
     "originalSalePrice": 141.6,
     "originalFullPrice": 944,
     "discount": "-85%",
@@ -2198,7 +2198,7 @@
   {
     "id": "245",
     "title": "Just Cause 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg",
     "originalSalePrice": 56.7,
     "originalFullPrice": 378,
     "discount": "-85%",
@@ -2207,7 +2207,7 @@
   {
     "id": "246",
     "title": "Just Cause 3: XXL Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg",
     "originalSalePrice": 85.65,
     "originalFullPrice": 571,
     "discount": "-85%",
@@ -2216,7 +2216,7 @@
   {
     "id": "247",
     "title": "The Crew® 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -2225,7 +2225,7 @@
   {
     "id": "248",
     "title": "The Crew® 2 Special Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
     "originalSalePrice": 159.8,
     "originalFullPrice": 799,
     "discount": "-80%",
@@ -2234,7 +2234,7 @@
   {
     "id": "249",
     "title": "DiRT Rally 2.0",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690790/header.jpg",
     "originalSalePrice": 264.5,
     "originalFullPrice": 529,
     "discount": "-50%",
@@ -2243,7 +2243,7 @@
   {
     "id": "250",
     "title": "DiRT Rally 2.0 - Game of the Year Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690790/header.jpg",
     "originalSalePrice": 351.6,
     "originalFullPrice": 879,
     "discount": "-60%",
@@ -2252,7 +2252,7 @@
   {
     "id": "251",
     "title": "DIRT 5 Year One Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1379260/header.jpg",
     "originalSalePrice": 238.35,
     "originalFullPrice": 1589,
     "discount": "-85%",
@@ -2261,7 +2261,7 @@
   {
     "id": "252",
     "title": "DIRT 5",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1038250/header.jpg",
     "originalSalePrice": 309.75,
     "originalFullPrice": 1239,
     "discount": "-75%",
@@ -2270,7 +2270,7 @@
   {
     "id": "253",
     "title": "World of Outlaws: Dirt Racing 24 Gold Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3281130/header.jpg",
     "originalSalePrice": 425.4,
     "originalFullPrice": 709,
     "discount": "-40%",
@@ -2279,7 +2279,7 @@
   {
     "id": "254",
     "title": "World of Outlaws: Dirt Racing 24",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3281130/header.jpg",
     "originalSalePrice": 317.4,
     "originalFullPrice": 529,
     "discount": "-40%",
@@ -2288,7 +2288,7 @@
   {
     "id": "255",
     "title": "CarX Drift Racing Online",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1826420/header.jpg",
     "originalSalePrice": 63.8,
     "originalFullPrice": 319,
     "discount": "-80%",
@@ -2297,7 +2297,7 @@
   {
     "id": "256",
     "title": "Wobbly Life",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211020/header.jpg",
     "originalSalePrice": 356.85,
     "originalFullPrice": 549,
     "discount": "-35%",
@@ -2324,7 +2324,7 @@
   {
     "id": "259",
     "title": "The Texas Chain Saw Massacre",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1433140/header.jpg",
     "originalSalePrice": 67.25,
     "originalFullPrice": 269,
     "discount": "-75%",
@@ -2333,7 +2333,7 @@
   {
     "id": "260",
     "title": "The Texas Chain Saw Massacre - Content Pass Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1433140/header.jpg",
     "originalSalePrice": 234.5,
     "originalFullPrice": 469,
     "discount": "-50%",
@@ -2360,7 +2360,7 @@
   {
     "id": "263",
     "title": "Kerbal Space Program Enhanced Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg",
     "originalSalePrice": 150,
     "originalFullPrice": 750,
     "discount": "-80%",
@@ -2369,7 +2369,7 @@
   {
     "id": "264",
     "title": "Kerbal Space Program Enhanced Edition Complete",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg",
     "originalSalePrice": 219.78,
     "originalFullPrice": 1098.9,
     "discount": "-80%",
@@ -2378,7 +2378,7 @@
   {
     "id": "265",
     "title": "Ni no Kuni II: El Renacer de un Reino - Prince's Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/589360/header.jpg",
     "originalSalePrice": 233.85,
     "originalFullPrice": 1559,
     "discount": "-85%",
@@ -2387,7 +2387,7 @@
   {
     "id": "266",
     "title": "Ni no Kuni Wrath of the White Witch™ Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/589360/header.jpg",
     "originalSalePrice": 207.8,
     "originalFullPrice": 1039,
     "discount": "-80%",
@@ -2396,7 +2396,7 @@
   {
     "id": "267",
     "title": "Tales of Berseria Remastered - Paquete de mejora Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429660/header.jpg",
     "originalSalePrice": 351.75,
     "originalFullPrice": 469,
     "discount": "-25%",
@@ -2405,7 +2405,7 @@
   {
     "id": "268",
     "title": "Tales of Xillia remasterizado: paquete de mejora Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246670/header.jpg",
     "originalSalePrice": 381.75,
     "originalFullPrice": 509,
     "discount": "-25%",
@@ -2414,7 +2414,7 @@
   {
     "id": "269",
     "title": "Tales of Graces f Remastered - Paquete de mejora Deluxe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530980/header.jpg",
     "originalSalePrice": 366.75,
     "originalFullPrice": 489,
     "discount": "-25%",
@@ -2423,7 +2423,7 @@
   {
     "id": "270",
     "title": "Tales of Symphonia Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/372360/header.jpg",
     "originalSalePrice": 119.85,
     "originalFullPrice": 799,
     "discount": "-85%",
@@ -2432,7 +2432,7 @@
   {
     "id": "271",
     "title": "Tales of Vesperia™: Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738540/header.jpg",
     "originalSalePrice": 254.5,
     "originalFullPrice": 1272.51,
     "discount": "-80%",
@@ -2441,7 +2441,7 @@
   {
     "id": "272",
     "title": "Tales of Graces f Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530980/header.jpg",
     "originalSalePrice": 394.5,
     "originalFullPrice": 789,
     "discount": "-50%",
@@ -2450,7 +2450,7 @@
   {
     "id": "273",
     "title": "Warhammer 40,000: Rogue Trader - Deluxe Pack",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/header.jpg",
     "originalSalePrice": 55.65,
     "originalFullPrice": 159,
     "discount": "-65%",
@@ -2459,7 +2459,7 @@
   {
     "id": "274",
     "title": "Warhammer 40,000: Boltgun - Forges of Corruption Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005010/header.jpg",
     "originalSalePrice": 167.6,
     "originalFullPrice": 419,
     "discount": "-60%",
@@ -2468,7 +2468,7 @@
   {
     "id": "275",
     "title": "Tiny Tina's Wonderlands: Chaotic Great Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
     "originalSalePrice": 274.35,
     "originalFullPrice": 1829,
     "discount": "-85%",
@@ -2477,7 +2477,7 @@
   {
     "id": "276",
     "title": "Tiny Tina's Wonderlands: Next-Level Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
     "originalSalePrice": 142.2,
     "originalFullPrice": 1422,
     "discount": "-90%",
@@ -2486,7 +2486,7 @@
   {
     "id": "277",
     "title": "Tiny Tina's Wonderlands",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg",
     "originalSalePrice": 121.9,
     "originalFullPrice": 1219,
     "discount": "-90%",
@@ -2495,7 +2495,7 @@
   {
     "id": "278",
     "title": "GreedFall",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606880/header.jpg",
     "originalSalePrice": 121.35,
     "originalFullPrice": 809,
     "discount": "-85%",
@@ -2504,7 +2504,7 @@
   {
     "id": "279",
     "title": "Vampyr",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427290/header.jpg",
     "originalSalePrice": 127.35,
     "originalFullPrice": 849,
     "discount": "-85%",
@@ -2513,7 +2513,7 @@
   {
     "id": "280",
     "title": "Evil West",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065310/header.jpg",
     "originalSalePrice": 219.8,
     "originalFullPrice": 1099,
     "discount": "-80%",
@@ -2522,7 +2522,7 @@
   {
     "id": "281",
     "title": "Aliens: Dark Descent",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150440/header.jpg",
     "originalSalePrice": 215.7,
     "originalFullPrice": 719,
     "discount": "-70%",
@@ -2531,7 +2531,7 @@
   {
     "id": "282",
     "title": "Aliens: Fireteam Elite",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/header.jpg",
     "originalSalePrice": 152.25,
     "originalFullPrice": 609,
     "discount": "-75%",
@@ -2540,7 +2540,7 @@
   {
     "id": "283",
     "title": "MudRunner",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/header.jpg",
     "originalSalePrice": 89.85,
     "originalFullPrice": 599,
     "discount": "-85%",
@@ -2549,7 +2549,7 @@
   {
     "id": "284",
     "title": "Expeditions: A MudRunner Game",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2477340/header.jpg",
     "originalSalePrice": 343.6,
     "originalFullPrice": 859,
     "discount": "-60%",
@@ -2558,7 +2558,7 @@
   {
     "id": "285",
     "title": "Mirror's Edge™ Catalyst",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233570/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -2567,7 +2567,7 @@
   {
     "id": "286",
     "title": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -2576,7 +2576,7 @@
   {
     "id": "287",
     "title": "Danganronpa 2: Goodbye Despair Anniversary Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -2585,7 +2585,7 @@
   {
     "id": "288",
     "title": "Doki Doki Literature Club Plus!",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388880/header.jpg",
     "originalSalePrice": 234.02,
     "originalFullPrice": 312.03,
     "discount": "-25%",
@@ -2594,7 +2594,7 @@
   {
     "id": "289",
     "title": "MY HERO ONE'S JUSTICE 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058450/header.jpg",
     "originalSalePrice": 169.75,
     "originalFullPrice": 679,
     "discount": "-75%",
@@ -2603,7 +2603,7 @@
   {
     "id": "290",
     "title": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/991560/header.jpg",
     "originalSalePrice": 139.19,
     "originalFullPrice": 1391.99,
     "discount": "-90%",
@@ -2612,7 +2612,7 @@
   {
     "id": "291",
     "title": "SD GUNDAM BATTLE ALLIANCE",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/824550/header.jpg",
     "originalSalePrice": 360,
     "originalFullPrice": 1200,
     "discount": "-70%",
@@ -2621,7 +2621,7 @@
   {
     "id": "292",
     "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271700/header.jpg",
     "originalSalePrice": 134.85,
     "originalFullPrice": 899,
     "discount": "-85%",
@@ -2630,7 +2630,7 @@
   {
     "id": "293",
     "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271700/header.jpg",
     "originalSalePrice": 247.35,
     "originalFullPrice": 1649,
     "discount": "-85%",
@@ -2639,7 +2639,7 @@
   {
     "id": "294",
     "title": "Stranded Deep",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg",
     "originalSalePrice": 161.93,
     "originalFullPrice": 404.83,
     "discount": "-60%",
@@ -2648,7 +2648,7 @@
   {
     "id": "295",
     "title": "Insurgency: Sandstorm",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/header.jpg",
     "originalSalePrice": 199.75,
     "originalFullPrice": 799,
     "discount": "-75%",
@@ -2666,7 +2666,7 @@
   {
     "id": "297",
     "title": "WATCH_DOGS™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -2675,7 +2675,7 @@
   {
     "id": "298",
     "title": "ULTIMATE MARVEL VS. CAPCOM 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357190/header.jpg",
     "originalSalePrice": 150.56,
     "originalFullPrice": 752.83,
     "discount": "-80%",
@@ -2702,7 +2702,7 @@
   {
     "id": "301",
     "title": "Monster Jam Steel Titans",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205480/header.jpg",
     "originalSalePrice": 99.8,
     "originalFullPrice": 499,
     "discount": "-80%",
@@ -2711,7 +2711,7 @@
   {
     "id": "302",
     "title": "Monster Jam Steel Titans 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205480/header.jpg",
     "originalSalePrice": 141.8,
     "originalFullPrice": 709,
     "discount": "-80%",
@@ -2720,7 +2720,7 @@
   {
     "id": "303",
     "title": "Monster Jam™ Showdown - Big Air Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350280/header.jpg",
     "originalSalePrice": 259.8,
     "originalFullPrice": 1299,
     "discount": "-80%",
@@ -2729,7 +2729,7 @@
   {
     "id": "304",
     "title": "Monster Jam™ Showdown",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350280/header.jpg",
     "originalSalePrice": 179.8,
     "originalFullPrice": 899,
     "discount": "-80%",
@@ -2738,7 +2738,7 @@
   {
     "id": "305",
     "title": "Unravel Two",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
     "originalSalePrice": 65.85,
     "originalFullPrice": 439,
     "discount": "-85%",
@@ -2756,7 +2756,7 @@
   {
     "id": "307",
     "title": "Unravel",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -2765,7 +2765,7 @@
   {
     "id": "308",
     "title": "Disney Epic Mickey: Rebrushed",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245300/header.jpg",
     "originalSalePrice": 283.6,
     "originalFullPrice": 709,
     "discount": "-60%",
@@ -2774,7 +2774,7 @@
   {
     "id": "309",
     "title": "Choo-Choo Charles",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766740/header.jpg",
     "originalSalePrice": 69.8,
     "originalFullPrice": 349,
     "discount": "-80%",
@@ -2783,7 +2783,7 @@
   {
     "id": "310",
     "title": "World War Z",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/header.jpg",
     "originalSalePrice": 174.57,
     "originalFullPrice": 529,
     "discount": "-67%",
@@ -2792,7 +2792,7 @@
   {
     "id": "311",
     "title": "Bioprototype",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689520/header.jpg",
     "originalSalePrice": 79.95,
     "originalFullPrice": 123,
     "discount": "-35%",
@@ -2810,7 +2810,7 @@
   {
     "id": "313",
     "title": "Gunfire Reborn",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1217060/header.jpg",
     "originalSalePrice": 199.5,
     "originalFullPrice": 399,
     "discount": "-50%",
@@ -2819,7 +2819,7 @@
   {
     "id": "314",
     "title": "OUTRIDERS",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/680420/header.jpg",
     "originalSalePrice": 140,
     "originalFullPrice": 350,
     "discount": "-60%",
@@ -2837,7 +2837,7 @@
   {
     "id": "316",
     "title": "Chorus",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153640/header.jpg",
     "originalSalePrice": 84.4,
     "originalFullPrice": 422,
     "discount": "-80%",
@@ -2846,7 +2846,7 @@
   {
     "id": "317",
     "title": "Rugby 25",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340870/header.jpg",
     "originalSalePrice": 423.6,
     "originalFullPrice": 1059,
     "discount": "-60%",
@@ -2855,7 +2855,7 @@
   {
     "id": "318",
     "title": "Dead Rising 3: Apocalypse Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265550/header.jpg",
     "originalSalePrice": 161.93,
     "originalFullPrice": 809.67,
     "discount": "-80%",
@@ -2873,7 +2873,7 @@
   {
     "id": "320",
     "title": "SIGNALIS",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg",
     "originalSalePrice": 279.3,
     "originalFullPrice": 399,
     "discount": "-30%",
@@ -2882,7 +2882,7 @@
   {
     "id": "321",
     "title": "Fobia - St. Dinfna Hotel",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1298140/header.jpg",
     "originalSalePrice": 52.9,
     "originalFullPrice": 529,
     "discount": "-90%",
@@ -2891,7 +2891,7 @@
   {
     "id": "322",
     "title": "Chants of Sennaar",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -2900,7 +2900,7 @@
   {
     "id": "323",
     "title": "Bugsnax",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/header.jpg",
     "originalSalePrice": 168.04,
     "originalFullPrice": 509.23,
     "discount": "-67%",
@@ -2909,7 +2909,7 @@
   {
     "id": "324",
     "title": "What Remains of Edith Finch",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501300/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -2918,7 +2918,7 @@
   {
     "id": "325",
     "title": "UNO™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/header.jpg",
     "originalSalePrice": 60,
     "originalFullPrice": 150,
     "discount": "-60%",
@@ -2927,7 +2927,7 @@
   {
     "id": "326",
     "title": "Ancestors: The Humankind Odyssey",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/header.jpg",
     "originalSalePrice": 153.6,
     "originalFullPrice": 768,
     "discount": "-80%",
@@ -2936,7 +2936,7 @@
   {
     "id": "327",
     "title": "Dreamfall Chapters",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237850/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -2954,7 +2954,7 @@
   {
     "id": "329",
     "title": "Construction Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
     "originalSalePrice": 174.57,
     "originalFullPrice": 529,
     "discount": "-67%",
@@ -2963,7 +2963,7 @@
   {
     "id": "330",
     "title": "Police Simulator: Patrol Officers: Gold Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
     "originalSalePrice": 354.5,
     "originalFullPrice": 709,
     "discount": "-50%",
@@ -2972,7 +2972,7 @@
   {
     "id": "331",
     "title": "Police Simulator: Patrol Officers",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg",
     "originalSalePrice": 174.57,
     "originalFullPrice": 529,
     "discount": "-67%",
@@ -2981,7 +2981,7 @@
   {
     "id": "332",
     "title": "Zoo Tycoon: Ultimate Animal Collection",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613880/header.jpg",
     "originalSalePrice": 164.67,
     "originalFullPrice": 499,
     "discount": "-67%",
@@ -2990,7 +2990,7 @@
   {
     "id": "333",
     "title": "Yu-Gi-Oh! Legacy of the Duelist",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -2999,7 +2999,7 @@
   {
     "id": "334",
     "title": "Little Kitty, Big City",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/header.jpg",
     "originalSalePrice": 263.4,
     "originalFullPrice": 439,
     "discount": "-40%",
@@ -3008,7 +3008,7 @@
   {
     "id": "335",
     "title": "Core Keeper",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
     "originalSalePrice": 209.4,
     "originalFullPrice": 349,
     "discount": "-40%",
@@ -3017,7 +3017,7 @@
   {
     "id": "336",
     "title": "WRC 10 FIA World Rally Championship",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462810/header.jpg",
     "originalSalePrice": 141.8,
     "originalFullPrice": 709,
     "discount": "-80%",
@@ -3044,7 +3044,7 @@
   {
     "id": "339",
     "title": "GigaBash",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546400/header.jpg",
     "originalSalePrice": 181.65,
     "originalFullPrice": 519,
     "discount": "-65%",
@@ -3053,7 +3053,7 @@
   {
     "id": "340",
     "title": "Trackmania® Turbo",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375900/header.jpg",
     "originalSalePrice": 129.8,
     "originalFullPrice": 649,
     "discount": "-80%",
@@ -3071,7 +3071,7 @@
   {
     "id": "342",
     "title": "Just Shapes & Beats",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531510/header.jpg",
     "originalSalePrice": 257.4,
     "originalFullPrice": 429,
     "discount": "-40%",
@@ -3080,7 +3080,7 @@
   {
     "id": "343",
     "title": "DYSMANTLE",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/header.jpg",
     "originalSalePrice": 122.15,
     "originalFullPrice": 349,
     "discount": "-65%",
@@ -3107,7 +3107,7 @@
   {
     "id": "346",
     "title": "Hotel Renovator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214470/header.jpg",
     "originalSalePrice": 128.7,
     "originalFullPrice": 429,
     "discount": "-70%",
@@ -3116,7 +3116,7 @@
   {
     "id": "347",
     "title": "A Little to the Left",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629520/header.jpg",
     "originalSalePrice": 99.6,
     "originalFullPrice": 249,
     "discount": "-60%",
@@ -3125,7 +3125,7 @@
   {
     "id": "348",
     "title": "The Jackbox Party Pack 10",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3364070/header.jpg",
     "originalSalePrice": 290.95,
     "originalFullPrice": 529,
     "discount": "-45%",
@@ -3134,7 +3134,7 @@
   {
     "id": "349",
     "title": "The Jackbox Party Pack 7",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3364070/header.jpg",
     "originalSalePrice": 343.85,
     "originalFullPrice": 529,
     "discount": "-35%",
@@ -3143,7 +3143,7 @@
   {
     "id": "350",
     "title": "The Jackbox Party Pack 11",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3364070/header.jpg",
     "originalSalePrice": 251.24,
     "originalFullPrice": 334.99,
     "discount": "-25%",
@@ -3152,7 +3152,7 @@
   {
     "id": "351",
     "title": "Get Even",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299950/header.jpg",
     "originalSalePrice": 99.35,
     "originalFullPrice": 662.35,
     "discount": "-85%",
@@ -3161,7 +3161,7 @@
   {
     "id": "352",
     "title": "Thief",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332720/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -3170,7 +3170,7 @@
   {
     "id": "353",
     "title": "PAW Patrol World - La Patrulla Canina",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952520/header.jpg",
     "originalSalePrice": 212.7,
     "originalFullPrice": 709,
     "discount": "-70%",
@@ -3188,7 +3188,7 @@
   {
     "id": "355",
     "title": "PAW Patrol™ Rescue Wheels™: Championship",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291010/header.jpg",
     "originalSalePrice": 354.5,
     "originalFullPrice": 709,
     "discount": "-50%",
@@ -3197,7 +3197,7 @@
   {
     "id": "356",
     "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264850/header.jpg",
     "originalSalePrice": 254.7,
     "originalFullPrice": 849,
     "discount": "-70%",
@@ -3206,7 +3206,7 @@
   {
     "id": "357",
     "title": "The Oregon Trail",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2013360/header.jpg",
     "originalSalePrice": 237.27,
     "originalFullPrice": 719,
     "discount": "-67%",
@@ -3215,7 +3215,7 @@
   {
     "id": "358",
     "title": "We Love Katamari REROLL+ Royal Reverie",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1730700/header.jpg",
     "originalSalePrice": 134.75,
     "originalFullPrice": 539,
     "discount": "-75%",
@@ -3224,7 +3224,7 @@
   {
     "id": "359",
     "title": "Heavenly Bodies",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138850/header.jpg",
     "originalSalePrice": 109.75,
     "originalFullPrice": 439,
     "discount": "-75%",
@@ -3233,7 +3233,7 @@
   {
     "id": "360",
     "title": "Wasteland Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/875800/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -3251,7 +3251,7 @@
   {
     "id": "362",
     "title": "The Escapists 2 - Game of the Year Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg",
     "originalSalePrice": 89.8,
     "originalFullPrice": 449,
     "discount": "-80%",
@@ -3260,7 +3260,7 @@
   {
     "id": "363",
     "title": "The Escapists 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -3269,7 +3269,7 @@
   {
     "id": "364",
     "title": "Under The Waves",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1975440/header.jpg",
     "originalSalePrice": 105.8,
     "originalFullPrice": 529,
     "discount": "-80%",
@@ -3278,7 +3278,7 @@
   {
     "id": "365",
     "title": "Morbid: The Lords of Ire",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171560/header.jpg",
     "originalSalePrice": 105.8,
     "originalFullPrice": 529,
     "discount": "-80%",
@@ -3287,7 +3287,7 @@
   {
     "id": "366",
     "title": "Unknown 9: Awakening",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477940/header.jpg",
     "originalSalePrice": 189.5,
     "originalFullPrice": 379,
     "discount": "-50%",
@@ -3296,7 +3296,7 @@
   {
     "id": "367",
     "title": "Dolmen",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/831050/header.jpg",
     "originalSalePrice": 50.85,
     "originalFullPrice": 339,
     "discount": "-85%",
@@ -3305,7 +3305,7 @@
   {
     "id": "368",
     "title": "The Lord of the Rings: Gollum™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212500/header.jpg",
     "originalSalePrice": 52.9,
     "originalFullPrice": 529,
     "discount": "-90%",
@@ -3323,7 +3323,7 @@
   {
     "id": "370",
     "title": "My Time at Portia Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -3341,7 +3341,7 @@
   {
     "id": "372",
     "title": "Make Way",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -3359,7 +3359,7 @@
   {
     "id": "374",
     "title": "theHunter: Call of the Wild™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -3368,7 +3368,7 @@
   {
     "id": "375",
     "title": "Call of the Wild: The Angler™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/header.jpg",
     "originalSalePrice": 105.8,
     "originalFullPrice": 529,
     "discount": "-80%",
@@ -3377,7 +3377,7 @@
   {
     "id": "376",
     "title": "RUSH: A Disney • PIXAR Adventure",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579490/header.jpg",
     "originalSalePrice": 164.67,
     "originalFullPrice": 499,
     "discount": "-67%",
@@ -3395,7 +3395,7 @@
   {
     "id": "378",
     "title": "Super Mega Baseball™ 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487210/header.jpg",
     "originalSalePrice": 119.9,
     "originalFullPrice": 1199,
     "discount": "-90%",
@@ -3404,7 +3404,7 @@
   {
     "id": "379",
     "title": "Kona II: Brume",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229020/header.jpg",
     "originalSalePrice": 105.8,
     "originalFullPrice": 529,
     "discount": "-80%",
@@ -3413,7 +3413,7 @@
   {
     "id": "380",
     "title": "11-11 Memories Retold",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/735580/header.jpg",
     "originalSalePrice": 104.39,
     "originalFullPrice": 695.99,
     "discount": "-85%",
@@ -3422,7 +3422,7 @@
   {
     "id": "381",
     "title": "NAMCO MUSEUM® ARCHIVES Vol 1",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254620/header.jpg",
     "originalSalePrice": 109.9,
     "originalFullPrice": 439.63,
     "discount": "-75%",
@@ -3431,7 +3431,7 @@
   {
     "id": "382",
     "title": "NAMCO MUSEUM® ARCHIVES Vol 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254620/header.jpg",
     "originalSalePrice": 109.9,
     "originalFullPrice": 439.63,
     "discount": "-75%",
@@ -3440,7 +3440,7 @@
   {
     "id": "383",
     "title": "Slay the Princess - The Pristine Cut",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/header.jpg",
     "originalSalePrice": 223.3,
     "originalFullPrice": 319,
     "discount": "-30%",
@@ -3449,7 +3449,7 @@
   {
     "id": "384",
     "title": "My Little Pony: Misterio en los Altos de Céfiro",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2235440/header.jpg",
     "originalSalePrice": 212.7,
     "originalFullPrice": 709,
     "discount": "-70%",
@@ -3476,7 +3476,7 @@
   {
     "id": "387",
     "title": "STUFFED",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098130/header.jpg",
     "originalSalePrice": 144.5,
     "originalFullPrice": 289,
     "discount": "-50%",
@@ -3485,7 +3485,7 @@
   {
     "id": "388",
     "title": "Spiritfall",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835240/header.jpg",
     "originalSalePrice": 75.57,
     "originalFullPrice": 229,
     "discount": "-67%",
@@ -3494,7 +3494,7 @@
   {
     "id": "389",
     "title": "Necropolis",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875470/header.jpg",
     "originalSalePrice": 89.6,
     "originalFullPrice": 597.39,
     "discount": "-85%",
@@ -3512,7 +3512,7 @@
   {
     "id": "391",
     "title": "Car Driving School Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563700/header.jpg",
     "originalSalePrice": 146.3,
     "originalFullPrice": 209,
     "discount": "-30%",
@@ -3521,7 +3521,7 @@
   {
     "id": "392",
     "title": "60 Seconds! Reatomized",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1012880/header.jpg",
     "originalSalePrice": 88.5,
     "originalFullPrice": 177,
     "discount": "-50%",
@@ -3530,7 +3530,7 @@
   {
     "id": "393",
     "title": "SOS OPS!",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/header.jpg",
     "originalSalePrice": 88.5,
     "originalFullPrice": 177,
     "discount": "-50%",
@@ -3539,7 +3539,7 @@
   {
     "id": "394",
     "title": "Golf With Your Friends - Ultimate Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg",
     "originalSalePrice": 94.9,
     "originalFullPrice": 949,
     "discount": "-90%",
@@ -3548,7 +3548,7 @@
   {
     "id": "395",
     "title": "Dispatch",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg",
     "originalSalePrice": 305.1,
     "originalFullPrice": 339,
     "discount": "-10%",
@@ -3557,7 +3557,7 @@
   {
     "id": "396",
     "title": "7 Days to Die - Console Edition (Game Preview)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
     "originalSalePrice": 439.45,
     "originalFullPrice": 799,
     "discount": "-45%",
@@ -3575,7 +3575,7 @@
   {
     "id": "398",
     "title": "Waterpark Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/header.jpg",
     "originalSalePrice": 117.6,
     "originalFullPrice": 147,
     "discount": "-20%",
@@ -3584,7 +3584,7 @@
   {
     "id": "399",
     "title": "Mistfall Hunter",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/header.jpg",
     "originalSalePrice": 395.1,
     "originalFullPrice": 439,
     "discount": "-10%",
@@ -3593,7 +3593,7 @@
   {
     "id": "400",
     "title": "Fallout: New Vegas",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg",
     "originalSalePrice": 99.5,
     "originalFullPrice": 199,
     "discount": "-50%",
@@ -3602,7 +3602,7 @@
   {
     "id": "401",
     "title": "DOOM",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -3620,7 +3620,7 @@
   {
     "id": "403",
     "title": "Red Dead Online",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/header.jpg",
     "originalSalePrice": 199.5,
     "originalFullPrice": 399,
     "discount": "-50%",
@@ -3638,7 +3638,7 @@
   {
     "id": "405",
     "title": "Gang Beasts",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg",
     "originalSalePrice": 91.6,
     "originalFullPrice": 229,
     "discount": "-60%",
@@ -3647,7 +3647,7 @@
   {
     "id": "406",
     "title": "The Evil Within® 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
     "originalSalePrice": 159.8,
     "originalFullPrice": 799,
     "discount": "-80%",
@@ -3656,7 +3656,7 @@
   {
     "id": "407",
     "title": "DOOM: The Dark Ages Premium Upgrade",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
     "originalSalePrice": 207.57,
     "originalFullPrice": 629,
     "discount": "-67%",
@@ -3674,7 +3674,7 @@
   {
     "id": "409",
     "title": "Bellwright",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/header.jpg",
     "originalSalePrice": 343.85,
     "originalFullPrice": 529,
     "discount": "-35%",
@@ -3683,7 +3683,7 @@
   {
     "id": "410",
     "title": "DOOM: The Dark Ages",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg",
     "originalSalePrice": 461.67,
     "originalFullPrice": 1399,
     "discount": "-67%",
@@ -3692,7 +3692,7 @@
   {
     "id": "411",
     "title": "Pure Pool Pro",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456930/header.jpg",
     "originalSalePrice": 351.2,
     "originalFullPrice": 439,
     "discount": "-20%",
@@ -3701,7 +3701,7 @@
   {
     "id": "412",
     "title": "Mafia III: Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360430/header.jpg",
     "originalSalePrice": 149.99,
     "originalFullPrice": 749.99,
     "discount": "-80%",
@@ -3710,7 +3710,7 @@
   {
     "id": "413",
     "title": "MX vs ATV Legends",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/header.jpg",
     "originalSalePrice": 177.25,
     "originalFullPrice": 709,
     "discount": "-75%",
@@ -3719,7 +3719,7 @@
   {
     "id": "414",
     "title": "Wolfenstein® II: The New Colossus™ Digital Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
     "originalSalePrice": 209.85,
     "originalFullPrice": 1399,
     "discount": "-85%",
@@ -3728,7 +3728,7 @@
   {
     "id": "415",
     "title": "The Evil Within",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
     "originalSalePrice": 97.25,
     "originalFullPrice": 389,
     "discount": "-75%",
@@ -3737,7 +3737,7 @@
   {
     "id": "416",
     "title": "Holdfast: Nations At War",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/589290/header.jpg",
     "originalSalePrice": 148.85,
     "originalFullPrice": 229,
     "discount": "-35%",
@@ -3746,7 +3746,7 @@
   {
     "id": "417",
     "title": "Dishonored 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -3755,7 +3755,7 @@
   {
     "id": "418",
     "title": "Mafia II: Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/header.jpg",
     "originalSalePrice": 149.99,
     "originalFullPrice": 749.99,
     "discount": "-80%",
@@ -3764,7 +3764,7 @@
   {
     "id": "419",
     "title": "Fallout 76",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/header.jpg",
     "originalSalePrice": 199.75,
     "originalFullPrice": 799,
     "discount": "-75%",
@@ -3773,7 +3773,7 @@
   {
     "id": "420",
     "title": "DOOM + DOOM II",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg",
     "originalSalePrice": 79.6,
     "originalFullPrice": 199,
     "discount": "-60%",
@@ -3782,7 +3782,7 @@
   {
     "id": "421",
     "title": "Zombie Graveyard Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430450/header.jpg",
     "originalSalePrice": 242.1,
     "originalFullPrice": 269,
     "discount": "-10%",
@@ -3791,7 +3791,7 @@
   {
     "id": "422",
     "title": "RAGE",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg",
     "originalSalePrice": 79.6,
     "originalFullPrice": 199,
     "discount": "-60%",
@@ -3809,7 +3809,7 @@
   {
     "id": "424",
     "title": "Wolfenstein: The New Order",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg",
     "originalSalePrice": 96.25,
     "originalFullPrice": 385,
     "discount": "-75%",
@@ -3827,7 +3827,7 @@
   {
     "id": "426",
     "title": "Wolfenstein®: The Two-Pack",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/62587/header.jpg",
     "originalSalePrice": 176.25,
     "originalFullPrice": 705,
     "discount": "-75%",
@@ -3836,7 +3836,7 @@
   {
     "id": "427",
     "title": "Drug Dealer Simulator 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708850/header.jpg",
     "originalSalePrice": 373.15,
     "originalFullPrice": 439,
     "discount": "-15%",
@@ -3863,7 +3863,7 @@
   {
     "id": "430",
     "title": "DOOM 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/header.jpg",
     "originalSalePrice": 79.6,
     "originalFullPrice": 199,
     "discount": "-60%",
@@ -3872,7 +3872,7 @@
   {
     "id": "431",
     "title": "Quake II",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg",
     "originalSalePrice": 70.8,
     "originalFullPrice": 177,
     "discount": "-60%",
@@ -3881,7 +3881,7 @@
   {
     "id": "432",
     "title": "The King is Watching",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753900/header.jpg",
     "originalSalePrice": 159.3,
     "originalFullPrice": 177,
     "discount": "-10%",
@@ -3890,7 +3890,7 @@
   {
     "id": "433",
     "title": "MXGP 2020 - The Official Motocross Videogame",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259800/header.jpg",
     "originalSalePrice": 54.9,
     "originalFullPrice": 549,
     "discount": "-90%",
@@ -3908,7 +3908,7 @@
   {
     "id": "435",
     "title": "Quake",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210/header.jpg",
     "originalSalePrice": 79.6,
     "originalFullPrice": 199,
     "discount": "-60%",
@@ -3917,7 +3917,7 @@
   {
     "id": "436",
     "title": "LOLLIPOP CHAINSAW RePOP",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2658450/header.jpg",
     "originalSalePrice": 479.33,
     "originalFullPrice": 798.89,
     "discount": "-40%",
@@ -3926,7 +3926,7 @@
   {
     "id": "437",
     "title": "Zoochosis",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458560/header.jpg",
     "originalSalePrice": 125.55,
     "originalFullPrice": 279,
     "discount": "-55%",
@@ -3944,7 +3944,7 @@
   {
     "id": "439",
     "title": "THE KING OF FIGHTERS XV Ultimate Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/header.jpg",
     "originalSalePrice": 299.75,
     "originalFullPrice": 1199,
     "discount": "-75%",
@@ -3962,7 +3962,7 @@
   {
     "id": "441",
     "title": "7 Days to Die (Game Preview)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
     "originalSalePrice": 433.95,
     "originalFullPrice": 789,
     "discount": "-45%",
@@ -3971,7 +3971,7 @@
   {
     "id": "442",
     "title": "Disney Dreamlight Valley",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/header.jpg",
     "originalSalePrice": 496.3,
     "originalFullPrice": 709,
     "discount": "-30%",
@@ -3980,7 +3980,7 @@
   {
     "id": "443",
     "title": "Wolfenstein® II: The New Colossus™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
     "originalSalePrice": 121.35,
     "originalFullPrice": 809,
     "discount": "-85%",
@@ -3989,7 +3989,7 @@
   {
     "id": "444",
     "title": "The Elder Scrolls Online: Standard Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -3998,7 +3998,7 @@
   {
     "id": "445",
     "title": "Wolfenstein: The Old Blood",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg",
     "originalSalePrice": 80.25,
     "originalFullPrice": 321,
     "discount": "-75%",
@@ -4007,7 +4007,7 @@
   {
     "id": "446",
     "title": "RIDE 5",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1650010/header.jpg",
     "originalSalePrice": 179.8,
     "originalFullPrice": 899,
     "discount": "-80%",
@@ -4016,7 +4016,7 @@
   {
     "id": "447",
     "title": "Heretic + Hexen",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3286930/header.jpg",
     "originalSalePrice": 200.33,
     "originalFullPrice": 299,
     "discount": "-33%",
@@ -4043,7 +4043,7 @@
   {
     "id": "450",
     "title": "Don't Starve Together: Console Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
     "originalSalePrice": 69.65,
     "originalFullPrice": 199,
     "discount": "-65%",
@@ -4052,7 +4052,7 @@
   {
     "id": "451",
     "title": "MONSTER HUNTER: WORLD™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
     "originalSalePrice": 206.01,
     "originalFullPrice": 515.03,
     "discount": "-60%",
@@ -4061,7 +4061,7 @@
   {
     "id": "452",
     "title": "Celeste",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
     "originalSalePrice": 57.25,
     "originalFullPrice": 229,
     "discount": "-75%",
@@ -4070,7 +4070,7 @@
   {
     "id": "453",
     "title": "DEATHLOOP",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/header.jpg",
     "originalSalePrice": 239.8,
     "originalFullPrice": 1199,
     "discount": "-80%",
@@ -4079,7 +4079,7 @@
   {
     "id": "454",
     "title": "Deep Rock Galactic",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
     "originalSalePrice": 83.7,
     "originalFullPrice": 279,
     "discount": "-70%",
@@ -4088,7 +4088,7 @@
   {
     "id": "455",
     "title": "Shard Squad",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363560/header.jpg",
     "originalSalePrice": 110.7,
     "originalFullPrice": 123,
     "discount": "-10%",
@@ -4097,7 +4097,7 @@
   {
     "id": "456",
     "title": "Wolfenstein: Youngblood Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056990/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -4115,7 +4115,7 @@
   {
     "id": "458",
     "title": "Dungeon Antiqua",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3198540/header.jpg",
     "originalSalePrice": 106.25,
     "originalFullPrice": 125,
     "discount": "-15%",
@@ -4133,7 +4133,7 @@
   {
     "id": "460",
     "title": "Fallout: New Vegas Ultimate Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22380/header.jpg",
     "originalSalePrice": 159.6,
     "originalFullPrice": 399,
     "discount": "-60%",
@@ -4151,7 +4151,7 @@
   {
     "id": "462",
     "title": "A Game About Digging A Hole™",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/927990/header.jpg",
     "originalSalePrice": 62.3,
     "originalFullPrice": 89,
     "discount": "-30%",
@@ -4160,7 +4160,7 @@
   {
     "id": "463",
     "title": "Wolfenstein: Youngblood",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056960/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -4169,7 +4169,7 @@
   {
     "id": "464",
     "title": "Ghostwire: Tokyo",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475810/header.jpg",
     "originalSalePrice": 299.75,
     "originalFullPrice": 1199,
     "discount": "-75%",
@@ -4178,7 +4178,7 @@
   {
     "id": "465",
     "title": "Frog Sqwad",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/header.jpg",
     "originalSalePrice": 74.25,
     "originalFullPrice": 99,
     "discount": "-25%",
@@ -4187,7 +4187,7 @@
   {
     "id": "466",
     "title": "THE KING OF FIGHTERS XV Standard Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/header.jpg",
     "originalSalePrice": 124.75,
     "originalFullPrice": 499,
     "discount": "-75%",
@@ -4196,7 +4196,7 @@
   {
     "id": "467",
     "title": "RAGE 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548570/header.jpg",
     "originalSalePrice": 159.8,
     "originalFullPrice": 799,
     "discount": "-80%",
@@ -4214,7 +4214,7 @@
   {
     "id": "469",
     "title": "Blast'N Bounty",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570770/header.jpg",
     "originalSalePrice": 63.2,
     "originalFullPrice": 79,
     "discount": "-20%",
@@ -4223,7 +4223,7 @@
   {
     "id": "470",
     "title": "Case Solved: The London Files",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127360/header.jpg",
     "originalSalePrice": 118.15,
     "originalFullPrice": 139,
     "discount": "-15%",
@@ -4232,7 +4232,7 @@
   {
     "id": "471",
     "title": "MX vs ATV All Out",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -4250,7 +4250,7 @@
   {
     "id": "473",
     "title": "Operation: Tango",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1335790/header.jpg",
     "originalSalePrice": 101.2,
     "originalFullPrice": 404.83,
     "discount": "-75%",
@@ -4259,7 +4259,7 @@
   {
     "id": "474",
     "title": "Broforce",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg",
     "originalSalePrice": 53.8,
     "originalFullPrice": 269,
     "discount": "-80%",
@@ -4268,7 +4268,7 @@
   {
     "id": "475",
     "title": "Deep Rock Galactic - Ultimate Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
     "originalSalePrice": 263.7,
     "originalFullPrice": 879,
     "discount": "-70%",
@@ -4277,7 +4277,7 @@
   {
     "id": "476",
     "title": "MX vs. ATV: Untamed",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/header.jpg",
     "originalSalePrice": 59.8,
     "originalFullPrice": 299,
     "discount": "-80%",
@@ -4286,7 +4286,7 @@
   {
     "id": "477",
     "title": "Verho - Curse of Faces",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017330/header.jpg",
     "originalSalePrice": 395.1,
     "originalFullPrice": 439,
     "discount": "-10%",
@@ -4295,7 +4295,7 @@
   {
     "id": "478",
     "title": "Viewfinder",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/header.jpg",
     "originalSalePrice": 104.65,
     "originalFullPrice": 299,
     "discount": "-65%",
@@ -4313,7 +4313,7 @@
   {
     "id": "480",
     "title": "Formula Legends",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3194360/header.jpg",
     "originalSalePrice": 119.4,
     "originalFullPrice": 199,
     "discount": "-40%",
@@ -4322,7 +4322,7 @@
   {
     "id": "481",
     "title": "Fallout 3: Game of the Year Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22370/header.jpg",
     "originalSalePrice": 131.67,
     "originalFullPrice": 399,
     "discount": "-67%",
@@ -4331,7 +4331,7 @@
   {
     "id": "482",
     "title": "Solarpunk",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/header.jpg",
     "originalSalePrice": 239.19,
     "originalFullPrice": 298.99,
     "discount": "-20%",
@@ -4340,7 +4340,7 @@
   {
     "id": "483",
     "title": "Inscryption",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
     "originalSalePrice": 104.7,
     "originalFullPrice": 349,
     "discount": "-70%",
@@ -4367,7 +4367,7 @@
   {
     "id": "486",
     "title": "Redfall",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1294810/header.jpg",
     "originalSalePrice": 399.5,
     "originalFullPrice": 799,
     "discount": "-50%",
@@ -4385,7 +4385,7 @@
   {
     "id": "488",
     "title": "Monster Energy Supercross 4 - Special Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581370/header.jpg",
     "originalSalePrice": 89.9,
     "originalFullPrice": 899,
     "discount": "-90%",
@@ -4394,7 +4394,7 @@
   {
     "id": "489",
     "title": "Wolfenstein: The New Order (PC)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/header.jpg",
     "originalSalePrice": 87.25,
     "originalFullPrice": 349,
     "discount": "-75%",
@@ -4403,7 +4403,7 @@
   {
     "id": "490",
     "title": "Destroy All Humans!",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/header.jpg",
     "originalSalePrice": 59.8,
     "originalFullPrice": 299,
     "discount": "-80%",
@@ -4412,7 +4412,7 @@
   {
     "id": "491",
     "title": "Monster Energy Supercross - The Official Videogame 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581370/header.jpg",
     "originalSalePrice": 54.9,
     "originalFullPrice": 549,
     "discount": "-90%",
@@ -4421,7 +4421,7 @@
   {
     "id": "492",
     "title": "Bulletstorm: Full Clip Edition Duke Nukem Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501590/header.jpg",
     "originalSalePrice": 134.32,
     "originalFullPrice": 671.63,
     "discount": "-80%",
@@ -4430,7 +4430,7 @@
   {
     "id": "493",
     "title": "Railway Routes",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533200/header.jpg",
     "originalSalePrice": 71.2,
     "originalFullPrice": 89,
     "discount": "-20%",
@@ -4439,7 +4439,7 @@
   {
     "id": "494",
     "title": "THE KING OF FIGHTERS XV Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/header.jpg",
     "originalSalePrice": 174.75,
     "originalFullPrice": 699,
     "discount": "-75%",
@@ -4457,7 +4457,7 @@
   {
     "id": "496",
     "title": "Ultimate General: Civil War",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/header.jpg",
     "originalSalePrice": 264.5,
     "originalFullPrice": 529,
     "discount": "-50%",
@@ -4466,7 +4466,7 @@
   {
     "id": "497",
     "title": "Divinity: Original Sin. La saga de la Fuente",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435150/header.jpg",
     "originalSalePrice": 491.37,
     "originalFullPrice": 1228.43,
     "discount": "-60%",
@@ -4475,7 +4475,7 @@
   {
     "id": "498",
     "title": "Escape Academy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812090/header.jpg",
     "originalSalePrice": 107.25,
     "originalFullPrice": 429,
     "discount": "-75%",
@@ -4484,7 +4484,7 @@
   {
     "id": "499",
     "title": "Fuga: Melodies of Steel 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357860/header.jpg",
     "originalSalePrice": 493.45,
     "originalFullPrice": 822.43,
     "discount": "-40%",
@@ -4493,7 +4493,7 @@
   {
     "id": "500",
     "title": "Gord",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102280/header.jpg",
     "originalSalePrice": 119.8,
     "originalFullPrice": 599,
     "discount": "-80%",
@@ -4502,7 +4502,7 @@
   {
     "id": "501",
     "title": "Sniper Elite 5 Complete Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg",
     "originalSalePrice": 387.8,
     "originalFullPrice": 1939,
     "discount": "-80%",
@@ -4520,7 +4520,7 @@
   {
     "id": "503",
     "title": "Crashout Crew",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3583210/header.jpg",
     "originalSalePrice": 57.85,
     "originalFullPrice": 89,
     "discount": "-35%",
@@ -4547,7 +4547,7 @@
   {
     "id": "506",
     "title": "Quake 4",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2210/header.jpg",
     "originalSalePrice": 88.77,
     "originalFullPrice": 269,
     "discount": "-67%",
@@ -4565,7 +4565,7 @@
   {
     "id": "508",
     "title": "Riven",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/header.jpg",
     "originalSalePrice": 495.2,
     "originalFullPrice": 619,
     "discount": "-20%",
@@ -4574,7 +4574,7 @@
   {
     "id": "509",
     "title": "Wolfenstein: The Old Blood (PC)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg",
     "originalSalePrice": 79.75,
     "originalFullPrice": 319,
     "discount": "-75%",
@@ -4583,7 +4583,7 @@
   {
     "id": "510",
     "title": "Monster Energy Supercross 4 - Special Edition - Xbox Series X|S",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581370/header.jpg",
     "originalSalePrice": 89.9,
     "originalFullPrice": 899,
     "discount": "-90%",
@@ -4592,7 +4592,7 @@
   {
     "id": "511",
     "title": "Biomutant",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597820/header.jpg",
     "originalSalePrice": 177.25,
     "originalFullPrice": 709,
     "discount": "-75%",
@@ -4601,7 +4601,7 @@
   {
     "id": "512",
     "title": "Kristala",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206410/header.jpg",
     "originalSalePrice": 425.4,
     "originalFullPrice": 709,
     "discount": "-40%",
@@ -4610,7 +4610,7 @@
   {
     "id": "513",
     "title": "Monster Energy Supercross 4 - Xbox Series X|S",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2581370/header.jpg",
     "originalSalePrice": 54.9,
     "originalFullPrice": 549,
     "discount": "-90%",
@@ -4619,7 +4619,7 @@
   {
     "id": "514",
     "title": "Darksiders Genesis",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710920/header.jpg",
     "originalSalePrice": 71.9,
     "originalFullPrice": 719,
     "discount": "-90%",
@@ -4628,7 +4628,7 @@
   {
     "id": "515",
     "title": "Superliminal",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/header.jpg",
     "originalSalePrice": 171.6,
     "originalFullPrice": 429,
     "discount": "-60%",
@@ -4637,7 +4637,7 @@
   {
     "id": "516",
     "title": "Wolfenstein II: The New Colossus",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
     "originalSalePrice": 119.85,
     "originalFullPrice": 799,
     "discount": "-85%",
@@ -4673,7 +4673,7 @@
   {
     "id": "520",
     "title": "DUSK",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/519860/header.jpg",
     "originalSalePrice": 261.75,
     "originalFullPrice": 349,
     "discount": "-25%",
@@ -4700,7 +4700,7 @@
   {
     "id": "523",
     "title": "Mechaconda",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152770/header.jpg",
     "originalSalePrice": 105.75,
     "originalFullPrice": 141,
     "discount": "-25%",
@@ -4709,7 +4709,7 @@
   {
     "id": "524",
     "title": "MX vs. ATV Alive",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/header.jpg",
     "originalSalePrice": 59.8,
     "originalFullPrice": 299,
     "discount": "-80%",
@@ -4718,7 +4718,7 @@
   {
     "id": "525",
     "title": "Destroy All Humans! 2 - Reprobed",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/header.jpg",
     "originalSalePrice": 354.5,
     "originalFullPrice": 709,
     "discount": "-50%",
@@ -4727,7 +4727,7 @@
   {
     "id": "526",
     "title": "Wreckreation",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4734020/header.jpg",
     "originalSalePrice": 425.4,
     "originalFullPrice": 709,
     "discount": "-40%",
@@ -4745,7 +4745,7 @@
   {
     "id": "528",
     "title": "Way of the Hunter - Ultimate Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/header.jpg",
     "originalSalePrice": 371.7,
     "originalFullPrice": 1239,
     "discount": "-70%",
@@ -4754,7 +4754,7 @@
   {
     "id": "529",
     "title": "Myst",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974480/header.jpg",
     "originalSalePrice": 478.8,
     "originalFullPrice": 798,
     "discount": "-40%",
@@ -4763,7 +4763,7 @@
   {
     "id": "530",
     "title": "Tiny Witch",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740310/header.jpg",
     "originalSalePrice": 141.6,
     "originalFullPrice": 177,
     "discount": "-20%",
@@ -4772,7 +4772,7 @@
   {
     "id": "531",
     "title": "Spray Paint Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811340/header.jpg",
     "originalSalePrice": 201.75,
     "originalFullPrice": 269,
     "discount": "-25%",
@@ -4781,7 +4781,7 @@
   {
     "id": "532",
     "title": "Old Market Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878420/header.jpg",
     "originalSalePrice": 201.75,
     "originalFullPrice": 269,
     "discount": "-25%",
@@ -4790,7 +4790,7 @@
   {
     "id": "533",
     "title": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/header.jpg",
     "originalSalePrice": 63.6,
     "originalFullPrice": 159,
     "discount": "-60%",
@@ -4799,7 +4799,7 @@
   {
     "id": "534",
     "title": "Chess Battle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/622830/header.jpg",
     "originalSalePrice": 53.25,
     "originalFullPrice": 71,
     "discount": "-25%",
@@ -4817,7 +4817,7 @@
   {
     "id": "536",
     "title": "Quake III Arena",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg",
     "originalSalePrice": 119.6,
     "originalFullPrice": 299,
     "discount": "-60%",
@@ -4826,7 +4826,7 @@
   {
     "id": "537",
     "title": "Turnip Mountain",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138410/header.jpg",
     "originalSalePrice": 148,
     "originalFullPrice": 185,
     "discount": "-20%",
@@ -4844,7 +4844,7 @@
   {
     "id": "539",
     "title": "The Renovator: Origins",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1917550/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -4853,7 +4853,7 @@
   {
     "id": "540",
     "title": "Titan Quest",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154030/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -4862,7 +4862,7 @@
   {
     "id": "541",
     "title": "Trident's Tale",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/header.jpg",
     "originalSalePrice": 79.6,
     "originalFullPrice": 199,
     "discount": "-60%",
@@ -4871,7 +4871,7 @@
   {
     "id": "542",
     "title": "The Evil Within® 2 (PC)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
     "originalSalePrice": 159.8,
     "originalFullPrice": 799,
     "discount": "-80%",
@@ -4880,7 +4880,7 @@
   {
     "id": "543",
     "title": "Darksiders III",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606280/header.jpg",
     "originalSalePrice": 70.9,
     "originalFullPrice": 709,
     "discount": "-90%",
@@ -4898,7 +4898,7 @@
   {
     "id": "545",
     "title": "The 7th Guest Remake",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/header.jpg",
     "originalSalePrice": 223.3,
     "originalFullPrice": 319,
     "discount": "-30%",
@@ -4907,7 +4907,7 @@
   {
     "id": "546",
     "title": "Return to Monkey Island",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/header.jpg",
     "originalSalePrice": 109.75,
     "originalFullPrice": 439,
     "discount": "-75%",
@@ -4916,7 +4916,7 @@
   {
     "id": "547",
     "title": "Bus Driving Simulator : EVO",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2514430/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -4925,7 +4925,7 @@
   {
     "id": "548",
     "title": "Outcast - A New Beginning",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013140/header.jpg",
     "originalSalePrice": 354.5,
     "originalFullPrice": 709,
     "discount": "-50%",
@@ -4934,7 +4934,7 @@
   {
     "id": "549",
     "title": "Children of Morta",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330020/header.jpg",
     "originalSalePrice": 58.35,
     "originalFullPrice": 389,
     "discount": "-85%",
@@ -4943,7 +4943,7 @@
   {
     "id": "550",
     "title": "Baja: Edge of Control HD",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/623090/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -4952,7 +4952,7 @@
   {
     "id": "551",
     "title": "Trine 5: A Clockwork Conspiracy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436700/header.jpg",
     "originalSalePrice": 211.6,
     "originalFullPrice": 529,
     "discount": "-60%",
@@ -4961,7 +4961,7 @@
   {
     "id": "552",
     "title": "Creepy Shift: House For Sale",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400650/header.jpg",
     "originalSalePrice": 118.59,
     "originalFullPrice": 177,
     "discount": "-33%",
@@ -4970,7 +4970,7 @@
   {
     "id": "553",
     "title": "Loop Hero",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/header.jpg",
     "originalSalePrice": 53.8,
     "originalFullPrice": 269,
     "discount": "-80%",
@@ -4988,7 +4988,7 @@
   {
     "id": "555",
     "title": "MX vs. ATV Supercross Encore",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -5006,7 +5006,7 @@
   {
     "id": "557",
     "title": "Remnant: From the Ashes - Complete Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg",
     "originalSalePrice": 175.8,
     "originalFullPrice": 879,
     "discount": "-80%",
@@ -5015,7 +5015,7 @@
   {
     "id": "558",
     "title": "Airplane Flight Simulator : EVO",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596370/header.jpg",
     "originalSalePrice": 169.5,
     "originalFullPrice": 339,
     "discount": "-50%",
@@ -5024,7 +5024,7 @@
   {
     "id": "559",
     "title": "ELEX II",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/900040/header.jpg",
     "originalSalePrice": 211.8,
     "originalFullPrice": 1059,
     "discount": "-80%",
@@ -5042,7 +5042,7 @@
   {
     "id": "561",
     "title": "Floor 9",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106510/header.jpg",
     "originalSalePrice": 63,
     "originalFullPrice": 105,
     "discount": "-40%",
@@ -5051,7 +5051,7 @@
   {
     "id": "562",
     "title": "Dig or Die: Console Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315460/header.jpg",
     "originalSalePrice": 88.5,
     "originalFullPrice": 177,
     "discount": "-50%",
@@ -5060,7 +5060,7 @@
   {
     "id": "563",
     "title": "ISLANDERS: New Shores - The Full Archipelago Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368930/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -5069,7 +5069,7 @@
   {
     "id": "564",
     "title": "Don't Be Afraid y The Great Perhaps Paquete",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760410/header.jpg",
     "originalSalePrice": 215.2,
     "originalFullPrice": 269,
     "discount": "-20%",
@@ -5078,7 +5078,7 @@
   {
     "id": "565",
     "title": "Airplane Flight Simulator : Combat Zone",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596370/header.jpg",
     "originalSalePrice": 169.5,
     "originalFullPrice": 339,
     "discount": "-50%",
@@ -5087,7 +5087,7 @@
   {
     "id": "566",
     "title": "Elex",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/900040/header.jpg",
     "originalSalePrice": 141.8,
     "originalFullPrice": 709,
     "discount": "-80%",
@@ -5096,7 +5096,7 @@
   {
     "id": "567",
     "title": "Way of the Hunter: Elite Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/header.jpg",
     "originalSalePrice": 239.7,
     "originalFullPrice": 799,
     "discount": "-70%",
@@ -5114,7 +5114,7 @@
   {
     "id": "569",
     "title": "Alchemist: Journey of The Soul",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115240/header.jpg",
     "originalSalePrice": 167.2,
     "originalFullPrice": 209,
     "discount": "-20%",
@@ -5123,7 +5123,7 @@
   {
     "id": "570",
     "title": "Jagged Alliance 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084160/header.jpg",
     "originalSalePrice": 317.7,
     "originalFullPrice": 1059,
     "discount": "-70%",
@@ -5132,7 +5132,7 @@
   {
     "id": "571",
     "title": "Crown Trick",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1497720/header.jpg",
     "originalSalePrice": 62.49,
     "originalFullPrice": 249.99,
     "discount": "-75%",
@@ -5141,7 +5141,7 @@
   {
     "id": "572",
     "title": "Frontlines:Fuel of War",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9460/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -5150,7 +5150,7 @@
   {
     "id": "573",
     "title": "Risen",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347620/header.jpg",
     "originalSalePrice": 211.6,
     "originalFullPrice": 529,
     "discount": "-60%",
@@ -5159,7 +5159,7 @@
   {
     "id": "574",
     "title": "Fade to Silence",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/706020/header.jpg",
     "originalSalePrice": 129.75,
     "originalFullPrice": 519,
     "discount": "-75%",
@@ -5168,7 +5168,7 @@
   {
     "id": "575",
     "title": "Hell Let Loose - U.S Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
     "originalSalePrice": 67.5,
     "originalFullPrice": 135,
     "discount": "-50%",
@@ -5177,7 +5177,7 @@
   {
     "id": "576",
     "title": "Kingdoms of Amalur: Re-Reckoning",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041720/header.jpg",
     "originalSalePrice": 141.8,
     "originalFullPrice": 709,
     "discount": "-80%",
@@ -5195,7 +5195,7 @@
   {
     "id": "578",
     "title": "Deep Rock Galactic - Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg",
     "originalSalePrice": 212.7,
     "originalFullPrice": 709,
     "discount": "-70%",
@@ -5231,7 +5231,7 @@
   {
     "id": "582",
     "title": "Full Spectrum Warrior",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -5249,7 +5249,7 @@
   {
     "id": "584",
     "title": "Stay Still",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231730/header.jpg",
     "originalSalePrice": 106.2,
     "originalFullPrice": 177,
     "discount": "-40%",
@@ -5258,7 +5258,7 @@
   {
     "id": "585",
     "title": "Car Mechanic Shop Simulator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401000/header.jpg",
     "originalSalePrice": 70.5,
     "originalFullPrice": 141,
     "discount": "-50%",
@@ -5267,7 +5267,7 @@
   {
     "id": "586",
     "title": "Lost Ember: Rekindled Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3086580/header.jpg",
     "originalSalePrice": 264.5,
     "originalFullPrice": 529,
     "discount": "-50%",
@@ -5276,7 +5276,7 @@
   {
     "id": "587",
     "title": "KIBORG + DESCENT",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298680/header.jpg",
     "originalSalePrice": 402.35,
     "originalFullPrice": 619,
     "discount": "-35%",
@@ -5285,7 +5285,7 @@
   {
     "id": "588",
     "title": "Harvest Cafe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/header.jpg",
     "originalSalePrice": 129.5,
     "originalFullPrice": 185,
     "discount": "-30%",
@@ -5294,7 +5294,7 @@
   {
     "id": "589",
     "title": "Fuga: Melodies of Steel",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357860/header.jpg",
     "originalSalePrice": 411.21,
     "originalFullPrice": 822.43,
     "discount": "-50%",
@@ -5312,7 +5312,7 @@
   {
     "id": "591",
     "title": "Holdfast: Age Of Sail Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434720/header.jpg",
     "originalSalePrice": 367.2,
     "originalFullPrice": 459,
     "discount": "-20%",
@@ -5321,7 +5321,7 @@
   {
     "id": "592",
     "title": "Bioweaver",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3177970/header.jpg",
     "originalSalePrice": 79.95,
     "originalFullPrice": 123,
     "discount": "-35%",
@@ -5330,7 +5330,7 @@
   {
     "id": "593",
     "title": "Blood West",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587130/header.jpg",
     "originalSalePrice": 329.25,
     "originalFullPrice": 439,
     "discount": "-25%",
@@ -5339,7 +5339,7 @@
   {
     "id": "594",
     "title": "ANNO : Mutationem",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368030/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -5348,7 +5348,7 @@
   {
     "id": "595",
     "title": "Cannon Brawl",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230860/header.jpg",
     "originalSalePrice": 64.5,
     "originalFullPrice": 129,
     "discount": "-50%",
@@ -5357,7 +5357,7 @@
   {
     "id": "596",
     "title": "The Sinking Forest - 沈んだ森",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3206410/header.jpg",
     "originalSalePrice": 106.2,
     "originalFullPrice": 177,
     "discount": "-40%",
@@ -5366,7 +5366,7 @@
   {
     "id": "597",
     "title": "Greedland",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218400/header.jpg",
     "originalSalePrice": 160.3,
     "originalFullPrice": 229,
     "discount": "-30%",
@@ -5375,7 +5375,7 @@
   {
     "id": "598",
     "title": "Keeper's Toll",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002220/header.jpg",
     "originalSalePrice": 92.25,
     "originalFullPrice": 123,
     "discount": "-25%",
@@ -5384,7 +5384,7 @@
   {
     "id": "599",
     "title": "Moving Houses",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2831060/header.jpg",
     "originalSalePrice": 137.4,
     "originalFullPrice": 229,
     "discount": "-40%",
@@ -5393,7 +5393,7 @@
   {
     "id": "600",
     "title": "This War of Mine: Final Cut",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282070/header.jpg",
     "originalSalePrice": 52.35,
     "originalFullPrice": 349,
     "discount": "-85%",
@@ -5402,7 +5402,7 @@
   {
     "id": "601",
     "title": "Top Racer Collection",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214000/header.jpg",
     "originalSalePrice": 191.95,
     "originalFullPrice": 349,
     "discount": "-45%",
@@ -5420,7 +5420,7 @@
   {
     "id": "603",
     "title": "Epic Chef",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1312960/header.jpg",
     "originalSalePrice": 100,
     "originalFullPrice": 500,
     "discount": "-80%",
@@ -5429,7 +5429,7 @@
   {
     "id": "604",
     "title": "Trash Goblin",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407830/header.jpg",
     "originalSalePrice": 279.2,
     "originalFullPrice": 349,
     "discount": "-20%",
@@ -5465,7 +5465,7 @@
   {
     "id": "608",
     "title": "Hell Let Loose - German Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
     "originalSalePrice": 67.5,
     "originalFullPrice": 135,
     "discount": "-50%",
@@ -5474,7 +5474,7 @@
   {
     "id": "609",
     "title": "9th Dawn Remake",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1550180/header.jpg",
     "originalSalePrice": 111.6,
     "originalFullPrice": 279,
     "discount": "-60%",
@@ -5483,7 +5483,7 @@
   {
     "id": "610",
     "title": "Little Droid",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2500570/header.jpg",
     "originalSalePrice": 68.25,
     "originalFullPrice": 105,
     "discount": "-35%",
@@ -5492,7 +5492,7 @@
   {
     "id": "611",
     "title": "Shy Dogs Hidden Orchestra 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2509550/header.jpg",
     "originalSalePrice": 70.35,
     "originalFullPrice": 105,
     "discount": "-33%",
@@ -5510,7 +5510,7 @@
   {
     "id": "613",
     "title": "The Journey Down Trilogy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579760/header.jpg",
     "originalSalePrice": 264.5,
     "originalFullPrice": 529,
     "discount": "-50%",
@@ -5528,7 +5528,7 @@
   {
     "id": "615",
     "title": "The Lord of the Rings: Adventure Card Game - Definitive Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212500/header.jpg",
     "originalSalePrice": 87.25,
     "originalFullPrice": 349,
     "discount": "-75%",
@@ -5537,7 +5537,7 @@
   {
     "id": "616",
     "title": "Water Delivery",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077670/header.jpg",
     "originalSalePrice": 56.4,
     "originalFullPrice": 141,
     "discount": "-60%",
@@ -5546,7 +5546,7 @@
   {
     "id": "617",
     "title": "My Little Universe",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2328750/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -5555,7 +5555,7 @@
   {
     "id": "618",
     "title": "Chronos: Before the Ashes",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967390/header.jpg",
     "originalSalePrice": 132.25,
     "originalFullPrice": 529,
     "discount": "-75%",
@@ -5573,7 +5573,7 @@
   {
     "id": "620",
     "title": "Battle Chasers: Nightwar",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451020/header.jpg",
     "originalSalePrice": 99.75,
     "originalFullPrice": 399,
     "discount": "-75%",
@@ -5618,7 +5618,7 @@
   {
     "id": "625",
     "title": "Alone in the Dark - Digital Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310410/header.jpg",
     "originalSalePrice": 439.5,
     "originalFullPrice": 879,
     "discount": "-50%",
@@ -5627,7 +5627,7 @@
   {
     "id": "626",
     "title": "Bus Simulator 21 Next Stop - Gold Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976590/header.jpg",
     "originalSalePrice": 233.97,
     "originalFullPrice": 709,
     "discount": "-67%",
@@ -5636,7 +5636,7 @@
   {
     "id": "627",
     "title": "Johnny Trigger",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751320/header.jpg",
     "originalSalePrice": 53.4,
     "originalFullPrice": 89,
     "discount": "-40%",
@@ -5645,7 +5645,7 @@
   {
     "id": "628",
     "title": "The Valiant",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959860/header.jpg",
     "originalSalePrice": 131.7,
     "originalFullPrice": 439,
     "discount": "-70%",
@@ -5654,7 +5654,7 @@
   {
     "id": "629",
     "title": "Fuga: Melodies of Steel 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357860/header.jpg",
     "originalSalePrice": 411.21,
     "originalFullPrice": 822.43,
     "discount": "-50%",
@@ -5672,7 +5672,7 @@
   {
     "id": "631",
     "title": "BAD END THEATER",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1764390/header.jpg",
     "originalSalePrice": 92.25,
     "originalFullPrice": 123,
     "discount": "-25%",
@@ -5699,7 +5699,7 @@
   {
     "id": "634",
     "title": "Mark of the Ninja: Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933370/header.jpg",
     "originalSalePrice": 62.25,
     "originalFullPrice": 249,
     "discount": "-75%",
@@ -5708,7 +5708,7 @@
   {
     "id": "635",
     "title": "Moonglow Bay",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361400/header.jpg",
     "originalSalePrice": 87.8,
     "originalFullPrice": 439,
     "discount": "-80%",
@@ -5726,7 +5726,7 @@
   {
     "id": "637",
     "title": "Beacon Pines",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1269640/header.jpg",
     "originalSalePrice": 104.7,
     "originalFullPrice": 349,
     "discount": "-70%",
@@ -5744,7 +5744,7 @@
   {
     "id": "639",
     "title": "Galacticare",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494730/header.jpg",
     "originalSalePrice": 343.85,
     "originalFullPrice": 529,
     "discount": "-35%",
@@ -5753,7 +5753,7 @@
   {
     "id": "640",
     "title": "Griftlands",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/header.jpg",
     "originalSalePrice": 122.15,
     "originalFullPrice": 349,
     "discount": "-65%",
@@ -5762,7 +5762,7 @@
   {
     "id": "641",
     "title": "Meet Your Maker: Lote Sector 1",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1194810/header.jpg",
     "originalSalePrice": 66.5,
     "originalFullPrice": 133,
     "discount": "-50%",
@@ -5780,7 +5780,7 @@
   {
     "id": "643",
     "title": "KIBORG",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2405060/header.jpg",
     "originalSalePrice": 343.85,
     "originalFullPrice": 529,
     "discount": "-35%",
@@ -5789,7 +5789,7 @@
   {
     "id": "644",
     "title": "Remnant: From the Ashes",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617290/header.jpg",
     "originalSalePrice": 141.8,
     "originalFullPrice": 709,
     "discount": "-80%",
@@ -5798,7 +5798,7 @@
   {
     "id": "645",
     "title": "Decollate Decoration",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155570/header.jpg",
     "originalSalePrice": 111.3,
     "originalFullPrice": 159,
     "discount": "-30%",
@@ -5807,7 +5807,7 @@
   {
     "id": "646",
     "title": "Moonlighter",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/header.jpg",
     "originalSalePrice": 52.35,
     "originalFullPrice": 349,
     "discount": "-85%",
@@ -5816,7 +5816,7 @@
   {
     "id": "647",
     "title": "Observation",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2564960/header.jpg",
     "originalSalePrice": 65.85,
     "originalFullPrice": 439,
     "discount": "-85%",
@@ -5825,7 +5825,7 @@
   {
     "id": "648",
     "title": "Sable",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/header.jpg",
     "originalSalePrice": 109.75,
     "originalFullPrice": 439,
     "discount": "-75%",
@@ -5852,7 +5852,7 @@
   {
     "id": "651",
     "title": "Zombie Army 4 Complete Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/header.jpg",
     "originalSalePrice": 423.8,
     "originalFullPrice": 2119,
     "discount": "-80%",
@@ -5861,7 +5861,7 @@
   {
     "id": "652",
     "title": "PERISH",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/870730/header.jpg",
     "originalSalePrice": 69.8,
     "originalFullPrice": 349,
     "discount": "-80%",
@@ -5870,7 +5870,7 @@
   {
     "id": "653",
     "title": "Beat The Champions",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4008350/header.jpg",
     "originalSalePrice": 261.75,
     "originalFullPrice": 349,
     "discount": "-25%",
@@ -5879,7 +5879,7 @@
   {
     "id": "654",
     "title": "Destroy All Humans! 2 - Reprobed: Single Player (X1)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/header.jpg",
     "originalSalePrice": 211.6,
     "originalFullPrice": 529,
     "discount": "-60%",
@@ -5888,7 +5888,7 @@
   {
     "id": "655",
     "title": "DCL-The Game",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964570/header.jpg",
     "originalSalePrice": 71.9,
     "originalFullPrice": 719,
     "discount": "-90%",
@@ -5897,7 +5897,7 @@
   {
     "id": "656",
     "title": "Lost Twins 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752540/header.jpg",
     "originalSalePrice": 157.05,
     "originalFullPrice": 349,
     "discount": "-55%",
@@ -5924,7 +5924,7 @@
   {
     "id": "659",
     "title": "Destroy All Humans! 2 - Reprobed: Dressed to Skill Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/header.jpg",
     "originalSalePrice": 290.7,
     "originalFullPrice": 969,
     "discount": "-70%",
@@ -5933,7 +5933,7 @@
   {
     "id": "660",
     "title": "Skelethrone: The Chronicles of Ericona - Complete Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139840/header.jpg",
     "originalSalePrice": 152.55,
     "originalFullPrice": 339,
     "discount": "-55%",
@@ -5951,7 +5951,7 @@
   {
     "id": "662",
     "title": "Sword of the Vagrant",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453160/header.jpg",
     "originalSalePrice": 71.7,
     "originalFullPrice": 239,
     "discount": "-70%",
@@ -5978,7 +5978,7 @@
   {
     "id": "665",
     "title": "NORCO",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221250/header.jpg",
     "originalSalePrice": 94.15,
     "originalFullPrice": 269,
     "discount": "-65%",
@@ -5987,7 +5987,7 @@
   {
     "id": "666",
     "title": "Escape First Alchemist",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094320/header.jpg",
     "originalSalePrice": 84.6,
     "originalFullPrice": 141,
     "discount": "-40%",
@@ -5996,7 +5996,7 @@
   {
     "id": "667",
     "title": "Dreamscapes - The Sandman",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289260/header.jpg",
     "originalSalePrice": 226.85,
     "originalFullPrice": 349,
     "discount": "-35%",
@@ -6005,7 +6005,7 @@
   {
     "id": "668",
     "title": "Hell Let Loose - Fan Favourites Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
     "originalSalePrice": 107.5,
     "originalFullPrice": 215,
     "discount": "-50%",
@@ -6014,7 +6014,7 @@
   {
     "id": "669",
     "title": "ChildStory",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1469260/header.jpg",
     "originalSalePrice": 98.4,
     "originalFullPrice": 123,
     "discount": "-20%",
@@ -6023,7 +6023,7 @@
   {
     "id": "670",
     "title": "Kingdom Two Crowns: Olympus Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/header.jpg",
     "originalSalePrice": 183.6,
     "originalFullPrice": 459,
     "discount": "-60%",
@@ -6032,7 +6032,7 @@
   {
     "id": "671",
     "title": "Hell Let Loose - Soviet Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
     "originalSalePrice": 67.5,
     "originalFullPrice": 135,
     "discount": "-50%",
@@ -6050,7 +6050,7 @@
   {
     "id": "673",
     "title": "Meet Your Maker: Lote Sector 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1194810/header.jpg",
     "originalSalePrice": 59.5,
     "originalFullPrice": 119,
     "discount": "-50%",
@@ -6059,7 +6059,7 @@
   {
     "id": "674",
     "title": "Hell Let Loose - Headgear Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/header.jpg",
     "originalSalePrice": 67.5,
     "originalFullPrice": 135,
     "discount": "-50%",
@@ -6068,7 +6068,7 @@
   {
     "id": "675",
     "title": "INDIKA",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1373960/header.jpg",
     "originalSalePrice": 175.6,
     "originalFullPrice": 439,
     "discount": "-60%",
@@ -6077,7 +6077,7 @@
   {
     "id": "676",
     "title": "Harvest Moon: Light of Hope SE Complete",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585900/header.jpg",
     "originalSalePrice": 264.5,
     "originalFullPrice": 529,
     "discount": "-50%",
@@ -6095,7 +6095,7 @@
   {
     "id": "678",
     "title": "Skelethrone: The Chronicles of Ericona",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139840/header.jpg",
     "originalSalePrice": 121.05,
     "originalFullPrice": 269,
     "discount": "-55%",
@@ -6122,7 +6122,7 @@
   {
     "id": "681",
     "title": "Hidden Memory - Nature",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426980/header.jpg",
     "originalSalePrice": 71.2,
     "originalFullPrice": 89,
     "discount": "-20%",
@@ -6140,7 +6140,7 @@
   {
     "id": "683",
     "title": "Baki Hanma: Blood Arena",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469230/header.jpg",
     "originalSalePrice": 317.4,
     "originalFullPrice": 529,
     "discount": "-40%",
@@ -6149,7 +6149,7 @@
   {
     "id": "684",
     "title": "Post Trauma",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750030/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -6158,7 +6158,7 @@
   {
     "id": "685",
     "title": "Christmas Mutilator",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374610/header.jpg",
     "originalSalePrice": 106.2,
     "originalFullPrice": 177,
     "discount": "-40%",
@@ -6167,7 +6167,7 @@
   {
     "id": "686",
     "title": "Beat 'Em Up Collection (QUByte Classics)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426400/header.jpg",
     "originalSalePrice": 191.95,
     "originalFullPrice": 349,
     "discount": "-45%",
@@ -6176,7 +6176,7 @@
   {
     "id": "687",
     "title": "Leisure Suit Larry - Wet Dreams Saga Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1373430/header.jpg",
     "originalSalePrice": 66.64,
     "originalFullPrice": 1332.83,
     "discount": "-95%",
@@ -6185,7 +6185,7 @@
   {
     "id": "688",
     "title": "Crash Drive 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346820/header.jpg",
     "originalSalePrice": 128.7,
     "originalFullPrice": 429,
     "discount": "-70%",
@@ -6194,7 +6194,7 @@
   {
     "id": "689",
     "title": "Sacred 3",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247950/header.jpg",
     "originalSalePrice": 59.8,
     "originalFullPrice": 299,
     "discount": "-80%",
@@ -6203,7 +6203,7 @@
   {
     "id": "690",
     "title": "This is the Police 2",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/907710/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -6212,7 +6212,7 @@
   {
     "id": "691",
     "title": "Snufkin: Melody of Moominvalley - Digital Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808680/header.jpg",
     "originalSalePrice": 230.45,
     "originalFullPrice": 419,
     "discount": "-45%",
@@ -6221,7 +6221,7 @@
   {
     "id": "692",
     "title": "Saccharine Echo",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134090/header.jpg",
     "originalSalePrice": 66.75,
     "originalFullPrice": 89,
     "discount": "-25%",
@@ -6230,7 +6230,7 @@
   {
     "id": "693",
     "title": "Soccer Kid Collection (QUByte Classics)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4447890/header.jpg",
     "originalSalePrice": 132.75,
     "originalFullPrice": 177,
     "discount": "-25%",
@@ -6248,7 +6248,7 @@
   {
     "id": "695",
     "title": "Venba",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491670/header.jpg",
     "originalSalePrice": 88.77,
     "originalFullPrice": 269,
     "discount": "-67%",
@@ -6257,7 +6257,7 @@
   {
     "id": "696",
     "title": "Chess Gambit",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2675640/header.jpg",
     "originalSalePrice": 88.5,
     "originalFullPrice": 177,
     "discount": "-50%",
@@ -6266,7 +6266,7 @@
   {
     "id": "697",
     "title": "The Raven Remastered",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736810/header.jpg",
     "originalSalePrice": 79.8,
     "originalFullPrice": 399,
     "discount": "-80%",
@@ -6275,7 +6275,7 @@
   {
     "id": "698",
     "title": "Hidden Memory - Neko's Life",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517350/header.jpg",
     "originalSalePrice": 71.2,
     "originalFullPrice": 89,
     "discount": "-20%",
@@ -6284,7 +6284,7 @@
   {
     "id": "699",
     "title": "Dungeon Minesweeper",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2662810/header.jpg",
     "originalSalePrice": 78.75,
     "originalFullPrice": 105,
     "discount": "-25%",
@@ -6302,7 +6302,7 @@
   {
     "id": "701",
     "title": "Pile Up! Box by Box",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109820/header.jpg",
     "originalSalePrice": 134.5,
     "originalFullPrice": 269,
     "discount": "-50%",
@@ -6320,7 +6320,7 @@
   {
     "id": "703",
     "title": "AQUADREAM",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093840/header.jpg",
     "originalSalePrice": 62.3,
     "originalFullPrice": 89,
     "discount": "-30%",
@@ -6338,7 +6338,7 @@
   {
     "id": "705",
     "title": "ISLANDERS: New Shores - The Scenic Builders Pack",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368930/header.jpg",
     "originalSalePrice": 104.5,
     "originalFullPrice": 209,
     "discount": "-50%",
@@ -6347,7 +6347,7 @@
   {
     "id": "706",
     "title": "The Cub",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941410/header.jpg",
     "originalSalePrice": 107.6,
     "originalFullPrice": 269,
     "discount": "-60%",
@@ -6365,7 +6365,7 @@
   {
     "id": "708",
     "title": "Chicken Police - Paint it RED!",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084640/header.jpg",
     "originalSalePrice": 87.25,
     "originalFullPrice": 349,
     "discount": "-75%",
@@ -6374,7 +6374,7 @@
   {
     "id": "709",
     "title": "FRONT MISSION 1st: Remake",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399730/header.jpg",
     "originalSalePrice": 154.75,
     "originalFullPrice": 619,
     "discount": "-75%",
@@ -6383,7 +6383,7 @@
   {
     "id": "710",
     "title": "Black Mirror",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581300/header.jpg",
     "originalSalePrice": 124.75,
     "originalFullPrice": 499,
     "discount": "-75%",
@@ -6392,7 +6392,7 @@
   {
     "id": "711",
     "title": "ABRISS - build to destroy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671480/header.jpg",
     "originalSalePrice": 80.7,
     "originalFullPrice": 269,
     "discount": "-70%",
@@ -6401,7 +6401,7 @@
   {
     "id": "712",
     "title": "Magical Delicacy",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231190/header.jpg",
     "originalSalePrice": 241.45,
     "originalFullPrice": 439,
     "discount": "-45%",
@@ -6410,7 +6410,7 @@
   {
     "id": "713",
     "title": "Little Big Workshop",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574720/header.jpg",
     "originalSalePrice": 69.8,
     "originalFullPrice": 349,
     "discount": "-80%",
@@ -6419,7 +6419,7 @@
   {
     "id": "714",
     "title": "DEMON'S TILT",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/422510/header.jpg",
     "originalSalePrice": 121.44,
     "originalFullPrice": 404.83,
     "discount": "-70%",
@@ -6428,7 +6428,7 @@
   {
     "id": "715",
     "title": "RollCats",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2091700/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -6473,7 +6473,7 @@
   {
     "id": "720",
     "title": "ISLANDERS: New Shores - Island Hopping Bundle",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368930/header.jpg",
     "originalSalePrice": 155.35,
     "originalFullPrice": 239,
     "discount": "-35%",
@@ -6509,7 +6509,7 @@
   {
     "id": "724",
     "title": "Risen 2™: Dark Waters",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40390/header.jpg",
     "originalSalePrice": 59.8,
     "originalFullPrice": 299,
     "discount": "-80%",
@@ -6518,7 +6518,7 @@
   {
     "id": "725",
     "title": "Accolade Sports Collection (QUByte Classics)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3310260/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -6527,7 +6527,7 @@
   {
     "id": "726",
     "title": "Great God Grove",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840190/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -6536,7 +6536,7 @@
   {
     "id": "727",
     "title": "Street Racer Collection (QUByte Classics)",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934850/header.jpg",
     "originalSalePrice": 191.95,
     "originalFullPrice": 349,
     "discount": "-45%",
@@ -6554,7 +6554,7 @@
   {
     "id": "729",
     "title": "Spellcaster University",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895620/header.jpg",
     "originalSalePrice": 174.5,
     "originalFullPrice": 349,
     "discount": "-50%",
@@ -6572,7 +6572,7 @@
   {
     "id": "731",
     "title": "Whacking Hell!",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2616090/header.jpg",
     "originalSalePrice": 83.5,
     "originalFullPrice": 167,
     "discount": "-50%",
@@ -6590,7 +6590,7 @@
   {
     "id": "733",
     "title": "Arkham Horror: Mother’s Embrace",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840210/header.jpg",
     "originalSalePrice": 87.25,
     "originalFullPrice": 349,
     "discount": "-75%",
@@ -6608,7 +6608,7 @@
   {
     "id": "735",
     "title": "Mass Effect™: Andromeda – Deluxe Recruit Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238000/header.jpg",
     "originalSalePrice": 83.8,
     "originalFullPrice": 838,
     "discount": "-90%",
@@ -6617,7 +6617,7 @@
   {
     "id": "736",
     "title": "Call of Cthulhu",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/399810/header.jpg",
     "originalSalePrice": 59.85,
     "originalFullPrice": 399,
     "discount": "-85%",
@@ -6626,7 +6626,7 @@
   {
     "id": "737",
     "title": "Tom Clancy's Rainbow Six® Extraction",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
     "originalSalePrice": 199.75,
     "originalFullPrice": 799,
     "discount": "-75%",
@@ -6635,7 +6635,7 @@
   {
     "id": "738",
     "title": "Mass Effect™: Andromeda – Standard Recruit Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238000/header.jpg",
     "originalSalePrice": 55.35,
     "originalFullPrice": 369,
     "discount": "-85%",
@@ -6644,7 +6644,7 @@
   {
     "id": "739",
     "title": "GRID Legends: Deluxe Edition",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745470/header.jpg",
     "originalSalePrice": 359.8,
     "originalFullPrice": 1799,
     "discount": "-80%",
@@ -6653,7 +6653,7 @@
   {
     "id": "740",
     "title": "Sokocat: Castaway",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301570/header.jpg",
     "originalSalePrice": 71.2,
     "originalFullPrice": 89,
     "discount": "-20%",
@@ -6662,7 +6662,7 @@
   {
     "id": "741",
     "title": "Quest Arrest",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499480/header.jpg",
     "originalSalePrice": 71.2,
     "originalFullPrice": 89,
     "discount": "-20%",
@@ -6671,7 +6671,7 @@
   {
     "id": "742",
     "title": "Cuboy Adventure",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386400/header.jpg",
     "originalSalePrice": 71.2,
     "originalFullPrice": 89,
     "discount": "-20%",
@@ -6680,7 +6680,7 @@
   {
     "id": "743",
     "title": "In Fair Spirits",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622770/header.jpg",
     "originalSalePrice": 125.6,
     "originalFullPrice": 157,
     "discount": "-20%",
@@ -6689,7 +6689,7 @@
   {
     "id": "744",
     "title": "Pawbay: Cat Chaos",
-    "image": "/placeholder.png",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210300/header.jpg",
     "originalSalePrice": 303.2,
     "originalFullPrice": 379,
     "discount": "-20%",
