@@ -166,22 +166,19 @@ document.addEventListener('DOMContentLoaded', () => {
           if (salePrice < 50 || salePrice > 500) return false;
 
           // REGLA 3: No Xbox 360 / No Xbox Original
-          if (titleLower.includes('xbox 360') || platformLower.includes('360') || titleLower.includes('xbox original')) return false;
+          if (titleLower.includes('xbox 360') || platformLower.includes('360') || titleLower.includes('xbox original') || titleLower.includes(' 360')) return false;
 
-          // REGLA 4: Solo juegos base (No DLCs, monedas, pases, expansiones)
-          if (
-            titleLower.includes('monedas') ||
-            titleLower.includes('points') ||
-            titleLower.includes('créditos') ||
-            titleLower.includes('puntos') ||
-            titleLower.includes('virtual currency') ||
-            titleLower.includes('season pass') ||
-            titleLower.includes('pass de temporada') ||
-            titleLower.includes('expansion pass') ||
-            titleLower.includes('dlc') ||
-            titleLower.includes('add-on') ||
-            titleLower.includes('paquete de monedas')
-          ) return false;
+          // REGLA 4: Solo juegos base (No DLCs, no complementos, no monedas, no pases, no skins)
+          const dlcKeywords = [
+            'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
+            'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
+            'paquete', 'pack', 'skin', 'outfit', 'bundle', 'kit', 'upgrade', 
+            'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
+          ];
+
+          for (const kw of dlcKeywords) {
+            if (titleLower.includes(kw)) return false;
+          }
 
           return true;
         })

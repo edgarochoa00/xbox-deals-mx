@@ -5,6 +5,13 @@ const { execSync } = require('child_process');
 
 const OUTPUT_FILE = path.resolve(__dirname, '../public/data/games.json');
 
+const DLC_KEYWORDS = [
+  'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
+  'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
+  'paquete', 'pack', 'skin', 'outfit', 'bundle', 'kit', 'upgrade', 
+  'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
+];
+
 async function syncLiveDeals() {
   console.log('🚀 Conectando a la Tienda de Xbox México (https://www.xbox.com/es-MX/games/browse/DynamicChannel.GameDeals)...');
   
@@ -23,7 +30,7 @@ async function syncLiveDeals() {
       timeout: 60000
     });
 
-    console.log('📖 Página de la Store cargada. Desplegando ofertas activas con el botón "Cargar más"...');
+    console.log('📖 Página de la Store cargada. Desplegando ofertas activas...');
 
     let clickCount = 0;
     const MAX_CLICKS = 25;
@@ -42,17 +49,15 @@ async function syncLiveDeals() {
 
       if (clicked) {
         clickCount++;
-        console.log(`  └─> Clic en "Cargar más" (${clickCount}/${MAX_CLICKS})...`);
         await new Promise(r => setTimeout(r, 2000));
       } else {
-        console.log('  └─> Se han cargado todas las ofertas disponibles.');
         break;
       }
     }
 
-    console.log('🔍 Extrayendo y aplicando estrictamente las 4 Reglas de Negocio...');
+    console.log('🔍 Extrayendo exclusivamente JUEGOS BASE DIGITALES REGALABLES...');
 
-    const liveDeals = await page.evaluate(() => {
+    const liveDeals = await page.evaluate((dlcKeywords) => {
       const items = [];
       const seenTitles = new Set();
       
@@ -67,38 +72,25 @@ async function syncLiveDeals() {
         const titleLower = title.toLowerCase();
         const fullTextLower = fullText.toLowerCase();
 
-        // -------------------------------------------------------------
-        // REGLA 3: EXCLUIR XBOX 360 Y XBOX ORIGINAL
-        // -------------------------------------------------------------
+        // REGLA 1: EXCLUIR XBOX 360 Y XBOX ORIGINAL
         if (
           titleLower.includes('xbox 360') || 
           fullTextLower.includes('xbox 360') ||
-          titleLower.includes('xbox original')
+          titleLower.includes('xbox original') ||
+          titleLower.includes(' 360')
         ) {
           return;
         }
 
-        // -------------------------------------------------------------
-        // REGLA 4: SOLO JUEGOS BASE (NO DLCs, Pases, Monedas, Expansiones)
-        // -------------------------------------------------------------
-        if (
-          titleLower.includes('monedas') || 
-          titleLower.includes('points') || 
-          titleLower.includes('créditos') || 
-          titleLower.includes('virtual currency') || 
-          titleLower.includes('puntos') ||
-          titleLower.includes('stubs') ||
-          titleLower.includes('season pass') ||
-          titleLower.includes('pass de temporada') ||
-          titleLower.includes('expansion pass') ||
-          titleLower.includes('dlc') ||
-          titleLower.includes('add-on') ||
-          titleLower.includes('paquete de monedas') ||
-          fullTextLower.includes('complemento') ||
-          fullTextLower.includes('add-on')
-        ) {
-          return;
+        // REGLA 2: EXCLUIR DLCs, COMPLEMENTOS, PASES, MONEDAS
+        let isDlc = false;
+        for (const kw of dlcKeywords) {
+          if (titleLower.includes(kw) || fullTextLower.includes(kw)) {
+            isDlc = true;
+            break;
+          }
         }
+        if (isDlc) return;
 
         // Extraer Imagen
         const imgEl = card.querySelector('img');
@@ -117,9 +109,7 @@ async function syncLiveDeals() {
         const salePrice = Math.min(...numericPrices);
         const fullPrice = Math.max(...numericPrices);
 
-        // -------------------------------------------------------------
-        // REGLA 1: RANGO DE PRECIO $50 A $500 MXN
-        // -------------------------------------------------------------
+        // REGLA 3: RANGO DE PRECIO $50 A $500 MXN
         if (salePrice < 50 || salePrice > 500) {
           return;
         }
@@ -149,13 +139,13 @@ async function syncLiveDeals() {
       });
 
       return items;
-    });
+    }, DLC_KEYWORDS);
 
-    console.log(`✅ ¡Filtro de 4 Reglas Aplicado! Extraídos ${liveDeals.length} juegos en oferta de Xbox One y Series X|S en el rango de $50 a $500 MXN.`);
+    console.log(`✅ ¡Éxito! Obtenidos ${liveDeals.length} JUEGOS BASE DIGITALES REGALABLES para Xbox One / Series X|S ($50 - $500 MXN).`);
 
     if (liveDeals.length > 0) {
       fs.writeFileSync(OUTPUT_FILE, JSON.stringify(liveDeals, null, 2), 'utf-8');
-      console.log(`💾 games.json actualizado con las ${liveDeals.length} ofertas que cumplen estrictamente las 4 reglas.`);
+      console.log(`💾 games.json actualizado.`);
 
       console.log('\n🎨 Auditando imágenes de los juegos resultantes...');
       try {
@@ -163,8 +153,6 @@ async function syncLiveDeals() {
       } catch(e) {
         console.warn('Advertencia durante la verificación de imágenes:', e.message);
       }
-    } else {
-      console.log('⚠️ No se hallaron ofertas con los criterios estrictos.');
     }
 
   } catch (err) {
