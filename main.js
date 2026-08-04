@@ -8,6 +8,19 @@ document.addEventListener('DOMContentLoaded', () => {
   // Constante del descuento extra solicitado por el usuario (26%)
   const EXTRA_DISCOUNT = 0.26;
 
+  function escapeHTML(str) {
+    if (typeof str !== 'string') return str;
+    return str.replace(/[&<>'"]/g,
+      tag => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        "'": '&#39;',
+        '"': '&quot;'
+      }[tag] || tag)
+    );
+  }
+
   async function fetchGames() {
     try {
       // Simular un pequeño tiempo de carga para ver la animación
@@ -40,17 +53,22 @@ document.addEventListener('DOMContentLoaded', () => {
       const finalPrice = game.originalSalePrice * (1 - EXTRA_DISCOUNT);
       const storeDiscount = game.discount || '';
       
+      const safeTitle = escapeHTML(game.title);
+      const safeImage = escapeHTML(game.image);
+      const safePlatform = escapeHTML(game.platform);
+      const safeDiscount = escapeHTML(storeDiscount);
+
       return `
         <article class="game-card">
-          <div class="discount-badge">${storeDiscount}</div>
+          <div class="discount-badge">${safeDiscount}</div>
           <div class="extra-badge">-26% EXTRA</div>
           <div class="card-image-wrapper">
-            <img src="${game.image}" alt="Portada de ${game.title}" class="card-image" loading="lazy" onerror="this.onerror=null; this.src='/placeholder.png';">
+            <img src="${safeImage}" alt="Portada de ${safeTitle}" class="card-image" loading="lazy" onerror="this.onerror=null; this.src='/placeholder.png';">
           </div>
           <div class="card-content">
             <div>
-              <h2 class="game-title">${game.title}</h2>
-              <p class="game-platform">${game.platform}</p>
+              <h2 class="game-title">${safeTitle}</h2>
+              <p class="game-platform">${safePlatform}</p>
             </div>
             <div class="price-container">
               <div class="price-left">
