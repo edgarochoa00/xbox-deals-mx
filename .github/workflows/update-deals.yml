@@ -21,8 +21,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run live scraper
-        run: npm run scrape
+      - name: Build games catalogue
+        run: |
+          node scripts/build_games_json.cjs
+          node scripts/fetch_steam_images.cjs
 
       - name: Commit and push updated deals
         run: |
@@ -31,4 +33,3 @@ jobs:
           git add public/data/games.json
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: actualización automática de ofertas Xbox [skip ci]"
           git push
-                                                                                                    
