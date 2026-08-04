@@ -382,14 +382,14 @@ document.addEventListener('DOMContentLoaded', () => {
     return 'data:image/svg+xml;base64,' + window.btoa(unescape(encodeURIComponent(svg)));
   }
 
-  // Helper for Chollo Badges
-  function getCholloBadge(discountPct) {
+  // Helper for Deal Badges
+  function getDealBadge(discountPct) {
     if (discountPct >= 75) {
-      return `<span class="chollo-badge legendary">🏆 CHOLLO LEGENDARIO</span>`;
+      return `<span class="deal-badge legendary">🏆 SUPER GANGA</span>`;
     } else if (discountPct >= 50) {
-      return `<span class="chollo-badge epic">⚡ CHOLLO ÉPICO</span>`;
+      return `<span class="deal-badge epic">⚡ GRAN DESCUENTO</span>`;
     }
-    return `<span class="chollo-badge recommended">🎮 OFERTA RECOMENDADA</span>`;
+    return `<span class="deal-badge recommended">🎮 OFERTA RECOMENDADA</span>`;
   }
 
   // Render Games with XSS Protection & UX Enhancements
@@ -417,7 +417,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const formattedOrig = escapeHTML(game.originalSalePrice ? game.originalSalePrice.toFixed(2) : '0.00');
       const formattedFinal = escapeHTML(game.finalPrice.toFixed(2));
       const formattedSavings = escapeHTML(game.savings.toFixed(2));
-      const cholloBadge = getCholloBadge(game.discountPct);
+      const dealBadge = getDealBadge(game.discountPct);
 
       return `
         <article class="game-card" data-id="${safeId}">
@@ -438,7 +438,7 @@ document.addEventListener('DOMContentLoaded', () => {
           
           <div class="card-content">
             <div>
-              <div style="margin-bottom: 6px;">${cholloBadge}</div>
+              <div style="margin-bottom: 6px;">${dealBadge}</div>
               <h2 class="game-title" title="${safeTitle}">${safeTitle}</h2>
               <p class="game-platform">${safePlatform}</p>
               <div class="savings-pill">
@@ -625,7 +625,7 @@ document.addEventListener('DOMContentLoaded', () => {
     playXboxSound();
     if (activeModalGame) {
       const shareUrl = window.location.origin;
-      navigator.clipboard.writeText(`¡Mira este chollo en Xbox Deals! ${activeModalGame.title} a solo $${activeModalGame.finalPrice} MXN. ${shareUrl}`);
+      navigator.clipboard.writeText(`¡Mira esta oferta en Xbox Deals MX! ${activeModalGame.title} a solo $${activeModalGame.finalPrice} MXN. ${shareUrl}`);
       showToast('Enlace de la oferta copiado al portapapeles');
     }
   });
