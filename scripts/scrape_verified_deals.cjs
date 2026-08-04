@@ -23,7 +23,7 @@ const DLC_KEYWORDS = [
   'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
 ];
 
-async function syncLiveDeals() {
+async function syncVerifiedDeals() {
   console.log('🚀 Conectando a Xbox Store México para extraer EXCLUSIVAMENTE ofertas reales activas...');
 
   const browser = await puppeteer.launch({ 
@@ -179,4 +179,4 @@ async function syncLiveDeals() {
   }
 }
 
-syncLiveDeals();
+syncVerifiedDeals();
