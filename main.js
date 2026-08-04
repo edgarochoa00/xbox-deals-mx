@@ -155,22 +155,51 @@ document.addEventListener('DOMContentLoaded', () => {
       
       const rawGames = await response.json();
       
-      // Process and enrich game items
-      allGames = rawGames.map(g => {
-        const salePrice = Number(g.originalSalePrice) || 0;
-        const fullPrice = Number(g.originalFullPrice) || salePrice;
-        const finalPrice = Number((salePrice * (1 - EXTRA_DISCOUNT)).toFixed(2));
-        const savings = Number((fullPrice - finalPrice).toFixed(2));
-        const discountPct = parseInt((g.discount || '0').replace(/[^0-9]/g, '')) || 0;
+      // Process and enrich game items adhering strictly to the 4 rules
+      allGames = rawGames
+        .filter(g => {
+          const salePrice = Number(g.originalSalePrice) || 0;
+          const titleLower = (g.title || '').toLowerCase();
+          const platformLower = (g.platform || '').toLowerCase();
 
-        return {
-          ...g,
-          finalPrice,
-          savings,
-          discountPct,
-          fullPrice
-        };
-      });
+          // REGLA 1: Rango de precio $50 a $500 MXN
+          if (salePrice < 50 || salePrice > 500) return false;
+
+          // REGLA 3: No Xbox 360 / No Xbox Original
+          if (titleLower.includes('xbox 360') || platformLower.includes('360') || titleLower.includes('xbox original')) return false;
+
+          // REGLA 4: Solo juegos base (No DLCs, monedas, pases, expansiones)
+          if (
+            titleLower.includes('monedas') ||
+            titleLower.includes('points') ||
+            titleLower.includes('créditos') ||
+            titleLower.includes('puntos') ||
+            titleLower.includes('virtual currency') ||
+            titleLower.includes('season pass') ||
+            titleLower.includes('pass de temporada') ||
+            titleLower.includes('expansion pass') ||
+            titleLower.includes('dlc') ||
+            titleLower.includes('add-on') ||
+            titleLower.includes('paquete de monedas')
+          ) return false;
+
+          return true;
+        })
+        .map(g => {
+          const salePrice = Number(g.originalSalePrice) || 0;
+          const fullPrice = Number(g.originalFullPrice) || salePrice;
+          const finalPrice = Number((salePrice * (1 - EXTRA_DISCOUNT)).toFixed(2));
+          const savings = Number((fullPrice - finalPrice).toFixed(2));
+          const discountPct = parseInt((g.discount || '0').replace(/[^0-9]/g, '')) || 0;
+
+          return {
+            ...g,
+            finalPrice,
+            savings,
+            discountPct,
+            fullPrice
+          };
+        });
 
       loadingState.style.display = 'none';
       

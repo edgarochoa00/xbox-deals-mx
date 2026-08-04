@@ -23,11 +23,10 @@ async function syncLiveDeals() {
       timeout: 60000
     });
 
-    console.log('📖 Página de la Store cargada. Haciendo clic en "Cargar más" repetidamente para obtener cientos de ofertas...');
+    console.log('📖 Página de la Store cargada. Desplegando ofertas activas con el botón "Cargar más"...');
 
-    // Loop clicking "Cargar más" up to 30 times to load hundreds of deals
     let clickCount = 0;
-    const MAX_CLICKS = 30;
+    const MAX_CLICKS = 25;
     
     for (let i = 0; i < MAX_CLICKS; i++) {
       const clicked = await page.evaluate(() => {
@@ -51,7 +50,7 @@ async function syncLiveDeals() {
       }
     }
 
-    console.log('🔍 Extrayendo información de las tarjetas de producto de Xbox Store...');
+    console.log('🔍 Extrayendo y aplicando estrictamente las 4 Reglas de Negocio...');
 
     const liveDeals = await page.evaluate(() => {
       const items = [];
@@ -59,15 +58,29 @@ async function syncLiveDeals() {
       
       const cards = Array.from(document.querySelectorAll('div[class*="ProductCard-module__cardWrapper"], div[class*="productCard"]'));
 
-      cards.forEach((card, index) => {
+      cards.forEach((card) => {
         const fullText = card.innerText || '';
         const lines = fullText.split('\n').map(l => l.trim()).filter(l => l.length > 0);
         if (lines.length < 2) return;
 
         const title = lines[0];
         const titleLower = title.toLowerCase();
+        const fullTextLower = fullText.toLowerCase();
 
-        // Exclude Non-Games (DLCs, Passes, Virtual Currencies)
+        // -------------------------------------------------------------
+        // REGLA 3: EXCLUIR XBOX 360 Y XBOX ORIGINAL
+        // -------------------------------------------------------------
+        if (
+          titleLower.includes('xbox 360') || 
+          fullTextLower.includes('xbox 360') ||
+          titleLower.includes('xbox original')
+        ) {
+          return;
+        }
+
+        // -------------------------------------------------------------
+        // REGLA 4: SOLO JUEGOS BASE (NO DLCs, Pases, Monedas, Expansiones)
+        // -------------------------------------------------------------
         if (
           titleLower.includes('monedas') || 
           titleLower.includes('points') || 
@@ -77,19 +90,24 @@ async function syncLiveDeals() {
           titleLower.includes('stubs') ||
           titleLower.includes('season pass') ||
           titleLower.includes('pass de temporada') ||
-          fullText.toLowerCase().includes('complemento')
+          titleLower.includes('expansion pass') ||
+          titleLower.includes('dlc') ||
+          titleLower.includes('add-on') ||
+          titleLower.includes('paquete de monedas') ||
+          fullTextLower.includes('complemento') ||
+          fullTextLower.includes('add-on')
         ) {
           return;
         }
 
-        // Image
+        // Extraer Imagen
         const imgEl = card.querySelector('img');
         let image = imgEl ? (imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset || '') : '';
         if (image) {
           image = image.split('?')[0] + '?q=90&w=480&h=270';
         }
 
-        // Match Prices
+        // Extraer Precios
         const priceMatches = fullText.match(/MXN\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?|\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?/gi);
         if (!priceMatches) return;
 
@@ -99,10 +117,14 @@ async function syncLiveDeals() {
         const salePrice = Math.min(...numericPrices);
         const fullPrice = Math.max(...numericPrices);
 
-        // Filter: Sale price under $500 MXN
-        if (salePrice > 500) return;
+        // -------------------------------------------------------------
+        // REGLA 1: RANGO DE PRECIO $50 A $500 MXN
+        // -------------------------------------------------------------
+        if (salePrice < 50 || salePrice > 500) {
+          return;
+        }
 
-        // Calculate Store Discount
+        // Calcular Descuento de Tienda
         let discount = '';
         const discMatch = fullText.match(/-\d{1,2}%/);
         if (discMatch) {
@@ -129,20 +151,20 @@ async function syncLiveDeals() {
       return items;
     });
 
-    console.log(`✅ Extraídos ${liveDeals.length} juegos reales en oferta de xbox.com`);
+    console.log(`✅ ¡Filtro de 4 Reglas Aplicado! Extraídos ${liveDeals.length} juegos en oferta de Xbox One y Series X|S en el rango de $50 a $500 MXN.`);
 
     if (liveDeals.length > 0) {
       fs.writeFileSync(OUTPUT_FILE, JSON.stringify(liveDeals, null, 2), 'utf-8');
-      console.log(`💾 games.json actualizado con las ${liveDeals.length} ofertas reales en tiempo real.`);
+      console.log(`💾 games.json actualizado con las ${liveDeals.length} ofertas que cumplen estrictamente las 4 reglas.`);
 
-      console.log('\n🎨 Auditando y verificando portadas e imágenes de alta resolución...');
+      console.log('\n🎨 Auditando imágenes de los juegos resultantes...');
       try {
         execSync('node scripts/verify_and_fix_images.cjs', { stdio: 'inherit' });
       } catch(e) {
         console.warn('Advertencia durante la verificación de imágenes:', e.message);
       }
     } else {
-      console.log('⚠️ No se hallaron ofertas con el filtro actual.');
+      console.log('⚠️ No se hallaron ofertas con los criterios estrictos.');
     }
 
   } catch (err) {
