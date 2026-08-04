@@ -1,4 +1,5 @@
-name: Actualización Automática de Ofertas Xbox                                                        
+                                                                                                       
+    name: Actualización Automática de Ofertas Xbox                                                        
                                                                                                           
     on:                                                                                                   
       schedule:                                                                                           
@@ -15,12 +16,14 @@ name: Actualización Automática de Ofertas Xbox
                                                                                                           
           - name: Setup Node.js                                                                           
             uses: actions/setup-node@v4                                                                   
-            with:
-              node-version: '20'
-  
-          - name: Install dependencies
-            run: npm install
-  
+            with:                                                                                         
+              node-version: '20'                                                                          
+                                                                                                          
+          - name: Install dependencies and Chrome                                                         
+            run: |                                                                                        
+              npm install                                                                                 
+              npx puppeteer install                                                                       
+                                                                                                          
           - name: Run live scraper
             run: npm run scrape
   
