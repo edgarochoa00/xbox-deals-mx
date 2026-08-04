@@ -171,6 +171,19 @@
 
       <!-- Main Content Grid -->
       <main>
+        <!-- Favorites Cumulative Savings Banner -->
+        <div id="fav-summary-banner" class="fav-summary-banner" style="display: none;">
+          <div class="fav-summary-content">
+            <div class="fav-summary-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+            </div>
+            <div class="fav-summary-text">
+              <span class="fav-title">Resumen de tus Favoritos Guardados:</span>
+              <span id="fav-total-savings-text" class="fav-value">0 juegos · Ahorro total acumulado: $0.00 MXN</span>
+            </div>
+          </div>
+        </div>
+
         <div id="games-grid" class="games-grid grid-mode">
           <!-- Game cards will be dynamically injected here -->
         </div>
@@ -233,6 +246,18 @@
                   <span class="mxn">MXN</span>
                 </div>
               </div>
+
+              <!-- Interactive Savings Visual Bar -->
+              <div class="savings-progress-wrapper">
+                <div class="progress-labels">
+                  <span>Ahorro Visual</span>
+                  <span id="modal-pct-tag" class="pct-tag">-0%</span>
+                </div>
+                <div class="progress-bar-bg">
+                  <div class="progress-bar-fill" id="modal-progress-bar" style="width: 0%;"></div>
+                </div>
+              </div>
+
               <div class="savings-box" id="modal-savings-box">
                 Estás ahorrando <strong id="modal-savings-val">$0.00 MXN</strong>
               </div>

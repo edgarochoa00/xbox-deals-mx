@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const viewListBtn = document.getElementById('view-list-btn');
   const resetFiltersBtn = document.getElementById('reset-filters-btn');
   const soundToggleBtn = document.getElementById('sound-toggle-btn');
+  const favSummaryBanner = document.getElementById('fav-summary-banner');
+  const favTotalSavingsText = document.getElementById('fav-total-savings-text');
 
   // Stats elements
   const statTotalGames = document.getElementById('stat-total-games');
@@ -46,6 +48,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalPriceOrig = document.getElementById('modal-price-orig');
   const modalPriceFinal = document.getElementById('modal-price-final');
   const modalSavingsVal = document.getElementById('modal-savings-val');
+  const modalPctTag = document.getElementById('modal-pct-tag');
+  const modalProgressBar = document.getElementById('modal-progress-bar');
   const modalStoreBtn = document.getElementById('modal-store-btn');
   const modalShareBtn = document.getElementById('modal-share-btn');
 
@@ -200,6 +204,17 @@ document.addEventListener('DOMContentLoaded', () => {
     favCountPill.textContent = favorites.length;
 
     tickerStatus.textContent = `${allGames.length} Ofertas activas en México`;
+
+    // Favorites Cumulative Savings Calculation
+    const favGames = allGames.filter(g => favorites.includes(g.id));
+    const totalFavSavings = favGames.reduce((sum, g) => sum + g.savings, 0);
+
+    if (currentFilter === 'favorites' && favGames.length > 0) {
+      favSummaryBanner.style.display = 'block';
+      favTotalSavingsText.textContent = `${favGames.length} juegos guardados · Ahorro total acumulado: $${totalFavSavings.toFixed(2)} MXN`;
+    } else {
+      favSummaryBanner.style.display = 'none';
+    }
   }
 
   // Spotlight Top Deal
@@ -265,6 +280,9 @@ document.addEventListener('DOMContentLoaded', () => {
       filtered = filtered.filter(g => favorites.includes(g.id));
     }
 
+    // Update Favorites Banner visibility
+    updateDashboardStats();
+
     // Sorting Engine
     if (currentSort === 'topGames') {
       filtered.sort((a, b) => calculateTopScore(b) - calculateTopScore(a));
@@ -325,7 +343,17 @@ document.addEventListener('DOMContentLoaded', () => {
     return 'data:image/svg+xml;base64,' + window.btoa(unescape(encodeURIComponent(svg)));
   }
 
-  // Render Games with XSS Protection
+  // Helper for Chollo Badges
+  function getCholloBadge(discountPct) {
+    if (discountPct >= 75) {
+      return `<span class="chollo-badge legendary">🏆 CHOLLO LEGENDARIO</span>`;
+    } else if (discountPct >= 50) {
+      return `<span class="chollo-badge epic">⚡ CHOLLO ÉPICO</span>`;
+    }
+    return `<span class="chollo-badge recommended">🎮 OFERTA RECOMENDADA</span>`;
+  }
+
+  // Render Games with XSS Protection & UX Enhancements
   function renderGames(games) {
     if (games.length === 0) {
       gamesGrid.innerHTML = '';
@@ -350,6 +378,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const formattedOrig = escapeHTML(game.originalSalePrice ? game.originalSalePrice.toFixed(2) : '0.00');
       const formattedFinal = escapeHTML(game.finalPrice.toFixed(2));
       const formattedSavings = escapeHTML(game.savings.toFixed(2));
+      const cholloBadge = getCholloBadge(game.discountPct);
 
       return `
         <article class="game-card" data-id="${safeId}">
@@ -370,6 +399,7 @@ document.addEventListener('DOMContentLoaded', () => {
           
           <div class="card-content">
             <div>
+              <div style="margin-bottom: 6px;">${cholloBadge}</div>
               <h2 class="game-title" title="${safeTitle}">${safeTitle}</h2>
               <p class="game-platform">${safePlatform}</p>
               <div class="savings-pill">
@@ -443,7 +473,7 @@ document.addEventListener('DOMContentLoaded', () => {
     applyFiltersAndRender();
   }
 
-  // Modal Open & Render
+  // Modal Open & Render with Interactive Visual Savings Bar
   function openGameModal(game) {
     activeModalGame = game;
     modalImg.src = game.image;
@@ -454,6 +484,14 @@ document.addEventListener('DOMContentLoaded', () => {
     modalPriceFinal.textContent = game.finalPrice.toFixed(2);
     modalSavingsVal.textContent = `$${game.savings.toFixed(2)} MXN`;
 
+    // Interactive Savings Progress Bar Calculation
+    const totalSavingsPct = game.fullPrice > 0 ? Math.round((game.savings / game.fullPrice) * 100) : game.discountPct;
+    modalPctTag.textContent = `-${totalSavingsPct}% Ahorro Total`;
+    
+    setTimeout(() => {
+      modalProgressBar.style.width = `${Math.min(totalSavingsPct, 100)}%`;
+    }, 50);
+
     const storeSearchUrl = `https://www.xbox.com/es-mx/Search/Results?q=${encodeURIComponent(game.title)}`;
     modalStoreBtn.href = storeSearchUrl;
 
@@ -462,6 +500,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function closeModal() {
     gameModal.style.display = 'none';
+    modalProgressBar.style.width = '0%';
     activeModalGame = null;
   }
 
@@ -495,6 +534,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   viewListBtn.addEventListener('click', () => {
     playXboxSound();
+    viewListBtn.classList.active;
     viewListBtn.classList.add('active');
     viewGridBtn.classList.remove('active');
     gamesGrid.classList.remove('grid-mode');
