@@ -17,10 +17,8 @@ const RETRO_360_KEYWORDS = [
 ];
 
 const DLC_KEYWORDS = [
-  'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
   'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
-  'paquete', 'pack', 'skin', 'outfit', 'bundle', 'kit', 'upgrade', 
-  'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
+  'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
 ];
 
 async function syncLiveDeals() {

@@ -4,10 +4,8 @@ const path = require('path');
 const GAMES_FILE = path.resolve(__dirname, '../public/data/games.json');
 
 const DLC_KEYWORDS = [
-  'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
   'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
-  'paquete', 'pack', 'skin', 'outfit', 'bundle', 'kit', 'upgrade', 
-  'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
+  'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
 ];
 
 function isBaseGame(title, platform) {

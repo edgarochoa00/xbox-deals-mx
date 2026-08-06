@@ -1,7 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 
 const OUTPUT_FILE = path.resolve(__dirname, '../public/data/games.json');
 
@@ -16,15 +15,13 @@ const RETRO_360_KEYWORDS = [
   'alice: madness returns', 'dante\'s inferno', 'asura\'s wrath', 'fight night'
 ];
 
-const DLC_KEYWORDS = [
-  'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
+const VIRTUAL_CURRENCY_KEYWORDS = [
   'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
-  'paquete', 'pack', 'skin', 'outfit', 'bundle', 'kit', 'upgrade', 
-  'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
+  'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
 ];
 
 async function syncVerifiedDeals() {
-  console.log('🚀 Conectando a Xbox Store México para extraer EXCLUSIVAMENTE ofertas reales activas...');
+  console.log('🚀 Conectando a Xbox Store México para extraer EXCLUSIVAMENTE ofertas reales activas con URL directa...');
 
   const browser = await puppeteer.launch({ 
     headless: "new",
@@ -49,9 +46,7 @@ async function syncVerifiedDeals() {
 
     console.log('📖 Cargando lista completa de ofertas en la store...');
 
-    let clickCount = 0;
-    const MAX_CLICKS = 25;
-    
+    const MAX_CLICKS = 15;
     for (let i = 0; i < MAX_CLICKS; i++) {
       const clicked = await page.evaluate(() => {
         const buttons = Array.from(document.querySelectorAll('button'));
@@ -65,49 +60,47 @@ async function syncVerifiedDeals() {
       });
 
       if (clicked) {
-        clickCount++;
         await new Promise(r => setTimeout(r, 2000));
       } else {
         break;
       }
     }
 
-    console.log('🔍 Extrayendo exclusivamente juegos con DESCUENTO REAL VERIFICADO...');
+    console.log('🔍 Extrayendo juegos con DESCUENTO REAL VERIFICADO y URL DIRECTA...');
 
-    const verifiedDeals = await page.evaluate((dlcKeywords, retroKeywords) => {
+    const verifiedDeals = await page.evaluate((currencyKeywords, retroKeywords) => {
       const items = [];
       const seenTitles = new Set();
       
-      const cards = Array.from(document.querySelectorAll('div[class*="ProductCard-module__cardWrapper"], div[class*="productCard"]'));
+      const links = Array.from(document.querySelectorAll('a[href*="/games/store/"]'));
 
-      cards.forEach((card) => {
-        const fullText = card.innerText || '';
-        const lines = fullText.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+      links.forEach((a) => {
+        const text = a.innerText || '';
+        const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
         if (lines.length < 2) return;
 
         const title = lines[0];
         const titleLower = title.toLowerCase();
-        const fullTextLower = fullText.toLowerCase();
+        const fullTextLower = text.toLowerCase();
 
         // 1. REGLA 3: EXCLUIR XBOX 360 / ORIGINAL
         for (const rKw of retroKeywords) {
           if (titleLower.includes(rKw) || fullTextLower.includes(rKw)) return;
         }
 
-        // 2. REGLA 4: EXCLUIR DLCs / COMPLEMENTOS / MONEDAS
-        for (const kw of dlcKeywords) {
+        // 2. REGLA 4: EXCLUIR MONEDAS VIRTUALES
+        for (const kw of currencyKeywords) {
           if (titleLower.includes(kw) || fullTextLower.includes(kw)) return;
         }
 
-        // 3. REQUISITO FUNDAMENTAL: DEBE TENER DESCUENTO REAL ACTIVO
-        // Buscar etiqueta de descuento (-XX%) o texto de ahorro
-        const discMatch = fullText.match(/-\d{1,2}%/);
-        
-        // Extraer Precios
-        const priceMatches = fullText.match(/MXN\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?|\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?/gi);
+        // 3. EXTRAER PRECIOS
+        const priceMatches = text.match(/MXN\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?|\$\s?\d{1,3}(?:,\d{3})*(?:\.\d{2})?/gi);
         if (!priceMatches) return;
 
         const numericPrices = priceMatches.map(p => parseFloat(p.replace(/[^0-9.]/g, ''))).filter(n => !isNaN(n) && n > 0);
+        if (numericPrices.length === 0) return;
+
+        const discMatch = text.match(/-\d{1,2}%/);
         
         let salePrice = 0;
         let fullPrice = 0;
@@ -125,7 +118,7 @@ async function syncVerifiedDeals() {
           }
         }
 
-        // SI NO TIENE DESCUENTO VERIFICADO (-XX% O PRECIO ANTERIOR MAYOR), SE DESPORTA (NO ES OFERTA)
+        // SI NO TIENE DESCUENTO VERIFICADO, SE DESCARTA
         if (!hasRealDiscount) return;
 
         // 4. REGLA 1: PRECIO DE OFERTA ENTRE $50 Y $500 MXN
@@ -135,20 +128,23 @@ async function syncVerifiedDeals() {
         let discountPct = discMatch ? discMatch[0] : `-${Math.round((1 - (salePrice / fullPrice)) * 100)}%`;
 
         // Extraer Imagen
-        const imgEl = card.querySelector('img');
+        const imgEl = a.querySelector('img');
         let image = imgEl ? (imgEl.src || imgEl.getAttribute('data-src') || imgEl.srcset || '') : '';
         if (image) {
           image = image.split('?')[0] + '?q=90&w=480&h=270';
         }
+
+        const href = a.href;
 
         if (!seenTitles.has(titleLower)) {
           seenTitles.add(titleLower);
           items.push({
             id: String(items.length + 1),
             title,
+            url: href,
             image: image || '/placeholder.png',
             originalSalePrice: salePrice,
-            originalFullPrice: fullPrice > salePrice ? fullPrice : undefined,
+            originalFullPrice: fullPrice > salePrice ? fullPrice : salePrice,
             discount: discountPct,
             platform: "Xbox One, Series X|S"
           });
@@ -156,20 +152,13 @@ async function syncVerifiedDeals() {
       });
 
       return items;
-    }, DLC_KEYWORDS, RETRO_360_KEYWORDS);
+    }, VIRTUAL_CURRENCY_KEYWORDS, RETRO_360_KEYWORDS);
 
-    console.log(`✅ ¡Obtenidos ${verifiedDeals.length} JUEGOS EN OFERTA REAL VERIFICADA ($50 - $500 MXN)!`);
+    console.log(`✅ ¡Obtenidos ${verifiedDeals.length} JUEGOS EN OFERTA REAL VERIFICADA CON URL DIRECTA ($50 - $500 MXN)!`);
 
     if (verifiedDeals.length > 0) {
       fs.writeFileSync(OUTPUT_FILE, JSON.stringify(verifiedDeals, null, 2), 'utf-8');
       console.log(`💾 games.json actualizado.`);
-
-      console.log('\n🎨 Auditando y reparando imágenes de las ofertas verificadas...');
-      try {
-        execSync('node scripts/verify_and_fix_images.cjs', { stdio: 'inherit' });
-      } catch(e) {
-        console.warn('Advertencia durante la verificación de imágenes:', e.message);
-      }
     }
 
   } catch (err) {

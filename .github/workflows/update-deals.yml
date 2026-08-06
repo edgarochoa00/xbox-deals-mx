@@ -26,8 +26,7 @@ jobs:
 
       - name: Build games catalogue
         run: |
-          node scripts/build_games_json.cjs
-          node scripts/fetch_steam_images.cjs
+          node scripts/scrape_verified_deals.cjs
 
       - name: Commit and push updated deals
         run: |

@@ -106,29 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Web Audio FX Generator for Xbox Click Chime
   function playXboxSound() {
-    if (!soundEnabled) return;
-    try {
-      const AudioCtx = window.AudioContext || window.webkitAudioContext;
-      if (!AudioCtx) return;
-      const ctx = new AudioCtx();
-      const osc = ctx.createOscillator();
-      const gain = ctx.createGain();
-
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(523.25, ctx.currentTime); // C5
-      osc.frequency.exponentialRampToValueAtTime(1046.50, ctx.currentTime + 0.08); // C6
-
-      gain.gain.setValueAtTime(0.1, ctx.currentTime);
-      gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.12);
-
-      osc.connect(gain);
-      gain.connect(ctx.destination);
-
-      osc.start();
-      osc.stop(ctx.currentTime + 0.12);
-    } catch (e) {
-      console.warn('Audio FX error:', e);
-    }
+    // Disabled in sleek/minimalist mode
   }
 
   // Toast Notification System (Safe textContent)
@@ -264,7 +242,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!topDeal) return;
 
     activeSpotlightGame = topDeal;
-    spotlightBg.style.backgroundImage = `url("${escapeHTML(topDeal.image)}")`;
+    if (spotlightBg) spotlightBg.style.backgroundImage = `url("${escapeHTML(topDeal.image)}")`;
     spotlightImg.src = topDeal.image;
     spotlightTitle.textContent = topDeal.title;
     spotlightPlatform.textContent = topDeal.platform || 'XBOX ONE / SERIES X|S';
@@ -360,23 +338,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='600' height='337' viewBox='0 0 600 337'>
       <defs>
         <linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'>
-          <stop offset='0%' stop-color='#06090e'/>
-          <stop offset='50%' stop-color='#0d1b12'/>
-          <stop offset='100%' stop-color='#06090e'/>
+          <stop offset='0%' stop-color='#09090b'/>
+          <stop offset='100%' stop-color='#18181b'/>
         </linearGradient>
-        <radialGradient id='glow' cx='50%' cy='35%' r='60%'>
-          <stop offset='0%' stop-color='#00e676' stop-opacity='0.22'/>
-          <stop offset='100%' stop-color='#000000' stop-opacity='0'/>
-        </radialGradient>
       </defs>
       <rect width='600' height='337' fill='url(#bg)'/>
-      <rect width='600' height='337' fill='url(#glow)'/>
-      <circle cx='300' cy='105' r='32' fill='none' stroke='#00e676' stroke-width='3' opacity='0.85'/>
-      <path d='M277 92 Q300 120 323 92 Q300 144 277 92 Z' fill='#00e676' opacity='0.85'/>
-      <text x='300' y='${line2 ? 200 : 215}' text-anchor='middle' font-family='sans-serif' font-weight='800' font-size='20px' fill='#ffffff'>${line1}</text>
-      ${line2 ? `<text x='300' y='230' text-anchor='middle' font-family='sans-serif' font-weight='800' font-size='20px' fill='#ffffff'>${line2}</text>` : ''}
-      <rect x='220' y='260' width='160' height='24' rx='12' fill='#107c10' opacity='0.9'/>
-      <text x='300' y='276' text-anchor='middle' font-family='sans-serif' font-weight='700' font-size='11px' fill='#ffffff' letter-spacing='2'>XBOX GAME</text>
+      <text x='300' y='${line2 ? 160 : 175}' text-anchor='middle' font-family='sans-serif' font-weight='600' font-size='24px' fill='#f4f4f5'>${line1}</text>
+      ${line2 ? `<text x='300' y='195' text-anchor='middle' font-family='sans-serif' font-weight='600' font-size='24px' fill='#f4f4f5'>${line2}</text>` : ''}
+      <rect x='220' y='240' width='160' height='28' rx='4' fill='#27272a' opacity='0.8'/>
+      <text x='300' y='259' text-anchor='middle' font-family='sans-serif' font-weight='500' font-size='12px' fill='#a1a1aa' letter-spacing='1'>XBOX DEALS</text>
     </svg>`;
 
     return 'data:image/svg+xml;base64,' + window.btoa(unescape(encodeURIComponent(svg)));
@@ -519,7 +489,7 @@ document.addEventListener('DOMContentLoaded', () => {
       modalProgressBar.style.width = `${Math.min(totalSavingsPct, 100)}%`;
     }, 50);
 
-    const storeSearchUrl = `https://www.xbox.com/es-mx/Search/Results?q=${encodeURIComponent(game.title)}`;
+    const storeSearchUrl = game.url || `https://www.xbox.com/es-mx/Search/Results?q=${encodeURIComponent(game.title)}`;
     modalStoreBtn.href = storeSearchUrl;
 
     gameModal.style.display = 'flex';

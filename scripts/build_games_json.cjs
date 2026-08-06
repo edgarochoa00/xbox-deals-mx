@@ -567,7 +567,7 @@ const rawGames = [
   { title: "Burnout™ Paradise Remastered", originalPrice: 439, salePrice: 65.85, discount: "-85%" },
   { title: "Watch Dogs®2 - Edición Gold", originalPrice: 1599, salePrice: 159.90, discount: "-90%" },
   { title: "The Elder Scrolls V: Skyrim Anniversary Edition", originalPrice: 999, salePrice: 329.67, discount: "-67%" },
-  { title: "Back 4 Blood: Edición Ultimate", originalPrice: 2499, salePrice: 249.90, discount: "-90%" },
+
   { title: "Dead Island 2", originalPrice: 979, salePrice: 146.85, discount: "-85%" },
   { title: "Borderlands 3", originalPrice: 1146, salePrice: 114.60, discount: "-90%" },
   { title: "Terraria", originalPrice: 249, salePrice: 124.50, discount: "-50%" },
@@ -1030,9 +1030,8 @@ const xbox360Titles = [
 
 // DLC / Complementos / Add-ons / Currency to exclude
 const dlcKeywords = [
-  'complemento', 'dlc', 'moneda', 'season pass', 'expansion pass',
-  'stubs', 'points', 'coins', 'credits', 'virtual currency', 'token',
-  'contenido extra', 'paquete de complementos'
+  'moneda', 'monedas', 'stubs', 'points', 'coins', 'credits', 'créditos',
+  'virtual currency', 'token', 'puntos', 'gems', 'gemas', 'bucks', 'v-bucks'
 ];
 
 function isDLC(title) {
