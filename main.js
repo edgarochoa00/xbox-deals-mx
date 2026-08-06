@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function setupSpotlight() {
     if (allGames.length === 0) return;
 
-    const topDeal = [...allGames].sort((a, b) => b.savings - a.savings)[0];
+    const topDeal = [...allGames].sort((a, b) => calculateTopScore(b) - calculateTopScore(a))[0];
     if (!topDeal) return;
 
     activeSpotlightGame = topDeal;
