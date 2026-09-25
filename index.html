@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="referrer" content="no-referrer">
-    <title>Xbox Deals MX | Analytics</title>
-    <meta name="description" content="Data driven deals catalog for Xbox One and Series X|S in Mexico." />
+    <title>Xbox Deals MX | Ofertas para regalar</title>
+    <meta name="description" content="Ofertas verificadas para regalar en Xbox One y Series X|S, hasta $500 MXN." />
     <!-- Google Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -37,25 +37,28 @@
 
       <!-- Minimal Header -->
       <header class="header-section">
-        <h1 class="header-title">Catálogo de Ofertas</h1>
+        <p class="eyebrow">BUENOS JUEGOS. MEJORES REGALOS.</p>
+        <h1 class="header-title">Tu próximo juego, <span>a mejor precio.</span></h1>
         <p class="header-subtitle">
-          Títulos de Xbox One y Series X|S bajo <strong class="highlight">$500 MXN</strong>.
-          Incluye descuento adicional del <span class="badge-extra">-26% EXTRA</span>.
+          Ofertas de Xbox One y Series X|S hasta <strong class="highlight">$500 MXN en Xbox</strong>, con opción de regalo confirmada.
+          <span class="seller-note">Además, obtén un <strong>26% adicional con nosotros</strong>.</span>
         </p>
+
+        <p id="catalog-updated" class="catalog-updated">Comprobando última actualización…</p>
 
         <!-- Stats Grid -->
         <div class="stats-grid">
           <div class="stat-box">
             <span class="stat-value" id="stat-total-games">0</span>
-            <span class="stat-label">Juegos en Oferta</span>
+            <span class="stat-label">Ofertas verificadas</span>
           </div>
           <div class="stat-box">
             <span class="stat-value" id="stat-max-discount">-0%</span>
-            <span class="stat-label">Máximo Descuento</span>
+            <span class="stat-label">Mayor descuento en Xbox</span>
           </div>
           <div class="stat-box">
             <span class="stat-value" id="stat-under-100">0</span>
-            <span class="stat-label">Menos de $100 MXN</span>
+            <span class="stat-label">Hasta $100 con nosotros</span>
           </div>
           <div class="stat-box">
             <span class="stat-value" id="stat-favs-count">0</span>
@@ -78,7 +81,9 @@
               
               <div class="spotlight-price-row">
                 <div class="spotlight-prices">
+                  <span class="store-price-label">Precio en Xbox Store</span>
                   <span class="spotlight-orig" id="spotlight-orig">$0.00</span>
+                  <span class="seller-label">Nuestro precio · 26% adicional</span>
                   <div class="spotlight-final-box">
                     <span class="spotlight-currency">$</span>
                     <span class="spotlight-final" id="spotlight-final">0</span>
@@ -92,7 +97,7 @@
 
               <div class="spotlight-actions">
                 <button class="btn-primary" id="spotlight-details-btn">Ver Detalles</button>
-                <button class="btn-icon" id="spotlight-fav-btn">
+                <button class="btn-icon" id="spotlight-fav-btn" aria-label="Guardar oferta destacada en favoritos">
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
                 </button>
               </div>
@@ -106,13 +111,13 @@
         <div class="controls-top-row">
           <div class="search-box">
             <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-            <input type="text" id="search-input" placeholder="Buscar título..." autocomplete="off">
-            <span class="clear-search" id="clear-search" style="display:none;">&times;</span>
+            <input type="search" aria-label="Buscar juego o suscripción" id="search-input" placeholder="Buscar título..." autocomplete="off">
+            <button type="button" aria-label="Limpiar búsqueda" class="clear-search" id="clear-search" style="display:none;">&times;</button>
           </div>
 
           <div class="toolbar-controls">
             <div class="select-wrapper">
-              <select id="sort-select" class="custom-select">
+              <select aria-label="Ordenar ofertas" id="sort-select" class="custom-select">
                 <option value="topGames" selected>Relevancia</option>
                 <option value="discount">Mayor Descuento</option>
                 <option value="savings">Mayor Ahorro</option>
@@ -123,10 +128,10 @@
             </div>
 
             <div class="view-switch-group">
-              <button class="view-btn active" id="view-grid-btn">
+              <button class="view-btn active" id="view-grid-btn" aria-label="Vista de tarjetas" aria-pressed="true">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
               </button>
-              <button class="view-btn" id="view-list-btn">
+              <button class="view-btn" id="view-list-btn" aria-label="Vista de lista" aria-pressed="false">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
               </button>
             </div>
@@ -138,9 +143,9 @@
             <span>Todos</span>
             <span class="pill-badge" id="total-count">0</span>
           </button>
-          <button class="pill" data-filter="under100">Bajo $100</button>
-          <button class="pill" data-filter="under250">Bajo $250</button>
-          <button class="pill" data-filter="topDiscounts">Desc &gt; 70%</button>
+          <button class="pill" data-filter="under100">Hasta $100 con nosotros</button>
+          <button class="pill" data-filter="under250">Hasta $250 con nosotros</button>
+          <button class="pill" data-filter="topDiscounts">70% o más en Xbox</button>
           <button class="pill" data-filter="favorites">
             <span>Favoritos</span>
             <span class="pill-badge" id="fav-count-pill">0</span>
@@ -148,6 +153,7 @@
         </div>
       </section>
 
+      <p id="results-count" class="results-count" aria-live="polite"></p>
       <!-- Main Content Grid -->
       <main>
         <div id="fav-summary-banner" class="fav-summary-banner" style="display: none;">
@@ -180,9 +186,9 @@
       </main>
 
       <!-- Modal Quick View Drawer -->
-      <div id="game-modal" class="modal-backdrop" style="display: none;">
+      <div id="game-modal" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modal-title" style="display: none;">
         <div class="modal-card">
-          <button class="modal-close" id="modal-close-btn">&times;</button>
+          <button class="modal-close" id="modal-close-btn" aria-label="Cerrar detalles">&times;</button>
           
           <div class="modal-banner" id="modal-banner">
             <img id="modal-img" src="" alt="Cover">
@@ -197,11 +203,12 @@
 
             <div class="modal-price-breakdown">
               <div class="price-row">
-                <span>Precio Regular:</span>
-                <span class="line-through" id="modal-price-orig">$0.00 MXN</span>
+                <span>Precio habitual en Xbox:</span>
+                <span class="line-through" id="modal-full-price">$0.00 MXN</span>
               </div>
+              <div class="price-row"><span>Oferta en Xbox Store:</span><span id="modal-price-orig"></span></div>
               <div class="price-row highlight-row">
-                <span>Precio Final (-26%):</span>
+                <span>Nuestro precio (−26%):</span>
                 <div class="final-price-tag">
                   <span class="curr">$</span>
                   <span class="val" id="modal-price-final">0.00</span>
@@ -211,7 +218,7 @@
 
               <div class="savings-progress-wrapper">
                 <div class="progress-labels">
-                  <span>Ahorro Relativo</span>
+                  <span>Ahorro total</span>
                   <span id="modal-pct-tag" class="pct-tag">-0%</span>
                 </div>
                 <div class="progress-bar-bg">
@@ -220,10 +227,12 @@
               </div>
 
               <div class="savings-box" id="modal-savings-box">
-                Ahorro neto: <strong id="modal-savings-val">$0.00 MXN</strong>
+                Ahorras: <strong id="modal-savings-val">$0.00 MXN</strong>
               </div>
             </div>
 
+            <p class="modal-note">El 26% adicional lo ofrecemos nosotros. Xbox Store muestra su propio precio de oferta.</p>
+            <p id="modal-validity" class="modal-note"></p>
             <div class="modal-actions">
               <a href="#" target="_blank" rel="noopener noreferrer" class="btn-primary" id="modal-store-btn">
                 Ir a Xbox Store
@@ -236,10 +245,11 @@
         </div>
       </div>
 
-      <div id="toast-container" class="toast-container"></div>
+      <div id="toast-container" role="status" aria-live="polite" class="toast-container"></div>
 
       <footer class="footer">
         <p><strong>Xbox Deals MX</strong></p>
+        <p class="footer-sub">El nuestro precio incluye nuestro 26% adicional sobre la oferta de Xbox. La opción de regalo se verifica para México.</p>
         <p class="footer-sub">Xbox Deals MX es un sitio informativo independiente y no está afiliado, patrocinado ni respaldado por Microsoft Corporation o Xbox. Las marcas y logotipos pertenecen a sus respectivos dueños. Los precios y disponibilidad son determinados por la tienda oficial y pueden cambiar sin previo aviso.</p>
       </footer>
     </div>

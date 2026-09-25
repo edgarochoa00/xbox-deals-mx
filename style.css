@@ -11,9 +11,9 @@
   
   --text-primary: #f4f4f5;
   --text-secondary: #a1a1aa;
-  --text-muted: #71717a;
+  --text-muted: #a1a1aa;
   
-  --accent: #ffffff;
+  --accent: #a5eb81;
   --accent-hover: #e4e4e7;
   --danger: #ef4444;
   
@@ -910,4 +910,110 @@ body {
   .spotlight-final {
     font-size: 1.75rem;
   }
+}
+
+/* Verified deals: clear prices, accessible controls, and a working list layout. */
+.dotted-bg { opacity: .22; }
+.eyebrow { color: var(--accent); font-size: .72rem; font-weight: 700; letter-spacing: .16em; margin-bottom: 1rem; }
+.header-title { max-width: 850px; font-size: clamp(2rem, 4.5vw, 3.7rem); line-height: 1.12; letter-spacing: -.045em; }
+.header-title span { color: var(--accent); }
+.header-subtitle { max-width: 680px; line-height: 1.7; margin: 1.3rem 0 .7rem; }
+.seller-note { display: block; }
+.catalog-updated { color: var(--text-muted); font-size: .78rem; margin-bottom: 2rem; }
+.status-dot { background: var(--accent); animation: none; }
+.status-dot.is-stale { background: #d9b66c; }
+.stat-box { background: #141715; }
+.stat-value { font-variant-numeric: tabular-nums; }
+.spotlight-card { background: linear-gradient(120deg, #16201a, #101412); border-color: #2e4631; padding: 1.75rem; }
+.spotlight-badge { background: var(--accent); }
+.spotlight-title { margin-top: .4rem; }
+.spotlight-orig { text-decoration: none; color: var(--text-secondary); margin-bottom: .75rem; }
+.spotlight-price-row { gap: 1rem; }
+.spotlight-final { color: var(--accent); }
+.btn-primary { background: var(--accent); color: #12220c; font-weight: 600; min-height: 44px; }
+.btn-secondary, .view-btn, .pill { min-height: 44px; }
+.pill.active { background: var(--accent); border-color: var(--accent); }
+.results-count { color: var(--text-secondary); font-size: .8rem; margin: 0 0 1rem; }
+.game-card { background: #131714; }
+.card-content { gap: 1rem; }
+.game-title { margin-bottom: .55rem; }
+.card-details { background: none; border: 0; color: inherit; font: inherit; text-align: left; cursor: pointer; }
+.gift-label { color: var(--accent); font-size: .72rem; margin: .45rem 0; }
+.discount-badge { background: #142f16; color: #c4f9ac; }
+.extra-badge { background: #151b17; font-size: .65rem; }
+.price-container { align-items: end; gap: .75rem; flex-wrap: wrap; }
+.store-price-label { display: flex; flex-direction: column; font-size: .7rem; color: var(--text-muted); }
+.price-original { text-decoration: none; }
+.seller-label { display: block; color: var(--accent); font-size: .7rem; }
+.seller-price { text-align: right; margin-left: auto; }
+.price-final-group { justify-content: flex-end; }
+.price-final { color: var(--accent); }
+.games-grid.list-mode { display: grid; gap: .8rem; }
+.list-mode .game-card { display: grid; grid-template-columns: 220px 1fr; }
+.list-mode .card-image-wrapper { height: 100%; min-height: 165px; }
+.list-mode .card-top-bar { width: 196px; right: auto; }
+.list-mode .card-content { flex-direction: row; align-items: center; gap: 2rem; }
+.list-mode .price-container { min-width: 240px; margin: 0; }
+.game-title, .spotlight-title { overflow-wrap: anywhere; }
+.fav-summary-banner { padding: 1rem; background: #18241b; border: 1px solid #2e4631; border-radius: 8px; margin-bottom: 1rem; }
+.clear-search { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); width: 32px; height: 32px; background: none; border: 0; color: var(--text-secondary); font-size: 1.3rem; cursor: pointer; }
+input[type=search]::-webkit-search-cancel-button { display: none; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.search-box input:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+.modal-backdrop { padding: 1rem; }
+.modal-card { max-height: calc(100dvh - 2rem); overflow-y: auto; }
+.modal-close { z-index: 5; width: 44px; height: 44px; background: #101512; }
+.modal-banner { position: relative; }
+.modal-banner img { max-height: 220px; display: block; }
+.modal-tags { position: absolute; bottom: 12px; left: 16px; }
+.tag-discount { background: #162b17; color: var(--accent); border-radius: 5px; padding: 4px 8px; }
+.line-through { text-decoration: line-through; color: var(--text-muted); }
+.highlight-row { color: var(--accent); font-weight: 600; }
+.progress-labels { display: flex; justify-content: space-between; font-size: .75rem; color: var(--text-secondary); margin: 1rem 0 .4rem; }
+.progress-bar-bg { height: 5px; border-radius: 4px; background: #29322b; overflow: hidden; }
+.progress-bar-fill { background: var(--accent); height: 100%; transition: width .25s; }
+.savings-box { margin-top: .6rem; font-size: .8rem; }
+.modal-note { color: var(--text-secondary); font-size: .75rem; line-height: 1.6; margin-top: .8rem; }
+.footer-sub { line-height: 1.8; margin-top: .8rem; max-width: 850px; }
+.empty-state .btn-secondary { margin-top: 1.25rem; }
+@media (max-width: 768px) {
+  .list-mode .card-content { flex-direction: column; align-items: stretch; gap: .8rem; }
+  .list-mode .price-container { min-width: 0; }
+  .spotlight-content { gap: 1.25rem; }
+  .spotlight-price-row { flex-direction: row; align-items: center; }
+}
+@media (max-width: 640px) {
+  .top-navbar { gap: 1rem; align-items: flex-start; }
+  .live-status { font-size: .65rem; text-align: right; }
+  .brand-name { font-size: .95rem; white-space: nowrap; }
+  .stats-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .stat-label { font-size: .7rem; }
+  .header-title { font-size: 2.35rem; }
+  .eyebrow { font-size: .62rem; }
+  .spotlight-card { padding: 1rem; }
+  .spotlight-savings-badge { font-size: .7rem; padding: 6px; }
+  .spotlight-final { font-size: 1.8rem; }
+  .spotlight-mxn, .spotlight-currency { font-size: .75rem; }
+  .toolbar-controls { gap: .5rem; }
+  .select-wrapper { flex: 1; min-width: 0; }
+  .custom-select { width: 100%; font-size: .8rem; }
+  .card-top-bar { align-items: flex-start; }
+  .badge-stack { flex-direction: column; align-items: flex-start; gap: 3px; }
+  .fav-btn { width: 36px; height: 36px; }
+  .price-container { flex-direction: column; align-items: flex-start; gap: .4rem; }
+  .seller-price { margin-left: 0; text-align: left; }
+  .game-title { display: block; font-size: .9rem; }
+  .gift-label { font-size: .65rem; }
+  .list-mode .game-card { grid-template-columns: 115px minmax(0, 1fr); }
+  .list-mode .card-top-bar { width: 103px; }
+  .list-mode .card-image { object-fit: contain; }
+  .modal-body { padding: 1rem; }
+  .modal-title { font-size: 1.25rem; margin-bottom: .8rem; }
+  .modal-actions { flex-direction: column; gap: .5rem; }
+  .modal-actions > * { flex: auto; }
+  .price-row { font-size: .8rem; gap: 1rem; }
+  .toast-container { right: 12px; left: 12px; bottom: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }

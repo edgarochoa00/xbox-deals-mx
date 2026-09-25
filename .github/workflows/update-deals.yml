@@ -2,19 +2,28 @@ name: Actualización Automática de Ofertas Xbox
 
 on:
   schedule:
-    # Se ejecuta automáticamente todos los martes y viernes a la 1:00 PM (Hora México)
-    - cron: '0 19 * * 2,5'
+    # Cada seis horas (UTC). La web caduca verificaciones de más de 30 horas.
+    - cron: '17 */6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-xbox-deals
+  cancel-in-progress: false
+
 jobs:
   update-deals:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v5
@@ -22,16 +31,24 @@ jobs:
           node-version: '24'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --ignore-scripts
+
+      - name: Test catalog policy
+        run: npm test
 
       - name: Build games catalogue
-        run: |
-          node scripts/scrape_verified_deals.cjs
+        run: npm run scrape
+
+      - name: Validate website build
+        run: npm run build
 
       - name: Commit and push updated deals
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add public/data/games.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: actualización automática de ofertas Xbox [skip ci]" && git pull --rebase origin main && git push)
-
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: actualizar ofertas y regalos verificados"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
