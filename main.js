@@ -1,4 +1,5 @@
 import './style.css';
+import { isActiveDeal, priceBreakdown } from './src/deal-policy.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   // UI Elements
@@ -53,13 +54,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const modalStoreBtn = document.getElementById('modal-store-btn');
   const modalShareBtn = document.getElementById('modal-share-btn');
 
-  const EXTRA_DISCOUNT = 0.26;
+  let catalogCheckedAt = null;
+  let catalogExpiresAt = null;
+  let returnFocus = null;
   let allGames = [];
   let currentFilter = 'all';
   let currentSearchQuery = '';
   let currentSort = 'topGames';
   let currentViewMode = 'grid';
-  let favorites = JSON.parse(localStorage.getItem('xbox_deals_favs') || '[]');
+  let favorites = [];
+  try {
+    const saved = JSON.parse(localStorage.getItem('xbox_deals_favs_v2') || '[]');
+    if (Array.isArray(saved)) favorites = saved.filter(id => typeof id === 'string');
+  } catch { /* Storage may be unavailable or contain invalid JSON. */ }
   let soundEnabled = false;
   let activeSpotlightGame = null;
   let activeModalGame = null;
@@ -128,67 +135,20 @@ document.addEventListener('DOMContentLoaded', () => {
   // Fetch Games Data
   async function fetchGames() {
     try {
-      const response = await fetch('/data/games.json');
+      const response = await fetch('/data/games.json', { cache: 'no-store' });
       if (!response.ok) throw new Error('Error fetching games data');
       
-      const rawGames = await response.json();
-      
-      // Process and enrich game items adhering strictly to the 4 rules
-      allGames = rawGames
-        .filter(g => {
-          const salePrice = Number(g.originalSalePrice) || 0;
-          const titleLower = (g.title || '').toLowerCase();
-          const platformLower = (g.platform || '').toLowerCase();
-
-          // REGLA 1: Rango de precio $50 a $500 MXN
-          if (salePrice < 50 || salePrice > 500) return false;
-
-          // REGLA 3: No Xbox 360 / No Xbox Original (Absolutamente ninguno)
-          const retro360Keywords = [
-            '360', 'frontlines', 'alive', 'sacred 2', 'sacred 3', 'risen (2009)', 'risen 2', 
-            'full spectrum warrior', 'baja: edge of control', 'fallout 3', 'fallout: new vegas',
-            'gears of war 2', 'gears of war 3', 'gears of war: judgment', 'skate 2', 'skate 3',
-            'fable ii', 'fable iii', 'bioshock 2', 'mass effect 2', 'mass effect 3', 'dead space 2',
-            'left 4 dead', 'portal 2', 'call of duty 4', 'call of duty: black ops', 'modern warfare 2',
-            'banjo-kazooie', 'banjo-tooie', 'perfect dark', 'kameo', 'crackdown 2', 'blue dragon',
-            'lost odyssey', 'dragon age: origins', 'dragon age ii', 'spec ops: the line', 'max payne 3',
-            'alice: madness returns', 'dante\'s inferno', 'asura\'s wrath', 'fight night'
-          ];
-
-          for (const rKw of retro360Keywords) {
-            if (titleLower.includes(rKw) || platformLower.includes(rKw)) return false;
-          }
-
-          // REGLA 4: Solo juegos base (No DLCs, no complementos, no monedas, no pases, no skins)
-          const dlcKeywords = [
-            'dlc', 'addon', 'add-on', 'expansion', 'pass', 'pase', 'season pass', 
-            'monedas', 'points', 'créditos', 'virtual currency', 'puntos', 'stubs', 
-            'paquete', 'pack', 'skin', 'outfit', 'bundle', 'kit', 'upgrade', 
-            'complemento', 'item', 'coins', 'gems', 'gemas', 'bucks', 'v-bucks'
-          ];
-
-          for (const kw of dlcKeywords) {
-            if (titleLower.includes(kw)) return false;
-          }
-
-          return true;
-        })
-        .map(g => {
-          const salePrice = Number(g.originalSalePrice) || 0;
-          const fullPrice = Number(g.originalFullPrice) || salePrice;
-          const finalPrice = Number((salePrice * (1 - EXTRA_DISCOUNT)).toFixed(2));
-          const savings = Number((fullPrice - finalPrice).toFixed(2));
-          const discountPct = parseInt((g.discount || '0').replace(/[^0-9]/g, '')) || 0;
-
-          return {
-            ...g,
-            finalPrice,
-            savings,
-            discountPct,
-            fullPrice
-          };
-        });
-
+      const catalog = await response.json();
+      if (catalog.schemaVersion !== 2 || !Array.isArray(catalog.games) ||
+          !Number.isFinite(Date.parse(catalog.checkedAt)) || !Number.isFinite(Date.parse(catalog.expiresAt))) {
+        throw new Error('El catálogo aún no cuenta con verificación de regalos.');
+      }
+      catalogCheckedAt = catalog.checkedAt;
+      catalogExpiresAt = catalog.expiresAt;
+      allGames = Date.now() < Date.parse(catalogExpiresAt)
+        ? catalog.games.filter(g => isActiveDeal(g)).map(priceBreakdown) : [];
+      document.getElementById('catalog-updated').textContent =
+        `Última revisión: ${formatDate(catalogCheckedAt)} · Actualización cada 6 horas`;
       loadingState.style.display = 'none';
       
       // Compute dashboard stats
@@ -203,6 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
       console.error('Fetch error:', error);
       loadingState.style.display = 'none';
       errorState.style.display = 'block';
+      tickerStatus.textContent = 'Catálogo no disponible';
     }
   }
 
@@ -217,10 +178,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const under100Count = allGames.filter(g => g.finalPrice <= 100).length;
     statUnder100.textContent = under100Count;
 
-    statFavsCount.textContent = favorites.length;
-    favCountPill.textContent = favorites.length;
+    const activeFavorites = allGames.filter(g => favorites.includes(g.id)).length;
+    statFavsCount.textContent = activeFavorites;
+    favCountPill.textContent = activeFavorites;
 
-    tickerStatus.textContent = `${allGames.length} Ofertas activas en México`;
+    tickerStatus.textContent = catalogExpiresAt && Date.now() >= Date.parse(catalogExpiresAt)
+      ? 'Revisión pendiente' : `${allGames.length} ofertas verificadas · MX`;
+    document.querySelector('.status-dot').classList.toggle('is-stale', !allGames.length);
 
     // Favorites Cumulative Savings Calculation
     const favGames = allGames.filter(g => favorites.includes(g.id));
@@ -236,14 +200,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Spotlight Top Deal
   function setupSpotlight() {
-    if (allGames.length === 0) return;
+    if (allGames.length === 0) { spotlightSection.style.display = 'none'; activeSpotlightGame = null; return; }
 
     const topDeal = [...allGames].sort((a, b) => calculateTopScore(b) - calculateTopScore(a))[0];
     if (!topDeal) return;
 
     activeSpotlightGame = topDeal;
     if (spotlightBg) spotlightBg.style.backgroundImage = `url("${escapeHTML(topDeal.image)}")`;
-    spotlightImg.src = topDeal.image;
+    spotlightImg.src = topDeal.image || getFallbackSvgUrl(topDeal.title);
+    spotlightImg.alt = topDeal.title;
+    spotlightImg.onerror = () => { spotlightImg.onerror = null; spotlightImg.src = getFallbackSvgUrl(topDeal.title); };
     spotlightTitle.textContent = topDeal.title;
     spotlightPlatform.textContent = topDeal.platform || 'XBOX ONE / SERIES X|S';
     spotlightOrig.textContent = `$${topDeal.salePrice ? topDeal.salePrice.toFixed(2) : topDeal.originalSalePrice.toFixed(2)}`;
@@ -269,6 +235,8 @@ document.addEventListener('DOMContentLoaded', () => {
   function updateSpotlightFavButton() {
     if (!activeSpotlightGame) return;
     const isFav = favorites.includes(activeSpotlightGame.id);
+    spotlightFavBtn.setAttribute('aria-pressed', String(isFav));
+    spotlightFavBtn.setAttribute('aria-label', `${isFav ? 'Quitar de favoritos' : 'Guardar en favoritos'}: ${activeSpotlightGame.title}`);
     if (isFav) {
       spotlightFavBtn.classList.add('active');
     } else {
@@ -315,6 +283,7 @@ document.addEventListener('DOMContentLoaded', () => {
       filtered.sort((a, b) => a.title.localeCompare(b.title));
     }
 
+    document.getElementById('results-count').textContent = `${filtered.length} de ${allGames.length} ofertas`;
     renderGames(filtered);
   }
 
@@ -360,7 +329,9 @@ document.addEventListener('DOMContentLoaded', () => {
       if (currentFilter === 'favorites') {
         document.getElementById('empty-msg').textContent = 'Aún no has guardado ningún juego en tus favoritos. Toca el icono de corazón en cualquier tarjeta.';
       } else {
-        document.getElementById('empty-msg').textContent = 'No encontramos ninguna oferta que coincida con tu búsqueda actual.';
+        document.getElementById('empty-msg').textContent = !allGames.length
+          ? 'No hay ofertas con verificación vigente. Vuelve después de la próxima actualización.'
+          : 'No encontramos ninguna oferta que coincida con tu búsqueda actual.';
       }
       return;
     }
@@ -371,7 +342,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const isFav = favorites.includes(game.id);
       const safeId = escapeHTML(game.id);
       const safeTitle = escapeHTML(game.title);
-      const safeImage = escapeHTML(game.image);
+      const safeImage = escapeHTML(game.image || getFallbackSvgUrl(game.title));
       const safePlatform = escapeHTML(game.platform || 'Xbox One / Series X|S');
       const safeStoreDiscount = escapeHTML(game.discount || '');
       const formattedOrig = escapeHTML(game.originalSalePrice ? game.originalSalePrice.toFixed(2) : '0.00');
@@ -383,9 +354,9 @@ document.addEventListener('DOMContentLoaded', () => {
           <div class="card-top-bar">
             <div class="badge-stack">
               ${safeStoreDiscount ? `<div class="discount-badge">${safeStoreDiscount}</div>` : ''}
-              <div class="extra-badge">-26% EXTRA</div>
+              <div class="extra-badge">26% adicional</div>
             </div>
-            <button class="fav-btn ${isFav ? 'is-favorite' : ''}" data-id="${safeId}" title="${isFav ? 'Quitar de Favoritos' : 'Agregar a Favoritos'}">
+            <button class="fav-btn ${isFav ? 'is-favorite' : ''}" data-id="${safeId}" aria-pressed="${isFav}" aria-label="${isFav ? 'Quitar de favoritos' : 'Guardar en favoritos'}: ${safeTitle}" title="${isFav ? 'Quitar de Favoritos' : 'Agregar a Favoritos'}">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
             </button>
           </div>
@@ -397,20 +368,21 @@ document.addEventListener('DOMContentLoaded', () => {
           
           <div class="card-content">
             <div>
-              <h2 class="game-title" title="${safeTitle}">${safeTitle}</h2>
+              <h2 class="game-title"><button class="card-details" title="${safeTitle}">${safeTitle}</button></h2>
               <p class="game-platform">${safePlatform}</p>
+              <p class="gift-label">Regalo disponible · ${game.kind === 'subscription' ? 'Suscripción' : 'Juego'}</p>
               <div class="savings-pill">
                 <span>Ahorras $${formattedSavings} MXN</span>
               </div>
             </div>
             
             <div class="price-container">
-              <span class="price-original">$${formattedOrig}</span>
-              <div class="price-final-group">
+              <span class="store-price-label">Xbox Store <span class="price-original">$${formattedOrig}</span></span>
+              <div class="seller-price"><span class="seller-label">Nuestro precio</span><div class="price-final-group">
                 <span class="currency">$</span>
                 <span class="price-final">${formattedFinal}</span>
                 <span class="mxn-tag">MXN</span>
-              </div>
+              </div></div>
             </div>
           </div>
         </article>
@@ -428,7 +400,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (img.previousElementSibling) {
           img.previousElementSibling.src = fallback;
         }
-      });
+      }, { once: true });
     });
 
     // Attach Event Listeners to cards
@@ -464,7 +436,7 @@ document.addEventListener('DOMContentLoaded', () => {
       showToast('Guardado en tus Favoritos');
     }
 
-    localStorage.setItem('xbox_deals_favs', JSON.stringify(favorites));
+    try { localStorage.setItem('xbox_deals_favs_v2', JSON.stringify(favorites)); } catch { showToast('Tu navegador no permite guardar favoritos permanentemente.'); }
     updateDashboardStats();
     updateSpotlightFavButton();
     applyFiltersAndRender();
@@ -472,8 +444,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Modal Open & Render with Interactive Visual Savings Bar
   function openGameModal(game) {
+    if (!isActiveDeal(game)) { expireDeals(); showToast('Esta oferta necesita una nueva verificación.'); return; }
+    returnFocus = document.activeElement;
     activeModalGame = game;
-    modalImg.src = game.image;
+    modalImg.src = game.image || getFallbackSvgUrl(game.title);
+    modalImg.alt = game.title;
+    modalImg.onerror = () => { modalImg.onerror = null; modalImg.src = getFallbackSvgUrl(game.title); };
+    document.getElementById('modal-full-price').textContent = `$${game.fullPrice.toFixed(2)} MXN`;
+    document.getElementById('modal-validity').textContent = `Regalo confirmado el ${formatDate(game.verifiedAt)}. Oferta hasta el ${formatDate(game.offerEndsAt)}.`;
     modalTagDiscount.textContent = game.discount || '-0%';
     modalTitle.textContent = game.title;
     modalPlatform.textContent = (game.platform || 'XBOX ONE / SERIES X|S').toUpperCase();
@@ -493,12 +471,16 @@ document.addEventListener('DOMContentLoaded', () => {
     modalStoreBtn.href = storeSearchUrl;
 
     gameModal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    modalCloseBtn.focus();
   }
 
   function closeModal() {
     gameModal.style.display = 'none';
     modalProgressBar.style.width = '0%';
     activeModalGame = null;
+    document.body.style.overflow = '';
+    returnFocus?.focus();
   }
 
   // Filter Pills Handlers
@@ -527,16 +509,19 @@ document.addEventListener('DOMContentLoaded', () => {
     gamesGrid.classList.remove('list-mode');
     gamesGrid.classList.add('grid-mode');
     currentViewMode = 'grid';
+    viewGridBtn.setAttribute('aria-pressed', 'true');
+    viewListBtn.setAttribute('aria-pressed', 'false');
   });
 
   viewListBtn.addEventListener('click', () => {
     playXboxSound();
-    viewListBtn.classList.active;
     viewListBtn.classList.add('active');
     viewGridBtn.classList.remove('active');
     gamesGrid.classList.remove('grid-mode');
     gamesGrid.classList.add('list-mode');
     currentViewMode = 'list';
+    viewGridBtn.setAttribute('aria-pressed', 'false');
+    viewListBtn.setAttribute('aria-pressed', 'true');
   });
 
   // Search Input Handler
@@ -559,6 +544,7 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.value = '';
     currentSearchQuery = '';
     currentFilter = 'all';
+    clearSearchBtn.style.display = 'none';
     filterPills.forEach(p => p.classList.remove('active'));
     document.querySelector('.pill[data-filter="all"]').classList.add('active');
     applyFiltersAndRender();
@@ -579,14 +565,40 @@ document.addEventListener('DOMContentLoaded', () => {
     if (e.target === gameModal) closeModal();
   });
 
-  modalShareBtn.addEventListener('click', () => {
-    playXboxSound();
-    if (activeModalGame) {
-      const shareUrl = window.location.origin;
-      navigator.clipboard.writeText(`¡Mira esta oferta en Xbox Deals MX! ${activeModalGame.title} a solo $${activeModalGame.finalPrice} MXN. ${shareUrl}`);
-      showToast('Enlace de la oferta copiado al portapapeles');
-    }
+  modalShareBtn.addEventListener('click', async () => {
+    if (!activeModalGame || !isActiveDeal(activeModalGame)) { closeModal(); expireDeals(); return; }
+    try {
+      const game = activeModalGame;
+      await navigator.clipboard.writeText(`${game.title}: $${game.originalSalePrice.toFixed(2)} MXN en Xbox Store. Nuestro precio: $${game.finalPrice.toFixed(2)} MXN con 26% adicional. ${game.url}`);
+      showToast('Oferta copiada al portapapeles');
+    } catch { showToast('No se pudo copiar. Abre la tienda para compartir su enlace.'); }
   });
 
+  modalStoreBtn.addEventListener('click', e => {
+    if (!activeModalGame || !isActiveDeal(activeModalGame)) { e.preventDefault(); closeModal(); expireDeals(); }
+  });
+  document.addEventListener('keydown', e => {
+    if (!activeModalGame) return;
+    if (e.key === 'Escape') closeModal();
+    if (e.key === 'Tab') {
+      const elements = [...gameModal.querySelectorAll('button, a[href]')];
+      const first = elements[0], last = elements.at(-1);
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+  function formatDate(date) {
+    return new Intl.DateTimeFormat('es-MX', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(date));
+  }
+  function expireDeals() {
+    const valid = allGames.filter(g => isActiveDeal(g));
+    if (valid.length === allGames.length) return;
+    allGames = valid;
+    if (activeModalGame && !isActiveDeal(activeModalGame)) closeModal();
+    setupSpotlight();
+    applyFiltersAndRender();
+  }
+  setInterval(expireDeals, 60000);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) expireDeals(); });
   fetchGames();
 });
