@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "checkedAt": "2026-11-14T06:21:01.270Z",
-  "expiresAt": "2026-11-15T12:21:01.270Z",
+  "checkedAt": "2026-11-14T17:59:43.547Z",
+  "expiresAt": "2026-11-15T23:59:43.547Z",
   "source": "Xbox México / Microsoft Display Catalog",
-  "examinedProducts": 436,
+  "examinedProducts": 428,
   "unavailableProducts": [],
   "games": [
     {
@@ -28,7 +28,7 @@
       "giftAvailabilityId": "9WW987D3N614",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -53,7 +53,7 @@
       "giftAvailabilityId": "9XMN1D3PV21T",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -78,7 +78,7 @@
       "giftAvailabilityId": "B4VTCJNLR88M",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -103,7 +103,7 @@
       "giftAvailabilityId": "9XJT6102P732",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -127,7 +127,7 @@
       "giftAvailabilityId": "B1MT16XS556Z",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -151,7 +151,7 @@
       "giftAvailabilityId": "9XNT87V8VB42",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -175,7 +175,7 @@
       "giftAvailabilityId": "B4HLNR6SV6NB",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -200,7 +200,7 @@
       "giftAvailabilityId": "9Q186V1KT7NG",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -225,7 +225,7 @@
       "giftAvailabilityId": "9SXTBSK8TTN1",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -250,7 +250,7 @@
       "giftAvailabilityId": "9RKR61VNZ8MF",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -275,7 +275,7 @@
       "giftAvailabilityId": "9X8S7N0BVXPN",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -299,7 +299,7 @@
       "giftAvailabilityId": "9N0GL1KP7RC5",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -324,7 +324,7 @@
       "giftAvailabilityId": "B2X3CTFRNH9M",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -348,7 +348,7 @@
       "giftAvailabilityId": "9R73JDWMNQM8",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -372,7 +372,7 @@
       "giftAvailabilityId": "9S9N8M4CR6CN",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -397,7 +397,7 @@
       "giftAvailabilityId": "9WTQB1P32MR1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -422,7 +422,7 @@
       "giftAvailabilityId": "9W5X3K7VJRSR",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -447,7 +447,7 @@
       "giftAvailabilityId": "9RZ10FX6K4DK",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -471,7 +471,7 @@
       "giftAvailabilityId": "9V0L5NLXFPPG",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -496,7 +496,7 @@
       "giftAvailabilityId": "9PXQNCDWL6NB",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -521,7 +521,7 @@
       "giftAvailabilityId": "9X7R4R2KXDT1",
       "offerStartsAt": "2023-10-31T10:00:00.0000000Z",
       "offerEndsAt": "2099-12-30T23:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -546,7 +546,7 @@
       "giftAvailabilityId": "9N872W6K1ZVP",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -571,7 +571,7 @@
       "giftAvailabilityId": "B152J4P4M75W",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -596,7 +596,7 @@
       "giftAvailabilityId": "B44GV6TB9QG2",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -620,7 +620,7 @@
       "giftAvailabilityId": "B50ZFSCG4WHC",
       "offerStartsAt": "2026-11-06T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -645,7 +645,7 @@
       "giftAvailabilityId": "B47Z5ZW23F51",
       "offerStartsAt": "2026-11-06T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -670,7 +670,7 @@
       "giftAvailabilityId": "9SM830SVCWHJ",
       "offerStartsAt": "2026-11-10T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -694,7 +694,7 @@
       "giftAvailabilityId": "9QNGPCVTRCVW",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -719,7 +719,7 @@
       "giftAvailabilityId": "9VQ2Q8S6XCPM",
       "offerStartsAt": "2026-11-10T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -744,7 +744,7 @@
       "giftAvailabilityId": "9MV6HZP694ZN",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -768,7 +768,7 @@
       "giftAvailabilityId": "9WMHF1R591QT",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-18T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -793,7 +793,7 @@
       "giftAvailabilityId": "9SJM503N2801",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -818,7 +818,7 @@
       "giftAvailabilityId": "B3FR086LMHP3",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -843,7 +843,7 @@
       "giftAvailabilityId": "9V16R1Q25162",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -868,7 +868,7 @@
       "giftAvailabilityId": "9XDC72T9WT1N",
       "offerStartsAt": "2026-11-13T21:00:00.0000000Z",
       "offerEndsAt": "2026-12-04T20:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -893,7 +893,7 @@
       "giftAvailabilityId": "9VFTPLC781DL",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -918,7 +918,7 @@
       "giftAvailabilityId": "B41636PBRSB1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -943,7 +943,7 @@
       "giftAvailabilityId": "9VQ757SRBMMH",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -968,7 +968,7 @@
       "giftAvailabilityId": "9QX9SW39J1M4",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -993,7 +993,7 @@
       "giftAvailabilityId": "9PNXNXSRWKV6",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1018,7 +1018,7 @@
       "giftAvailabilityId": "9WGCJH2P7CWW",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1043,7 +1043,7 @@
       "giftAvailabilityId": "B08SWSVND7MV",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1068,7 +1068,7 @@
       "giftAvailabilityId": "B3BSLQK80RZN",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1093,7 +1093,7 @@
       "giftAvailabilityId": "9TMKH07G3B0G",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1118,7 +1118,7 @@
       "giftAvailabilityId": "9PJBCJR8FS9F",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1143,7 +1143,7 @@
       "giftAvailabilityId": "9PPKRPDGTLLJ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1167,7 +1167,7 @@
       "giftAvailabilityId": "9R28G0NXCWX5",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1191,7 +1191,7 @@
       "giftAvailabilityId": "9VLB9BBRKKSZ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1216,7 +1216,7 @@
       "giftAvailabilityId": "9VTVP3872ZDT",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1241,7 +1241,7 @@
       "giftAvailabilityId": "B50P6PST177D",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1266,7 +1266,7 @@
       "giftAvailabilityId": "B2W1SZ1869NP",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1290,7 +1290,7 @@
       "giftAvailabilityId": "9ZH7L2VCV05R",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1315,7 +1315,7 @@
       "giftAvailabilityId": "9WBLMP96MG06",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1340,7 +1340,7 @@
       "giftAvailabilityId": "9RCSTTVP98DL",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1365,7 +1365,7 @@
       "giftAvailabilityId": "B3TB7RG8D8X1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1390,31 +1390,7 @@
       "giftAvailabilityId": "B0L0GRTKGF3F",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9NXZ0JNC5ZPR:0010",
-      "productId": "9NXZ0JNC5ZPR",
-      "skuId": "0010",
-      "title": "Carry The Glass",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9NXZ0JNC5ZPR/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.33495.14491030974379630.6406d5da-a161-43b2-991a-352f219d4370.87dbaead-8673-4f7b-9433-d47b88813a2e?w=640&h=360&q=85",
-      "originalSalePrice": 52,
-      "originalFullPrice": 65,
-      "discount": "-20%",
-      "platform": "Xbox Series X|S",
-      "platforms": [
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "B1K8JN6Q5N3J",
-      "offerStartsAt": "2026-10-23T17:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1439,7 +1415,7 @@
       "giftAvailabilityId": "9N78RFNKW7FX",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1464,56 +1440,7 @@
       "giftAvailabilityId": "9RS59FRNDL5H",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9NVKZMVFCRLZ:0010",
-      "productId": "9NVKZMVFCRLZ",
-      "skuId": "0010",
-      "title": "Cat Pipes: More Meow (Xbox One)",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9NVKZMVFCRLZ/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.30181.14397171083272554.6dff3e2f-6253-4cca-a82d-108f3615834e.3659b137-0b53-4a81-9c1f-b1612081149b?w=640&h=360&q=85",
-      "originalSalePrice": 71.2,
-      "originalFullPrice": 89,
-      "discount": "-20%",
-      "platform": "Xbox One · Xbox Series X|S",
-      "platforms": [
-        "Xbox One",
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "9X0PGWG9S14F",
-      "offerStartsAt": "2026-10-30T15:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9NXHD7L7BBR8:0010",
-      "productId": "9NXHD7L7BBR8",
-      "skuId": "0010",
-      "title": "Cat Pipes: More Meow (Xbox Series)",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9NXHD7L7BBR8/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.30181.14429902249367781.91c7c8d3-37c0-4437-a41f-b617eca9ca07.9cd13d69-b5fc-41df-94f0-2e35c4f5a951?w=640&h=360&q=85",
-      "originalSalePrice": 71.2,
-      "originalFullPrice": 89,
-      "discount": "-20%",
-      "platform": "Xbox Series X|S",
-      "platforms": [
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "9NKZZ232P1M5",
-      "offerStartsAt": "2026-10-30T15:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1537,7 +1464,7 @@
       "giftAvailabilityId": "9QST2VHTZS06",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1562,7 +1489,7 @@
       "giftAvailabilityId": "9V8M6TDC7HBP",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1587,7 +1514,7 @@
       "giftAvailabilityId": "B1ZZ19JKV8PG",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1612,7 +1539,7 @@
       "giftAvailabilityId": "9R00S4PZWN0P",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1636,7 +1563,7 @@
       "giftAvailabilityId": "B2MHQ4MC72GG",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1660,7 +1587,7 @@
       "giftAvailabilityId": "B3M431LKK3G6",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1685,7 +1612,7 @@
       "giftAvailabilityId": "9V6G7ZFG1KQ2",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1710,7 +1637,7 @@
       "giftAvailabilityId": "9X5QKZ451MZX",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1735,7 +1662,7 @@
       "giftAvailabilityId": "B0DWNGCT12B6",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1760,7 +1687,7 @@
       "giftAvailabilityId": "9TXZ5X0BB4P1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1784,31 +1711,7 @@
       "giftAvailabilityId": "B2L19QT08HR8",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9NVN2T9D87FF:0010",
-      "productId": "9NVN2T9D87FF",
-      "skuId": "0010",
-      "title": "Corner Shop: NightShift",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9NVN2T9D87FF/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.51462.14391392336560552.9dfd2431-be3f-4afc-b8ba-5a170411a48f.8534e2c9-4e55-4919-8a91-bddc4f394ae1?w=640&h=360&q=85",
-      "originalSalePrice": 314.1,
-      "originalFullPrice": 349,
-      "discount": "-10%",
-      "platform": "Xbox Series X|S",
-      "platforms": [
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "9SH45326SCMB",
-      "offerStartsAt": "2026-10-30T21:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1832,7 +1735,7 @@
       "giftAvailabilityId": "9TKRM4T9W862",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1857,7 +1760,7 @@
       "giftAvailabilityId": "9Z1VK80WVQ6C",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1882,7 +1785,7 @@
       "giftAvailabilityId": "9P12VJGP7XVJ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1907,7 +1810,7 @@
       "giftAvailabilityId": "9P2R6PRX9ZPN",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1931,7 +1834,7 @@
       "giftAvailabilityId": "9V3H4WTQ0Q8P",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1956,7 +1859,7 @@
       "giftAvailabilityId": "B15NBPTK7Q6Z",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -1981,7 +1884,7 @@
       "giftAvailabilityId": "9V8Q00S1BW2H",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2006,7 +1909,7 @@
       "giftAvailabilityId": "B1PWM456V6K9",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2030,7 +1933,7 @@
       "giftAvailabilityId": "9R9D7JG1BNGJ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2055,7 +1958,7 @@
       "giftAvailabilityId": "B457JXFRWR4V",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2077,10 +1980,10 @@
       "market": "MX",
       "currency": "MXN",
       "giftable": true,
-      "giftAvailabilityId": "9XQH6NSJRSJ2",
+      "giftAvailabilityId": "9XFZL6M7TP2M",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2104,7 +2007,7 @@
       "giftAvailabilityId": "9VMQD9SCKN0S",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2129,7 +2032,7 @@
       "giftAvailabilityId": "9RV16CQ0HN4M",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2153,7 +2056,7 @@
       "giftAvailabilityId": "9Z7RXHMV06D5",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2178,7 +2081,7 @@
       "giftAvailabilityId": "9PZDHVK2DDZ3",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2203,7 +2106,7 @@
       "giftAvailabilityId": "9NP6TD9X1Z8M",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2228,7 +2131,7 @@
       "giftAvailabilityId": "9SV4ZHVDKRHX",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2253,7 +2156,7 @@
       "giftAvailabilityId": "9R6M4R6ZPJ3T",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2278,7 +2181,7 @@
       "giftAvailabilityId": "9Z91SF77MB46",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2303,7 +2206,7 @@
       "giftAvailabilityId": "9Z34VGRRKSRZ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2328,7 +2231,7 @@
       "giftAvailabilityId": "9Z5K716CBK1H",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2352,7 +2255,7 @@
       "giftAvailabilityId": "9WZXST605FWH",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2377,7 +2280,7 @@
       "giftAvailabilityId": "B2L7NKZC35DV",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2402,7 +2305,7 @@
       "giftAvailabilityId": "B3R5FP1DX9B7",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2426,7 +2329,7 @@
       "giftAvailabilityId": "9PH303L8STZB",
       "offerStartsAt": "2026-11-06T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2451,7 +2354,7 @@
       "giftAvailabilityId": "9N84VHFRD2B0",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2476,7 +2379,7 @@
       "giftAvailabilityId": "B0N3837T2T9G",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2501,7 +2404,7 @@
       "giftAvailabilityId": "9VDCQTSVHRW1",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2526,7 +2429,7 @@
       "giftAvailabilityId": "9SHP33G5XDPZ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2550,7 +2453,7 @@
       "giftAvailabilityId": "9XQC3VXWVZSH",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2574,7 +2477,7 @@
       "giftAvailabilityId": "9X6N7K5PHG8J",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2599,7 +2502,7 @@
       "giftAvailabilityId": "9PL76WV1P9SQ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2624,7 +2527,7 @@
       "giftAvailabilityId": "9WTQ50WV1HL3",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2648,7 +2551,7 @@
       "giftAvailabilityId": "9ZPKMFN5GQHR",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2673,7 +2576,7 @@
       "giftAvailabilityId": "9T36PWK5WZV0",
       "offerStartsAt": "2026-11-13T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2698,7 +2601,7 @@
       "giftAvailabilityId": "9XT00B0PQN1Q",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2723,7 +2626,7 @@
       "giftAvailabilityId": "B4W4VWJW9721",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2747,7 +2650,7 @@
       "giftAvailabilityId": "B28G4JMBKWJM",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2772,7 +2675,7 @@
       "giftAvailabilityId": "B2ZVMM4RVQZL",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2797,7 +2700,7 @@
       "giftAvailabilityId": "9R11TBR4MC73",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2822,7 +2725,7 @@
       "giftAvailabilityId": "9SWL50884S1J",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2847,7 +2750,7 @@
       "giftAvailabilityId": "9TFJ5GQ5LQJ2",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2872,7 +2775,7 @@
       "giftAvailabilityId": "9ZZRXQ1LNR35",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2897,7 +2800,7 @@
       "giftAvailabilityId": "B35NR4WM9N3J",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2922,7 +2825,7 @@
       "giftAvailabilityId": "9PVHN67F09NH",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2947,7 +2850,7 @@
       "giftAvailabilityId": "B1RTX7X6JGGT",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2971,7 +2874,7 @@
       "giftAvailabilityId": "9Z7T1FK0NH4C",
       "offerStartsAt": "2026-11-05T14:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -2996,7 +2899,7 @@
       "giftAvailabilityId": "B2J41TJD8X3D",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3020,7 +2923,7 @@
       "giftAvailabilityId": "9RNCS1JL6KLM",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3044,7 +2947,7 @@
       "giftAvailabilityId": "9TN31XFHF4RL",
       "offerStartsAt": "2026-11-04T08:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T07:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3068,7 +2971,7 @@
       "giftAvailabilityId": "B1S3VCDXVW78",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3092,7 +2995,7 @@
       "giftAvailabilityId": "9RPJHX5WC9V5",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3117,7 +3020,7 @@
       "giftAvailabilityId": "9TNPN81VBMP7",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3142,7 +3045,7 @@
       "giftAvailabilityId": "9P9ZJV246X87",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3167,7 +3070,7 @@
       "giftAvailabilityId": "9NCHZQQNR18L",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3192,7 +3095,7 @@
       "giftAvailabilityId": "9QH3SHS1CVXN",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3216,7 +3119,7 @@
       "giftAvailabilityId": "9SX247HX2R7P",
       "offerStartsAt": "2026-11-13T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-27T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3241,7 +3144,7 @@
       "giftAvailabilityId": "9NFCDPSLTR0R",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3265,7 +3168,7 @@
       "giftAvailabilityId": "9W04GMDW42RS",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3289,7 +3192,7 @@
       "giftAvailabilityId": "9TZQB2DB3NPG",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3313,7 +3216,7 @@
       "giftAvailabilityId": "9Z5JLQTMWW6Z",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3338,7 +3241,7 @@
       "giftAvailabilityId": "9X2Z4FM0SRV3",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3363,7 +3266,7 @@
       "giftAvailabilityId": "B0T4WV9C8WHF",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3388,7 +3291,7 @@
       "giftAvailabilityId": "9VLV56PWV4BX",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3413,7 +3316,7 @@
       "giftAvailabilityId": "B1Q2J687DZ96",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3438,7 +3341,7 @@
       "giftAvailabilityId": "B3K9LWKLKMHF",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3463,7 +3366,7 @@
       "giftAvailabilityId": "9SH077KQR805",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3488,7 +3391,7 @@
       "giftAvailabilityId": "9SLFMGJT3F40",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3512,7 +3415,7 @@
       "giftAvailabilityId": "9TBMH9SZ20PF",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3537,7 +3440,7 @@
       "giftAvailabilityId": "9ZMMPZFSQKTX",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3561,7 +3464,7 @@
       "giftAvailabilityId": "9W12SMCV2WW4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3586,7 +3489,7 @@
       "giftAvailabilityId": "9SWMN8DJWRKQ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3611,7 +3514,7 @@
       "giftAvailabilityId": "9ZWNSZ443GH4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3636,7 +3539,7 @@
       "giftAvailabilityId": "9TRKJF0TB4CM",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3661,7 +3564,7 @@
       "giftAvailabilityId": "9Q2NFKL20C33",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3686,7 +3589,7 @@
       "giftAvailabilityId": "9Z51Q0WH4LXN",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3711,7 +3614,7 @@
       "giftAvailabilityId": "9TQBLH4GMRB6",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3736,7 +3639,7 @@
       "giftAvailabilityId": "9T6T90K3B9MX",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3761,7 +3664,7 @@
       "giftAvailabilityId": "9S65HQMC95DP",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3785,7 +3688,7 @@
       "giftAvailabilityId": "9QJL1Q670TWB",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3810,7 +3713,7 @@
       "giftAvailabilityId": "9NH46BXKB42Q",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3835,7 +3738,7 @@
       "giftAvailabilityId": "9N7QGMWWR55R",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3859,7 +3762,7 @@
       "giftAvailabilityId": "B28Z6WPRWVHM",
       "offerStartsAt": "2026-11-12T09:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3884,7 +3787,7 @@
       "giftAvailabilityId": "B2B4QF4WVQQ4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3908,7 +3811,7 @@
       "giftAvailabilityId": "9QS17KTB9VW3",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3933,7 +3836,7 @@
       "giftAvailabilityId": "9NP88JW2V6TT",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3958,7 +3861,7 @@
       "giftAvailabilityId": "9TMZ8K6K34F2",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -3983,7 +3886,7 @@
       "giftAvailabilityId": "9TZFWK0T05GH",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-18T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4008,7 +3911,7 @@
       "giftAvailabilityId": "B1TB3B2ZH444",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4033,7 +3936,7 @@
       "giftAvailabilityId": "9TTZPHG4CLMT",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4057,7 +3960,7 @@
       "giftAvailabilityId": "9R2Q3SXNPHD8",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4081,7 +3984,7 @@
       "giftAvailabilityId": "9NK5TLTKG798",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4106,7 +4009,7 @@
       "giftAvailabilityId": "9W3J32PWR9RS",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4131,7 +4034,7 @@
       "giftAvailabilityId": "9ZL86FQ0XQRW",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4155,7 +4058,7 @@
       "giftAvailabilityId": "9ZQHX805D384",
       "offerStartsAt": "2026-11-13T21:00:00.0000000Z",
       "offerEndsAt": "2026-11-28T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4179,7 +4082,7 @@
       "giftAvailabilityId": "B4GV7WRTTMLQ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4203,7 +4106,7 @@
       "giftAvailabilityId": "B2R4KX931W73",
       "offerStartsAt": "2026-11-09T17:00:00.0000000Z",
       "offerEndsAt": "2026-11-23T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4228,7 +4131,7 @@
       "giftAvailabilityId": "9W62V3SSK6T7",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4253,7 +4156,7 @@
       "giftAvailabilityId": "9XQRZRGZ1753",
       "offerStartsAt": "2026-11-11T22:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T23:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4278,7 +4181,7 @@
       "giftAvailabilityId": "9V0SLLC4F3TB",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4302,7 +4205,7 @@
       "giftAvailabilityId": "9PXM6GD30Q2D",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4326,7 +4229,7 @@
       "giftAvailabilityId": "9W0GSQG1R2DF",
       "offerStartsAt": "2026-11-06T21:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4350,7 +4253,7 @@
       "giftAvailabilityId": "9V8G11LDXR01",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4374,7 +4277,7 @@
       "giftAvailabilityId": "B4SZZB8LPC1M",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4399,7 +4302,7 @@
       "giftAvailabilityId": "9Q3H6NMNHS37",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4424,7 +4327,7 @@
       "giftAvailabilityId": "9P03B2Z24263",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4448,7 +4351,7 @@
       "giftAvailabilityId": "B153SWFHF65J",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4472,7 +4375,7 @@
       "giftAvailabilityId": "B2CX8KCKJ3ZS",
       "offerStartsAt": "2026-11-04T22:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4496,7 +4399,7 @@
       "giftAvailabilityId": "B214CXVZ5C1Z",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4521,7 +4424,7 @@
       "giftAvailabilityId": "B2J5QKL2T1GD",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4545,7 +4448,7 @@
       "giftAvailabilityId": "B0KPQ8405RC8",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4570,7 +4473,7 @@
       "giftAvailabilityId": "9SXRQZ0PD5SN",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4595,7 +4498,7 @@
       "giftAvailabilityId": "9PZTFBP1XD5Q",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4620,7 +4523,7 @@
       "giftAvailabilityId": "B51TNF83R9DX",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4645,7 +4548,7 @@
       "giftAvailabilityId": "B147PW55LMPG",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4670,7 +4573,7 @@
       "giftAvailabilityId": "B4W73HV97MJR",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4695,7 +4598,7 @@
       "giftAvailabilityId": "B0F9F61MM4TL",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4720,7 +4623,7 @@
       "giftAvailabilityId": "9X4MMDDN5XZG",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4744,31 +4647,7 @@
       "giftAvailabilityId": "9RLF7K0CSR4L",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9NPB1H2J407V:0010",
-      "productId": "9NPB1H2J407V",
-      "skuId": "0010",
-      "title": "Love Love Mystery Club",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9NPB1H2J407V/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.32383.13722340294820779.3f738e23-702f-4efc-90a8-f98ad6e21921.7dc2d6da-c612-4ba3-a349-2f8cc2848055?w=640&h=360&q=85",
-      "originalSalePrice": 279.2,
-      "originalFullPrice": 349,
-      "discount": "-20%",
-      "platform": "Xbox Series X|S",
-      "platforms": [
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "9VW3S9V5494B",
-      "offerStartsAt": "2026-10-30T16:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4793,7 +4672,7 @@
       "giftAvailabilityId": "9VXSTBW5T025",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4817,7 +4696,7 @@
       "giftAvailabilityId": "B1TQ3BG7GHV9",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4842,7 +4721,7 @@
       "giftAvailabilityId": "9SGZBDW8WPJ4",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4867,7 +4746,7 @@
       "giftAvailabilityId": "9T0RZHWGDN0H",
       "offerStartsAt": "2026-11-13T05:00:00.0000000Z",
       "offerEndsAt": "2026-11-28T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4892,7 +4771,7 @@
       "giftAvailabilityId": "9NBFPZVGSMP0",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4917,7 +4796,7 @@
       "giftAvailabilityId": "9W43M5QNJ2XP",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4942,7 +4821,7 @@
       "giftAvailabilityId": "9VS9KPQQ1R9T",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4966,7 +4845,7 @@
       "giftAvailabilityId": "9PLV9SHLRXVP",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -4991,7 +4870,7 @@
       "giftAvailabilityId": "9T5KL5M1WDPD",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5015,7 +4894,7 @@
       "giftAvailabilityId": "9QVG02GTN819",
       "offerStartsAt": "2026-11-11T08:00:00.0000000Z",
       "offerEndsAt": "2026-11-24T07:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5040,7 +4919,7 @@
       "giftAvailabilityId": "B2F0B30ZV3SD",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5065,7 +4944,7 @@
       "giftAvailabilityId": "B3XW71FLTR21",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5090,7 +4969,7 @@
       "giftAvailabilityId": "B3PVMQXQX51D",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5115,7 +4994,7 @@
       "giftAvailabilityId": "9S18LPVTMV9H",
       "offerStartsAt": "2026-11-13T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-28T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5140,7 +5019,7 @@
       "giftAvailabilityId": "9XHJN2XRFRZV",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5165,7 +5044,7 @@
       "giftAvailabilityId": "9Z7XPBG3FFZR",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5190,7 +5069,7 @@
       "giftAvailabilityId": "9RB2JPDDXQTD",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5215,7 +5094,7 @@
       "giftAvailabilityId": "9TKCHTK9F5N7",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5239,7 +5118,7 @@
       "giftAvailabilityId": "9S5SWDSQQSC7",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5264,7 +5143,7 @@
       "giftAvailabilityId": "9ZRCX3PGLNLH",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5288,7 +5167,7 @@
       "giftAvailabilityId": "9R5QVQV16HFD",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5313,7 +5192,7 @@
       "giftAvailabilityId": "9XHTKWNL8M7B",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5338,7 +5217,7 @@
       "giftAvailabilityId": "B0ZRPJ38SCR9",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5362,7 +5241,7 @@
       "giftAvailabilityId": "B0TTLD4ZFZHF",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5387,7 +5266,7 @@
       "giftAvailabilityId": "9XW2C6KQ0V07",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5411,7 +5290,7 @@
       "giftAvailabilityId": "9SKNFD56W3D8",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5436,7 +5315,7 @@
       "giftAvailabilityId": "B3ZRTL5S9NDR",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5460,7 +5339,7 @@
       "giftAvailabilityId": "B0JSM9450H0P",
       "offerStartsAt": "2026-11-14T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-29T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5485,7 +5364,7 @@
       "giftAvailabilityId": "B2MCHDG68G65",
       "offerStartsAt": "2026-11-14T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-29T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5510,7 +5389,7 @@
       "giftAvailabilityId": "B2Q58XV673N9",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5535,7 +5414,7 @@
       "giftAvailabilityId": "B4DL0WWVHXJB",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5560,7 +5439,7 @@
       "giftAvailabilityId": "B113BBX86CN2",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5585,7 +5464,7 @@
       "giftAvailabilityId": "9TDBQV5F23Q5",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5610,7 +5489,7 @@
       "giftAvailabilityId": "9T50BBSK44WQ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5635,7 +5514,7 @@
       "giftAvailabilityId": "9R9H077XQCM5",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5660,7 +5539,7 @@
       "giftAvailabilityId": "9QSVFQXK03KF",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5685,7 +5564,7 @@
       "giftAvailabilityId": "9N199NSTRGD4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5710,7 +5589,7 @@
       "giftAvailabilityId": "B1MLJPDQW0F6",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5735,7 +5614,7 @@
       "giftAvailabilityId": "B1DPPQ3C7DPF",
       "offerStartsAt": "2026-11-10T15:00:00.0000000Z",
       "offerEndsAt": "2026-11-25T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5760,7 +5639,7 @@
       "giftAvailabilityId": "B28LCJHQ1F45",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5785,7 +5664,7 @@
       "giftAvailabilityId": "B0KMCSKFWXSS",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5810,7 +5689,7 @@
       "giftAvailabilityId": "B2C5TKL1C26C",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5834,7 +5713,7 @@
       "giftAvailabilityId": "B0L1NL15NTN3",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5859,7 +5738,7 @@
       "giftAvailabilityId": "B2VKLQTJJJH5",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5884,7 +5763,7 @@
       "giftAvailabilityId": "9WR3Z5W3TCC1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5909,7 +5788,7 @@
       "giftAvailabilityId": "B4788ZRT21LC",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5933,7 +5812,7 @@
       "giftAvailabilityId": "9ZNMSHMCCXS8",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-18T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -5957,32 +5836,7 @@
       "giftAvailabilityId": "9RLJ49ZPKQCP",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9P74WL8DM66V:0010",
-      "productId": "9P74WL8DM66V",
-      "skuId": "0010",
-      "title": "Pinballoid Crush",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9P74WL8DM66V/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.2776.14606737467543529.986855e7-f6be-4715-98aa-383ead8a4089.84d65462-0e8f-4f0a-8671-c3fb1f464241?w=640&h=360&q=85",
-      "originalSalePrice": 167.2,
-      "originalFullPrice": 209,
-      "discount": "-20%",
-      "platform": "Xbox One · Xbox Series X|S",
-      "platforms": [
-        "Xbox One",
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "9PQ1FQLR67SK",
-      "offerStartsAt": "2026-10-30T00:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6007,7 +5861,7 @@
       "giftAvailabilityId": "9PZ9JVB9NT88",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6032,7 +5886,7 @@
       "giftAvailabilityId": "9ZBHLGCT175V",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6057,7 +5911,7 @@
       "giftAvailabilityId": "9ZX6190800LH",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6081,7 +5935,7 @@
       "giftAvailabilityId": "9SNGS6GWNXXB",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6106,7 +5960,7 @@
       "giftAvailabilityId": "9XQM6BZMW1D1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6130,7 +5984,7 @@
       "giftAvailabilityId": "9PXJGKXR7WTQ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6155,7 +6009,7 @@
       "giftAvailabilityId": "B3CK0TCLV36N",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6180,7 +6034,7 @@
       "giftAvailabilityId": "B40LDN92LHSW",
       "offerStartsAt": "2026-11-10T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6205,7 +6059,7 @@
       "giftAvailabilityId": "9MV50DPTMNTS",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6230,7 +6084,7 @@
       "giftAvailabilityId": "9ZJT9RBGQVW1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6255,7 +6109,7 @@
       "giftAvailabilityId": "9WZLT229BZKK",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6280,7 +6134,7 @@
       "giftAvailabilityId": "9W7RZCR6MP9M",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6305,7 +6159,7 @@
       "giftAvailabilityId": "9PM1BMSQ2GV9",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6330,7 +6184,7 @@
       "giftAvailabilityId": "9ZWC28BK9GJF",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6354,7 +6208,7 @@
       "giftAvailabilityId": "9SCP7JNH08WM",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6378,7 +6232,7 @@
       "giftAvailabilityId": "B50P5CGGH8TF",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6402,7 +6256,7 @@
       "giftAvailabilityId": "B35V96ZPX289",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6427,7 +6281,7 @@
       "giftAvailabilityId": "B1RKSLMT94FV",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6452,7 +6306,7 @@
       "giftAvailabilityId": "9W7BZ9268M8T",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-25T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6477,7 +6331,7 @@
       "giftAvailabilityId": "B0FRT2FWKS8R",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6502,7 +6356,7 @@
       "giftAvailabilityId": "9SZD89ZH849J",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6527,7 +6381,7 @@
       "giftAvailabilityId": "B3V38V791GVF",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6552,7 +6406,7 @@
       "giftAvailabilityId": "B04QQFL439LT",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6576,7 +6430,7 @@
       "giftAvailabilityId": "9ZB8ZWC7NWT7",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6601,7 +6455,7 @@
       "giftAvailabilityId": "9XBDL0TLH2PZ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6626,7 +6480,7 @@
       "giftAvailabilityId": "B4QG5NFV73PZ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6651,7 +6505,7 @@
       "giftAvailabilityId": "9VG8FMRPC0NK",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6675,7 +6529,7 @@
       "giftAvailabilityId": "9TTRPJH2R1RD",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6700,7 +6554,7 @@
       "giftAvailabilityId": "B0Q8Z7RFP98F",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6725,7 +6579,7 @@
       "giftAvailabilityId": "9PWZXDBB31GM",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6749,7 +6603,7 @@
       "giftAvailabilityId": "9Z5TZXJ8CT7X",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6774,7 +6628,7 @@
       "giftAvailabilityId": "9MZ7VGNHSPLJ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6799,7 +6653,7 @@
       "giftAvailabilityId": "B0C0VK7DV1ZS",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6823,7 +6677,7 @@
       "giftAvailabilityId": "9S0JMBJTDCZN",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6848,7 +6702,7 @@
       "giftAvailabilityId": "B4LKBL5M2MFF",
       "offerStartsAt": "2026-11-04T08:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T07:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6872,7 +6726,7 @@
       "giftAvailabilityId": "9WG6V6L38LS1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6897,7 +6751,7 @@
       "giftAvailabilityId": "9WL33RZJJ5KQ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6922,7 +6776,7 @@
       "giftAvailabilityId": "B4P01S53JLLZ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6947,7 +6801,7 @@
       "giftAvailabilityId": "B370HH4NT8V6",
       "offerStartsAt": "2026-11-06T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6972,7 +6826,7 @@
       "giftAvailabilityId": "B30T91BJP2SD",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -6996,7 +6850,7 @@
       "giftAvailabilityId": "9STD68CCDGLW",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7020,7 +6874,7 @@
       "giftAvailabilityId": "9QTMFM54G6CB",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7045,7 +6899,7 @@
       "giftAvailabilityId": "9P7KZZVVXL2Z",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7069,7 +6923,7 @@
       "giftAvailabilityId": "9SB5DJ631ZXL",
       "offerStartsAt": "2026-11-10T17:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7093,7 +6947,7 @@
       "giftAvailabilityId": "9ZWV0K2Z1HM1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7118,7 +6972,7 @@
       "giftAvailabilityId": "9RQP8CJ4R715",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7142,7 +6996,7 @@
       "giftAvailabilityId": "9VXL51WS4SRG",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7167,7 +7021,7 @@
       "giftAvailabilityId": "B50H4QWRH6NX",
       "offerStartsAt": "2026-11-13T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7192,7 +7046,7 @@
       "giftAvailabilityId": "9R6MJ60ZHP9K",
       "offerStartsAt": "2026-11-11T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-26T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7217,7 +7071,7 @@
       "giftAvailabilityId": "9Q86SRK4QGBT",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7242,7 +7096,7 @@
       "giftAvailabilityId": "B38ZBGBSZQCX",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7267,7 +7121,7 @@
       "giftAvailabilityId": "9XWG9D8PMJPN",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7291,7 +7145,7 @@
       "giftAvailabilityId": "9RKTDFGGL4K6",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7316,7 +7170,7 @@
       "giftAvailabilityId": "B1R5BJRZ2FX4",
       "offerStartsAt": "2017-12-12T10:00:00.0000000Z",
       "offerEndsAt": "2099-12-30T23:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7340,7 +7194,7 @@
       "giftAvailabilityId": "B037WLXCZQ3N",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7365,7 +7219,7 @@
       "giftAvailabilityId": "9SD1CM08JMPS",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7390,7 +7244,7 @@
       "giftAvailabilityId": "9PRLW8ZGB77N",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7415,7 +7269,7 @@
       "giftAvailabilityId": "9PNDTFFHSCH4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7440,7 +7294,7 @@
       "giftAvailabilityId": "B42ZX731HCZ8",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7464,7 +7318,7 @@
       "giftAvailabilityId": "B1LT7P400TJR",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7489,7 +7343,7 @@
       "giftAvailabilityId": "B1RFZ8CC34WT",
       "offerStartsAt": "2026-10-28T21:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7514,7 +7368,7 @@
       "giftAvailabilityId": "9N6LV5L70GX3",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7538,7 +7392,7 @@
       "giftAvailabilityId": "9NF4L0NCLNQJ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7563,7 +7417,7 @@
       "giftAvailabilityId": "9P3X8CWFF0C1",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7588,7 +7442,7 @@
       "giftAvailabilityId": "B4J732Z1GRD4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7613,7 +7467,7 @@
       "giftAvailabilityId": "9Z7H3S55FL3Z",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7638,7 +7492,7 @@
       "giftAvailabilityId": "9NRK9LF8N0HS",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7662,7 +7516,7 @@
       "giftAvailabilityId": "B3FZHC8WZR1M",
       "offerStartsAt": "2026-11-12T14:00:00.0000000Z",
       "offerEndsAt": "2026-11-27T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7687,7 +7541,7 @@
       "giftAvailabilityId": "9RHV113Q3601",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7712,7 +7566,7 @@
       "giftAvailabilityId": "9SLK1HX6MB23",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7736,7 +7590,7 @@
       "giftAvailabilityId": "9WDXSQ40MF1S",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7761,7 +7615,7 @@
       "giftAvailabilityId": "B0PPHT7481K5",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7786,7 +7640,7 @@
       "giftAvailabilityId": "9SFLZXBLSVGS",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7811,7 +7665,7 @@
       "giftAvailabilityId": "9VL8SP5K2BCF",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7836,7 +7690,7 @@
       "giftAvailabilityId": "9QNRW4XXL7BD",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7861,7 +7715,7 @@
       "giftAvailabilityId": "B0FTFS7K7VCW",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7886,7 +7740,7 @@
       "giftAvailabilityId": "9XF93CDVNM8K",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7911,7 +7765,7 @@
       "giftAvailabilityId": "B19DKZ57VTM1",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7936,7 +7790,7 @@
       "giftAvailabilityId": "9R49L8RHM4D2",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7961,7 +7815,7 @@
       "giftAvailabilityId": "9ZX6T1ST5868",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -7986,7 +7840,7 @@
       "giftAvailabilityId": "B34K42R86LWW",
       "offerStartsAt": "2026-11-11T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8011,7 +7865,7 @@
       "giftAvailabilityId": "9W2G9FMWK2RM",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8036,7 +7890,7 @@
       "giftAvailabilityId": "9Z0RGTF01SKH",
       "offerStartsAt": "2026-10-29T10:00:00.0000000Z",
       "offerEndsAt": "2099-04-29T23:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8061,7 +7915,7 @@
       "giftAvailabilityId": "9VVPVCGCK17C",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8086,7 +7940,7 @@
       "giftAvailabilityId": "B2KSNCVVPR1Q",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8111,7 +7965,7 @@
       "giftAvailabilityId": "9X2NKZ240WPW",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8136,7 +7990,7 @@
       "giftAvailabilityId": "B0X074P8GLNZ",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8160,32 +8014,7 @@
       "giftAvailabilityId": "9SPRJGLC58K4",
       "offerStartsAt": "2026-11-04T08:00:00.0000000Z",
       "offerEndsAt": "2026-11-21T07:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
-      "source": "Microsoft Display Catalog"
-    },
-    {
-      "id": "9NVDVTZHMG0S:0010",
-      "productId": "9NVDVTZHMG0S",
-      "skuId": "0010",
-      "title": "The Night of the Exorcism",
-      "url": "https://www.xbox.com/es-MX/games/store/-/9NVDVTZHMG0S/0010",
-      "image": "https://store-images.s-microsoft.com/image/apps.63492.14396150047698095.e25d02ff-c3ad-4e3b-9e4d-43860b298a10.41a1dd8a-4b55-45ce-bffc-a31f77976b0e?w=640&h=360&q=85",
-      "originalSalePrice": 98.4,
-      "originalFullPrice": 123,
-      "discount": "-20%",
-      "platform": "Xbox One · Xbox Series X|S",
-      "platforms": [
-        "Xbox One",
-        "Xbox Series X|S"
-      ],
-      "kind": "game",
-      "market": "MX",
-      "currency": "MXN",
-      "giftable": true,
-      "giftAvailabilityId": "B2T00N32VFB3",
-      "offerStartsAt": "2026-10-30T00:00:00.0000000Z",
-      "offerEndsAt": "2026-11-14T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8210,7 +8039,7 @@
       "giftAvailabilityId": "9RXCG159ZM1Q",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8234,7 +8063,7 @@
       "giftAvailabilityId": "9QZPBS28425P",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8258,7 +8087,7 @@
       "giftAvailabilityId": "9QSMR4219GNX",
       "offerStartsAt": "2026-11-13T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8282,7 +8111,7 @@
       "giftAvailabilityId": "B422KSC4CV2Q",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8306,7 +8135,7 @@
       "giftAvailabilityId": "B140H2SV32RS",
       "offerStartsAt": "2026-11-11T14:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8330,7 +8159,7 @@
       "giftAvailabilityId": "9TD69TRTFT17",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8355,7 +8184,7 @@
       "giftAvailabilityId": "9THM4XRN8JK2",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8380,7 +8209,7 @@
       "giftAvailabilityId": "9PKVTCPL51QL",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8404,7 +8233,7 @@
       "giftAvailabilityId": "9WJ0LG41ZFGJ",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8428,7 +8257,7 @@
       "giftAvailabilityId": "9PBPW8F2HV7W",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8453,7 +8282,7 @@
       "giftAvailabilityId": "9RL4FWQL58DP",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8477,7 +8306,7 @@
       "giftAvailabilityId": "9VT0L00R4K6T",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8501,7 +8330,7 @@
       "giftAvailabilityId": "9T9C3JTCGFJD",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8526,7 +8355,7 @@
       "giftAvailabilityId": "9XJ10HR1RQ21",
       "offerStartsAt": "2026-11-12T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8551,7 +8380,7 @@
       "giftAvailabilityId": "9XPD9VZMD150",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-18T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8576,7 +8405,7 @@
       "giftAvailabilityId": "9NSMWWDWNWTZ",
       "offerStartsAt": "2026-11-12T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-18T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8601,7 +8430,7 @@
       "giftAvailabilityId": "B4C9FHD9KLV3",
       "offerStartsAt": "2018-02-20T10:00:00.0000000Z",
       "offerEndsAt": "9998-12-30T00:00:00.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8625,7 +8454,7 @@
       "giftAvailabilityId": "9P9Q1V1H1KZZ",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8650,7 +8479,7 @@
       "giftAvailabilityId": "9MWRTS66GTT7",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8671,10 +8500,10 @@
       "market": "MX",
       "currency": "MXN",
       "giftable": true,
-      "giftAvailabilityId": "B2G9MG848872",
+      "giftAvailabilityId": "9XWN65VRQ2ZX",
       "offerStartsAt": "2026-11-04T18:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8699,7 +8528,7 @@
       "giftAvailabilityId": "9T3FN56TC2S9",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8723,7 +8552,7 @@
       "giftAvailabilityId": "9S90V1VSHP3N",
       "offerStartsAt": "2026-11-10T10:00:00.0000000Z",
       "offerEndsAt": "2026-11-18T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8747,7 +8576,7 @@
       "giftAvailabilityId": "9ZD342RPGJ8Z",
       "offerStartsAt": "2026-11-02T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-15T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8772,7 +8601,7 @@
       "giftAvailabilityId": "B4ZW7HVLTBQV",
       "offerStartsAt": "2026-11-04T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-16T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8797,7 +8626,7 @@
       "giftAvailabilityId": "9P05TXL6WHCN",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8822,7 +8651,7 @@
       "giftAvailabilityId": "B47JKNRJHC70",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8847,7 +8676,7 @@
       "giftAvailabilityId": "9Q6F846DVB58",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8872,7 +8701,7 @@
       "giftAvailabilityId": "9WR2F3GQD94N",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8897,7 +8726,7 @@
       "giftAvailabilityId": "9TVQ6S05694W",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-19T19:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8922,7 +8751,7 @@
       "giftAvailabilityId": "9TP71D77LMV4",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-20T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8947,7 +8776,7 @@
       "giftAvailabilityId": "9P41VZRN9K31",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8972,7 +8801,7 @@
       "giftAvailabilityId": "9W0SCC99V3HW",
       "offerStartsAt": "2026-11-05T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     },
     {
@@ -8996,7 +8825,7 @@
       "giftAvailabilityId": "9TL0L0RSVK26",
       "offerStartsAt": "2026-11-10T00:00:00.0000000Z",
       "offerEndsAt": "2026-11-17T09:59:59.0000000Z",
-      "verifiedAt": "2026-11-14T06:21:01.270Z",
+      "verifiedAt": "2026-11-14T17:59:43.547Z",
       "source": "Microsoft Display Catalog"
     }
   ]
